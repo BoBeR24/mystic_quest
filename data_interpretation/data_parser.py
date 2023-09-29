@@ -32,5 +32,5 @@ class DataParser:
 
 
 # To print all generated dictionaries uncomment this and specify your path to the file you want to parse:
-path = "C:\\PythonWorkspace\\DatabasesPY\\mystic_quest\\generated_entities.txt"
-print(*DataParser.parse_file_to_dict(path), sep="\n")
+# path = "C:\\PythonWorkspace\\DatabasesPY\\mystic_quest\\generated_entities.txt"
+# print(*DataParser.parse_file_to_dict(path), sep="\n")
