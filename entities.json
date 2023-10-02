@@ -1,86 +1,18 @@
 {
     "entities": [
         {
-            "name": "questions",
-            "type": "dialogue",
+            "name": "player",
+            "type": "player",
             "fields": [
                 {
-                    "name": "id",
-                    "datatype": "int",
-                    "type": "primary_key"
-                },
-                {
-                    "name": "content",
-                    "datatype": "string",
-                    "value_source": "dialogues"
-                },
-                {
-                    "name": "choice_options",
-                    "datatype": "int"
-                },
-                {
-                    "name": "emotion",
-                    "datatype": "int"
-                }
-            ]
-        },
-        {
-            "name": "GuildName",
-            "type": "guild",
-            "fields": [
-                {
-                    "name": "id",
+                    "name": "player_id",
                     "datatype": "int",
                     "type": "primary_key"
                 },
                 {
                     "name": "name",
                     "datatype": "string",
-                    "value_source": "guild_names"
-                },
-                {
-                    "name": "description",
-                    "datatype": "string",
-                    "value_source": "guild_types"
-                },
-                {
-                    "name": "leader",
-                    "datatype": "string",
                     "value_source": "first_names"
-                },
-                {
-                    "name": "members",
-                    "datatype": "int"
-                },
-                {
-                    "name": "founded_year",
-                    "datatype": "int"
-                }
-            ]
-        },
-        {
-            "name": "Character",
-            "type": "player",
-            "fields": [
-                {
-                    "name": "id",
-                    "datatype": "int",
-                    "type": "primary_key"
-                },
-                {
-                    "name": "first_name",
-                    "datatype": "string",
-                    "value_source": "first_names"
-                },
-                {
-                    "name": "firstname",
-                    "datatype": "string",
-                    "value_source": "last_names"
-                },
-                {
-                    "name": "race",
-                    "datatype": "string",
-                    "value_source": "race_names"
                 },
                 {
                     "name": "class",
@@ -88,34 +20,127 @@
                     "value_source": "class_names"
                 },
                 {
-                    "name": "guild",
+                    "name": "race",
                     "datatype": "string",
-                    "value_source": "guild_names"
+                    "value_source": "race_names"
                 },
                 {
-                    "name": "last_login",
-                    "datatype": "datetime"
+                    "name": "health",
+                    "datatype": "int"
+                },
+                {
+                    "name": "experience",
+                    "datatype": "int"
+                },
+                {
+                    "name": "starting_region",
+                    "datatype": "string",
+                    "value_source": "kingdom_names"
+                },
+                {
+                    "name": "guild_id",
+                    "datatype": "int"
                 }
             ]
         },
         {
-            "name": "Item",
-            "type": "item",
+            "name": "Event",
+            "type": "event",
             "fields": [
                 {
-                    "name": "id",
+                    "name": "event_id",
                     "datatype": "int",
                     "type": "primary_key"
                 },
                 {
-                    "name": "item_name",
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "event_names"
+                },
+                {
+                    "name": "event_time",
+                    "datatype": "int"
+                }
+            ]
+        },
+        {
+            "name": "items",
+            "type": "item",
+            "fields": [
+                {
+                    "name": "item_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                                {
+                    "name": "type",
+                    "datatype": "string",
+                    "value_source": "item_types"
+                },
+                {
+                    "name": "name",
                     "datatype": "string",
                     "value_source": "item_names"
                 },
                 {
-                    "name": "item_type",
+                    "name": "description",
+                    "datatype": "string"
+                },
+                {
+                    "name": "cost",
+                    "datatype": "int"
+                }
+            ]
+        },
+        {
+            "name": "npcs",
+            "type": "npc",
+            "fields": [
+                {
+                    "name": "npc_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                                {
+                    "name": "name",
                     "datatype": "string",
-                    "value_source": "item_types"
+                    "value_source": "first_names"
+                },
+                {
+                    "name": "role",
+                    "datatype": "string",
+                    "value_source": "npc_types"
+                },
+                {
+                    "name": "region",
+                    "datatype": "string"
+                },
+                {
+                    "name": "is_fightable",
+                    "datatype": "boolean"
+                },
+                {
+                    "name": "description",
+                    "datatype": "string"
+                }
+            ]
+        },
+        {
+            "name": "fightable_characters",
+            "type": "npc",
+            "fields": [
+                {
+                    "name": "npc_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "health",
+                    "datatype": "int"
+                },
+                {
+                    "name": "reward_experience",
+                    "datatype": "int"
                 }
             ]
         },
@@ -149,107 +174,76 @@
             ]
         },
         {
-            "name": "Team",
+            "name": "teams",
             "type": "team",
             "fields": [
                 {
-                    "name": "id",
+                    "name": "team_id",
                     "datatype": "int",
                     "type": "primary_key"
                 },
                 {
-                    "name": "team_name",
+                    "name": "name",
                     "datatype": "string",
                     "value_source": "team_names"
                 },
                 {
-                    "name": "kingdom",
-                    "datatype": "string",
-                    "value_source": "kingdom_names"
-                },
-                {
-                    "name": "n_members",
+                    "name": "members_amount",
                     "datatype": "int"
                 }
             ]
         },
         {
-            "name": "Event",
-            "type": "event",
+            "name": "guilds",
+            "type": "guild",
             "fields": [
                 {
-                    "name": "id",
+                    "name": "guild_id",
                     "datatype": "int",
                     "type": "primary_key"
                 },
                 {
-                    "name": "event_name",
+                    "name": "type",
                     "datatype": "string",
-                    "value_source": "event_names"
+                    "value_source": "guild_types"
                 },
                 {
-                    "name": "event_time",
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "guild_names"
+                },
+                {
+                    "name": "description",
+                    "datatype": "string"
+                }
+            ]
+        },
+        {
+            "name": "dialogues",
+            "type": "dialogue",
+            "fields": [
+                {
+                    "name": "dialogue_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "npc_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "contents",
+                    "datatype": "string",
+                    "value_source": "dialogues"
+                },
+                {
+                    "name": "choice_options",
                     "datatype": "int"
-                }
-            ]
-        },
-        {
-            "name": "NPC",
-            "type": "npc",
-            "fields": [
-                {
-                    "name": "id",
-                    "datatype": "int",
-                    "type": "primary_key"
                 },
                 {
-                    "name": "npc_type",
-                    "datatype": "string",
-                    "value_source": "npc_types"
-                },
-                {
-                    "name": "first_name",
-                    "datatype": "string",
-                    "value_source": "first_names"
-                },
-                {
-                    "name": "last_name",
-                    "datatype": "string",
-                    "value_source": "last_names"
-                },
-                {
-                    "name": "location",
-                    "datatype": "float"
-                }
-            ]
-        },
-        {
-            "name": "Vendors",
-            "type": "npc",
-            "fields": [
-                {
-                    "name": "id",
-                    "datatype": "int",
-                    "type": "primary_key"
-                },
-                {
-                    "name": "npc_type",
-                    "datatype": "string",
-                    "value_source": "npc_types"
-                },
-                {
-                    "name": "first_name",
-                    "datatype": "string",
-                    "value_source": "first_names"
-                },
-                {
-                    "name": "last_name",
-                    "datatype": "string",
-                    "value_source": "last_names"
-                },
-                {
-                    "name": "location",
-                    "datatype": "float"
+                    "name": "emotion",
+                    "datatype": "int"
                 }
             ]
         }
