@@ -1,0 +1,289 @@
+{
+    "entities": [
+        {
+            "name": "players",
+            "type": "player",
+            "fields": [
+                {
+                    "name": "player_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "first_names"
+                },
+                {
+                    "name": "class",
+                    "datatype": "string",
+                    "value_source": "class_names"
+                },
+                {
+                    "name": "race",
+                    "datatype": "string",
+                    "value_source": "race_names"
+                },
+                {
+                    "name": "health",
+                    "datatype": "int"
+                },
+                {
+                    "name": "experience",
+                    "datatype": "int"
+                },
+                {
+                    "name": "starting_region",
+                    "datatype": "string",
+                    "value_source": "kingdom_names"
+                }
+            ]
+        },
+        {
+            "name": "events",
+            "type": "event",
+            "fields": [
+                {
+                    "name": "event_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "event_names"
+                },
+                {
+                    "name": "event_time",
+                    "datatype": "int"
+                }
+            ]
+        },
+        {
+            "name": "items",
+            "type": "item",
+            "fields": [
+                {
+                    "name": "item_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                                {
+                    "name": "type",
+                    "datatype": "string",
+                    "value_source": "item_types"
+                },
+                {
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "item_names"
+                },
+                {
+                    "name": "description",
+                    "datatype": "string"
+                },
+                {
+                    "name": "cost",
+                    "datatype": "int"
+                }
+            ]
+        },
+        {
+            "name": "npcs",
+            "type": "npc",
+            "fields": [
+                {
+                    "name": "npc_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                                {
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "first_names"
+                },
+                {
+                    "name": "role",
+                    "datatype": "string",
+                    "value_source": "npc_types"
+                },
+                {
+                    "name": "region_id",
+                    "datatype": "int"
+                },
+                {
+                    "name": "is_fightable",
+                    "datatype": "boolean"
+                },
+                {
+                    "name": "description",
+                    "datatype": "string"
+                }
+            ]
+        },
+        {
+            "name": "fightable_characters",
+            "type": "npc",
+            "fields": [
+                {
+                    "name": "npc_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "health",
+                    "datatype": "int"
+                },
+                {
+                    "name": "reward_experience",
+                    "datatype": "int"
+                }
+            ]
+        },
+        {
+            "name": "Enemy",
+            "type": "enemy",
+            "fields": [
+                {
+                    "name": "id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "enemy_name",
+                    "datatype": "string",
+                    "value_source": "enemy_names"
+                },
+                {
+                    "name": "enemy_type",
+                    "datatype": "string",
+                    "value_source": "enemy_types"
+                },
+                {
+                    "name": "hitpoints",
+                    "datatype": "int"
+                },
+                {
+                    "name": "warcry",
+                    "datatype": "string"
+                }
+            ]
+        },
+        {
+            "name": "teams",
+            "type": "team",
+            "fields": [
+                {
+                    "name": "team_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "team_names"
+                },
+                {
+                    "name": "members_amount",
+                    "datatype": "int"
+                }
+            ]
+        },
+        {
+            "name": "guilds",
+            "type": "guild",
+            "fields": [
+                {
+                    "name": "guild_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "type",
+                    "datatype": "string",
+                    "value_source": "guild_types"
+                },
+                {
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "guild_names"
+                },
+                {
+                    "name": "description",
+                    "datatype": "string"
+                }
+            ]
+        },
+        {
+            "name": "dialogues",
+            "type": "dialogue",
+            "fields": [
+                {
+                    "name": "dialogue_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "npc_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "contents",
+                    "datatype": "string",
+                    "value_source": "dialogues"
+                },
+                {
+                    "name": "choice_options",
+                    "datatype": "int"
+                },
+                {
+                    "name": "emotion",
+                    "datatype": "int"
+                }
+            ]
+        },
+        {
+            "name": "classes",
+            "type": "class",
+            "fields": [
+                {
+                    "name": "class_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "class_name",
+                    "datatype": "string",
+                    "value_source": "class_names"
+                },
+                {
+                    "name": "description",
+                    "datatype": "string",
+                    "value_source": "class_descriptions"
+                }
+            ]
+        },
+        {
+            "name": "races",
+            "type": "race",
+            "fields": [
+                {
+                    "name": "race_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "race_names"
+                },
+                {
+                    "name": "description",
+                    "datatype": "string",
+                    "value_source": "race_descriptions"
+                }
+            ]
+        }
+    ]
+}

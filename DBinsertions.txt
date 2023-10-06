@@ -1,0 +1,41 @@
+INSERT INTO quests (quest_id, region_id, quest_name, description, reward_experience)
+VALUES
+    (1, 3, 'The Quest for the Lost Relic', 'Embark on a perilous journey to find the ancient relic hidden deep within the enchanted forest.', 500),
+    (2, 1, "The Dragon's Lair", 'Slay the fearsome dragon that terrorizes the kingdom and claim its hoard of treasures.', 1000),
+    (3, 3, "The Witch's Curse", 'Break the curse cast by a wicked witch and restore peace to the cursed village.', 750),
+    (4, 2, "The Wizard's Tower", 'Ascend the mystical tower of the great wizard to learn the secrets of arcane magic.', 800),
+    (5, 6, 'The Goblin Raid', 'Defend the village from a relentless goblin raid and earn the gratitude of its inhabitants.', 600);
+
+
+INSERT INTO poi (poi_id, region_id, kingdom_id, name, gives_quest)
+VALUES 
+    (1, 1, 1, 'Whispering Grove', 1),
+    (2, 1, 1, 'Eternal Pools', 0),
+    (3, 3, 2, 'The Forgotten Altar', 1),
+    (4, 3, 2, 'The Veiled Sanctuary', 0),
+    (5, 5, 3, 'Obsidian Obelisks', 1);
+
+INSERT INTO events (event_id, name, event_time)
+VALUES 
+    (1, 'Olympian Games', '2023-10-15 14:00:00'),
+    (2, 'Feast of the Nile', '2023-11-20 10:30:00'),
+    (3, 'Saturnalia Celebrations', '2024-01-05 18:45:00'),
+    (4, 'Ides of March Commemoration', '2024-03-12 12:15:00'),
+    (5, 'Summer Solstice Festival', '2024-06-21 20:00:00');
+
+INSERT INTO player_skillset (skill_id, ability_id)
+VALUES 
+    (1, 41),
+    (2, 303),
+    (3, 123),
+    (4, 5),
+    (5, 49);
+
+INSERT INTO classes (class_id, name, description)
+VALUES 
+    (1, 'Warrior', 'Masters of close combat and heavy armor, warriors excel in melee battles.'),
+    (2, 'Healer', 'Skilled in the arts of mending and restoration, healers support their allies with powerful spells.'),
+    (3, 'Archer', 'Adept at ranged combat and precision, archers strike from a distance with deadly accuracy.'),
+    (4, 'Mage', 'Harnessing arcane energies, mages wield powerful spells to deal damage and control the battlefield.'),
+    (5, 'Rogue', 'Stealthy and cunning, rogues excel in subterfuge and surprise attacks.');
+

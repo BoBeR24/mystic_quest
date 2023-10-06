@@ -1,0 +1,13365 @@
+--- players ---
+
+"player_id"=349
+"name"="Thorgal"
+"class"="Warrior"
+"race"="Naga"
+"health"=330
+"experience"=844
+"starting_region"="Cimmeria"
+
+
+--- Enemy ---
+
+"id"=530
+"enemy_name"="Demonic Kraken"
+"enemy_type"="Magical"
+"hitpoints"=783
+"warcry"="ioflastefru"
+
+
+--- events ---
+
+"event_id"=33
+"name"="Challenge of the Seven Seals"
+"event_time"=321
+
+
+--- items ---
+
+"item_id"=326
+"type"="Amulet"
+"name"="Champion's Greatsword"
+"description"="hoech"
+"cost"=855
+
+
+--- players ---
+
+"player_id"=345
+"name"="Thundara"
+"class"="Archer"
+"race"="Human"
+"health"=241
+"experience"=617
+"starting_region"="Orynthia"
+
+
+--- teams ---
+
+"team_id"=124
+"name"="Abyss_Watchers"
+"members_amount"=102
+
+
+--- guilds ---
+
+"guild_id"=128
+"type"="Trading"
+"name"="Guardians of Light"
+"description"="creopreo"
+
+
+--- items ---
+
+"item_id"=17
+"type"="Potion"
+"name"="Serpent's Fang Saber"
+"description"="jra"
+"cost"=838
+
+
+--- classes ---
+
+"class_id"=240
+"class_name"="Healer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- teams ---
+
+"team_id"=146
+"name"="Spellbinders"
+"members_amount"=414
+
+
+--- guilds ---
+
+"guild_id"=77
+"type"="PvP"
+"name"="The Wanderers"
+"description"="iyohuu"
+
+
+--- teams ---
+
+"team_id"=271
+"name"="Twilight_Hunters"
+"members_amount"=278
+
+
+--- dialogues ---
+
+"dialogue_id"=188
+"npc_id"=189
+"contents"="Never look a gift dragon in the mouth. Actually, never look any dragon in the mouth."
+"choice_options"=686
+"emotion"=508
+
+
+--- items ---
+
+"item_id"=96
+"type"="Amulet"
+"name"="Heartstone Amulet"
+"description"="oabpo"
+"cost"=104
+
+
+--- dialogues ---
+
+"dialogue_id"=167
+"npc_id"=168
+"contents"="Existence precedes essence. So, what's your next quest, existentialist?"
+"choice_options"=929
+"emotion"=499
+
+
+--- items ---
+
+"item_id"=297
+"type"="Staff"
+"name"="Rod of Wondrous Echoes"
+"description"="graqosmaubr"
+"cost"=511
+
+
+--- dialogues ---
+
+"dialogue_id"=571
+"npc_id"=573
+"contents"="Do you wish to hear a tale of valor and sacrifice? Too late, it's DLC content."
+"choice_options"=595
+"emotion"=729
+
+
+--- classes ---
+
+"class_id"=160
+"class_name"="Healer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- guilds ---
+
+"guild_id"=109
+"type"="Exploration"
+"name"="Thieves of Time"
+"description"="oce"
+
+
+--- players ---
+
+"player_id"=228
+"name"="Thorgath"
+"class"="Summoner"
+"race"="Naga"
+"health"=432
+"experience"=909
+"starting_region"="Valoria"
+
+
+--- players ---
+
+"player_id"=286
+"name"="Orifel"
+"class"="Summoner"
+"race"="Human"
+"health"=894
+"experience"=361
+"starting_region"="Elphora"
+
+
+--- events ---
+
+"event_id"=74
+"name"="Festival of the Eternal Spring"
+"event_time"=768
+
+
+--- guilds ---
+
+"guild_id"=69
+"type"="Healing"
+"name"="Nature's Whisper"
+"description"="eexcoj"
+
+
+--- teams ---
+
+"team_id"=29
+"name"="Warden_of_Will"
+"members_amount"=747
+
+
+--- guilds ---
+
+"guild_id"=135
+"type"="Healing"
+"name"="Shadow Society"
+"description"="swiclaifl"
+
+
+--- fightable_characters ---
+
+"npc_id"=197
+"health"=661
+"reward_experience"=428
+
+
+--- guilds ---
+
+"guild_id"=7
+"type"="PvP"
+"name"="Merchant Princes"
+"description"="ttefipru"
+
+
+--- players ---
+
+"player_id"=70
+"name"="Oberion"
+"class"="Warrior"
+"race"="Orc"
+"health"=673
+"experience"=762
+"starting_region"="Cimmeria"
+
+
+--- teams ---
+
+"team_id"=175
+"name"="Shadow_Assassins"
+"members_amount"=973
+
+
+--- items ---
+
+"item_id"=341
+"type"="Staff"
+"name"="Helm of the Silver Knight"
+"description"="pwoeku"
+"cost"=769
+
+
+--- teams ---
+
+"team_id"=136
+"name"="Chaos_Bringers"
+"members_amount"=757
+
+
+--- classes ---
+
+"class_id"=129
+"class_name"="Mage"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=173
+"npc_id"=174
+"contents"="Y'know, in another universe, you and I are just polygons and pixels."
+"choice_options"=598
+"emotion"=93
+
+
+--- items ---
+
+"item_id"=26
+"type"="Bow"
+"name"="Potion of Eternal Vigor"
+"description"="voew"
+"cost"=321
+
+
+--- teams ---
+
+"team_id"=2
+"name"="Dragon_Tamers"
+"members_amount"=825
+
+
+--- items ---
+
+"item_id"=212
+"type"="Amulet"
+"name"="Lunar Tear Bracelet"
+"description"="adlaspie"
+"cost"=319
+
+
+--- items ---
+
+"item_id"=245
+"type"="Sword"
+"name"="Potion of Dire Strength"
+"description"="criulb"
+"cost"=798
+
+
+--- npcs ---
+
+"npc_id"=87
+"name"="Raelan"
+"role"="Quest-givers"
+"region_id"=654
+"is_fightable"=null
+"description"="idza"
+
+
+--- races ---
+
+"race_id"=31
+"name"="Human"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- teams ---
+
+"team_id"=95
+"name"="Ethereal_Sages"
+"members_amount"=131
+
+
+--- fightable_characters ---
+
+"npc_id"=361
+"health"=228
+"reward_experience"=828
+
+
+--- dialogues ---
+
+"dialogue_id"=490
+"npc_id"=493
+"contents"="A horse, a horse, my lootbox for a horse!"
+"choice_options"=934
+"emotion"=63
+
+
+--- teams ---
+
+"team_id"=293
+"name"="Emerald_Shamans"
+"members_amount"=241
+
+
+--- races ---
+
+"race_id"=131
+"name"="Naga"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- classes ---
+
+"class_id"=253
+"class_name"="Rogue"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- fightable_characters ---
+
+"npc_id"=198
+"health"=344
+"reward_experience"=390
+
+
+--- classes ---
+
+"class_id"=163
+"class_name"="Healer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- races ---
+
+"race_id"=45
+"name"="Dwarf"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- dialogues ---
+
+"dialogue_id"=598
+"npc_id"=600
+"contents"="Come at me, bro. But only if you've read the Terms of Service."
+"choice_options"=362
+"emotion"=825
+
+
+--- dialogues ---
+
+"dialogue_id"=696
+"npc_id"=698
+"contents"="Woe be to the adventurer who opens Pandora's Loot Box."
+"choice_options"=60
+"emotion"=320
+
+
+--- guilds ---
+
+"guild_id"=57
+"type"="Knowledge"
+"name"="Guardians of Light"
+"description"="ipi"
+
+
+--- fightable_characters ---
+
+"npc_id"=209
+"health"=946
+"reward_experience"=359
+
+
+--- teams ---
+
+"team_id"=370
+"name"="Eclipse_Archers"
+"members_amount"=913
+
+
+--- fightable_characters ---
+
+"npc_id"=334
+"health"=555
+"reward_experience"=958
+
+
+--- players ---
+
+"player_id"=214
+"name"="Xyphera"
+"class"="Summoner"
+"race"="Elf"
+"health"=480
+"experience"=978
+"starting_region"="Valoria"
+
+
+--- items ---
+
+"item_id"=255
+"type"="Potion"
+"name"="Blade of the Fallen"
+"description"="snousnaibl"
+"cost"=978
+
+
+--- Enemy ---
+
+"id"=435
+"enemy_name"="Harpy Scream"
+"enemy_type"="Demon"
+"hitpoints"=957
+"warcry"="jiafbou"
+
+
+--- teams ---
+
+"team_id"=167
+"name"="CelestialKnights"
+"members_amount"=831
+
+
+--- teams ---
+
+"team_id"=45
+"name"="Opal_Oracles"
+"members_amount"=506
+
+
+--- items ---
+
+"item_id"=277
+"type"="Staff"
+"name"="Dragon's Breath Bow"
+"description"="troxkaonb"
+"cost"=960
+
+
+--- players ---
+
+"player_id"=292
+"name"="Saphyra"
+"class"="Healer"
+"race"="Orc"
+"health"=816
+"experience"=572
+"starting_region"="Elphora"
+
+
+--- dialogues ---
+
+"dialogue_id"=145
+"npc_id"=148
+"contents"="Good to see you, hero! Or should I say... cash cow?"
+"choice_options"=180
+"emotion"=123
+
+
+--- events ---
+
+"event_id"=112
+"name"="Quest for the Lost Relics"
+"event_time"=791
+
+
+--- fightable_characters ---
+
+"npc_id"=328
+"health"=133
+"reward_experience"=782
+
+
+--- fightable_characters ---
+
+"npc_id"=281
+"health"=99
+"reward_experience"=223
+
+
+--- Enemy ---
+
+"id"=538
+"enemy_name"="Crystal Gargoyle"
+"enemy_type"="Undead"
+"hitpoints"=898
+"warcry"="gloasc"
+
+
+--- Enemy ---
+
+"id"=586
+"enemy_name"="Zombie Horde"
+"enemy_type"="Humanoid"
+"hitpoints"=342
+"warcry"="tfelu"
+
+
+--- races ---
+
+"race_id"=19
+"name"="Human"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- items ---
+
+"item_id"=231
+"type"="Staff"
+"name"="Demon's Blood Elixir"
+"description"="nloixzi"
+"cost"=458
+
+
+--- events ---
+
+"event_id"=197
+"name"="Lost Horizon's Discovery"
+"event_time"=622
+
+
+--- items ---
+
+"item_id"=315
+"type"="Potion"
+"name"="Crossbow of Fiery Vengeance"
+"description"="ornedradr"
+"cost"=834
+
+
+--- teams ---
+
+"team_id"=23
+"name"="Star_Wanderers"
+"members_amount"=494
+
+
+--- teams ---
+
+"team_id"=110
+"name"="DuskRaiders"
+"members_amount"=149
+
+
+--- players ---
+
+"player_id"=145
+"name"="Qelthar"
+"class"="Healer"
+"race"="Human"
+"health"=117
+"experience"=652
+"starting_region"="Orynthia"
+
+
+--- events ---
+
+"event_id"=20
+"name"="The Golem's Lament"
+"event_time"=601
+
+
+--- fightable_characters ---
+
+"npc_id"=195
+"health"=759
+"reward_experience"=66
+
+
+--- fightable_characters ---
+
+"npc_id"=212
+"health"=978
+"reward_experience"=790
+
+
+--- classes ---
+
+"class_id"=154
+"class_name"="Summoner"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- events ---
+
+"event_id"=193
+"name"="Carnival of the Forgotten"
+"event_time"=619
+
+
+--- dialogues ---
+
+"dialogue_id"=74
+"npc_id"=77
+"contents"="Ah, another wanderer looking to buy some potions. Just don't ask what's in them."
+"choice_options"=162
+"emotion"=485
+
+
+--- teams ---
+
+"team_id"=187
+"name"="Scarlet_Scouts"
+"members_amount"=501
+
+
+--- players ---
+
+"player_id"=248
+"name"="Zephyrix"
+"class"="Healer"
+"race"="Undead"
+"health"=947
+"experience"=209
+"starting_region"="Elphora"
+
+
+--- npcs ---
+
+"npc_id"=105
+"name"="Xyra"
+"role"="Quest-givers"
+"region_id"=11
+"is_fightable"=null
+"description"="smesoagrosm"
+
+
+--- players ---
+
+"player_id"=301
+"name"="Valdrick"
+"class"="Mage"
+"race"="Dwarf"
+"health"=948
+"experience"=598
+"starting_region"="Elphora"
+
+
+--- teams ---
+
+"team_id"=270
+"name"="Azure_Avatars"
+"members_amount"=7
+
+
+--- npcs ---
+
+"npc_id"=55
+"name"="Faenar"
+"role"="Lore_Masters"
+"region_id"=982
+"is_fightable"=null
+"description"="skuicroz"
+
+
+--- items ---
+
+"item_id"=360
+"type"="Sword"
+"name"="Ring of the Fallen King"
+"description"="lapritresca"
+"cost"=263
+
+
+--- events ---
+
+"event_id"=94
+"name"="Festival of the Eternal Spring"
+"event_time"=277
+
+
+--- races ---
+
+"race_id"=73
+"name"="Dwarf"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- Enemy ---
+
+"id"=465
+"enemy_name"="Necrotic Lich"
+"enemy_type"="Construct"
+"hitpoints"=641
+"warcry"="sladratreetr"
+
+
+--- Enemy ---
+
+"id"=531
+"enemy_name"="Crystal Gargoyle"
+"enemy_type"="Humanoid"
+"hitpoints"=232
+"warcry"="wupla"
+
+
+--- classes ---
+
+"class_id"=36
+"class_name"="Healer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- teams ---
+
+"team_id"=311
+"name"="Time_Travelers"
+"members_amount"=902
+
+
+--- players ---
+
+"player_id"=365
+"name"="Xirelle"
+"class"="Healer"
+"race"="Orc"
+"health"=723
+"experience"=923
+"starting_region"="Orynthia"
+
+
+--- Enemy ---
+
+"id"=397
+"enemy_name"="Chained Spirit"
+"enemy_type"="Undead"
+"hitpoints"=368
+"warcry"="plauyt"
+
+
+--- Enemy ---
+
+"id"=499
+"enemy_name"="Corrupted Paladin"
+"enemy_type"="Beast"
+"hitpoints"=510
+"warcry"="jwiopaa"
+
+
+--- races ---
+
+"race_id"=22
+"name"="Dwarf"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- fightable_characters ---
+
+"npc_id"=339
+"health"=558
+"reward_experience"=806
+
+
+--- races ---
+
+"race_id"=5
+"name"="Dwarf"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- items ---
+
+"item_id"=210
+"type"="Dagger"
+"name"="Staff of Tranquility"
+"description"="trist"
+"cost"=238
+
+
+--- players ---
+
+"player_id"=217
+"name"="Elidora"
+"class"="Healer"
+"race"="Undead"
+"health"=680
+"experience"=719
+"starting_region"="Orynthia"
+
+
+--- classes ---
+
+"class_id"=262
+"class_name"="Archer"
+"description"="Summons minions to aid in combat."
+
+
+--- players ---
+
+"player_id"=359
+"name"="Thundara"
+"class"="Healer"
+"race"="Undead"
+"health"=609
+"experience"=215
+"starting_region"="Elphora"
+
+
+--- Enemy ---
+
+"id"=521
+"enemy_name"="Glacial Kraken"
+"enemy_type"="Humanoid"
+"hitpoints"=822
+"warcry"="estue"
+
+
+--- Enemy ---
+
+"id"=555
+"enemy_name"="Griffon King"
+"enemy_type"="Magical"
+"hitpoints"=194
+"warcry"="uufripluxy"
+
+
+--- dialogues ---
+
+"dialogue_id"=671
+"npc_id"=672
+"contents"="Verily, you've conquered the Mountain of Despair! Here's 50 gold coins."
+"choice_options"=719
+"emotion"=5
+
+
+--- races ---
+
+"race_id"=89
+"name"="Dwarf"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- events ---
+
+"event_id"=172
+"name"="Valley of Forgotten Echoes"
+"event_time"=9
+
+
+--- fightable_characters ---
+
+"npc_id"=182
+"health"=847
+"reward_experience"=257
+
+
+--- classes ---
+
+"class_id"=345
+"class_name"="Healer"
+"description"="Summons minions to aid in combat."
+
+
+--- races ---
+
+"race_id"=75
+"name"="Human"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- Enemy ---
+
+"id"=611
+"enemy_name"="Ice Elemental"
+"enemy_type"="Giant"
+"hitpoints"=667
+"warcry"="eglenc"
+
+
+--- guilds ---
+
+"guild_id"=14
+"type"="Exploration"
+"name"="Dragon Slayers"
+"description"="ouyviuske"
+
+
+--- items ---
+
+"item_id"=241
+"type"="Ring"
+"name"="Aegis of the Sun"
+"description"="suac"
+"cost"=344
+
+
+--- races ---
+
+"race_id"=42
+"name"="Orc"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- teams ---
+
+"team_id"=263
+"name"="Fire_Dragons"
+"members_amount"=207
+
+
+--- classes ---
+
+"class_id"=350
+"class_name"="Summoner"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- items ---
+
+"item_id"=324
+"type"="Potion"
+"name"="Staff of the Archmage"
+"description"="aflu"
+"cost"=457
+
+
+--- dialogues ---
+
+"dialogue_id"=232
+"npc_id"=235
+"contents"="To conquer oneself is a greater victory than to conquer thousands in a battle."
+"choice_options"=689
+"emotion"=450
+
+
+--- teams ---
+
+"team_id"=279
+"name"="CelestialKnights"
+"members_amount"=957
+
+
+--- dialogues ---
+
+"dialogue_id"=707
+"npc_id"=709
+"contents"="To defeat your enemies, you must know them. Even if they are mushrooms!"
+"choice_options"=82
+"emotion"=834
+
+
+--- Enemy ---
+
+"id"=515
+"enemy_name"="Ghostly Archer"
+"enemy_type"="Humanoid"
+"hitpoints"=52
+"warcry"="isteiskuto"
+
+
+--- classes ---
+
+"class_id"=337
+"class_name"="Archer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- fightable_characters ---
+
+"npc_id"=158
+"health"=670
+"reward_experience"=283
+
+
+--- guilds ---
+
+"guild_id"=102
+"type"="Mage Training"
+"name"="Seekers of Truth"
+"description"="wyo"
+
+
+--- players ---
+
+"player_id"=116
+"name"="Aerendir"
+"class"="Archer"
+"race"="Human"
+"health"=544
+"experience"=31
+"starting_region"="Elphora"
+
+
+--- Enemy ---
+
+"id"=583
+"enemy_name"="Water Elemental"
+"enemy_type"="Humanoid"
+"hitpoints"=376
+"warcry"="iaglugle"
+
+
+--- teams ---
+
+"team_id"=203
+"name"="Night_Owls"
+"members_amount"=5
+
+
+--- items ---
+
+"item_id"=361
+"type"="Ring"
+"name"="Staff of Eldritch Power"
+"description"="plapli"
+"cost"=956
+
+
+--- classes ---
+
+"class_id"=245
+"class_name"="Archer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- fightable_characters ---
+
+"npc_id"=285
+"health"=775
+"reward_experience"=939
+
+
+--- players ---
+
+"player_id"=30
+"name"="Xirelle"
+"class"="Archer"
+"race"="Human"
+"health"=597
+"experience"=18
+"starting_region"="Valoria"
+
+
+--- guilds ---
+
+"guild_id"=63
+"type"="Mage Training"
+"name"="Shadow Society"
+"description"="xgeocr"
+
+
+--- fightable_characters ---
+
+"npc_id"=228
+"health"=274
+"reward_experience"=392
+
+
+--- teams ---
+
+"team_id"=131
+"name"="Winter_Warlocks"
+"members_amount"=522
+
+
+--- events ---
+
+"event_id"=17
+"name"="Dance of the Moonshadow"
+"event_time"=859
+
+
+--- events ---
+
+"event_id"=98
+"name"="Storm of the Dead"
+"event_time"=370
+
+
+--- items ---
+
+"item_id"=253
+"type"="Staff"
+"name"="Lockpick of Fates"
+"description"="skeefl"
+"cost"=51
+
+
+--- races ---
+
+"race_id"=91
+"name"="Human"
+"description"="Risen from the dead, masters of dark arts and curses."
+
+
+--- fightable_characters ---
+
+"npc_id"=267
+"health"=315
+"reward_experience"=962
+
+
+--- items ---
+
+"item_id"=247
+"type"="Ring"
+"name"="Shield of the Dwarven Lords"
+"description"="asmeseu"
+"cost"=444
+
+
+--- events ---
+
+"event_id"=221
+"name"="Slaying of the Ice Queen"
+"event_time"=993
+
+
+--- Enemy ---
+
+"id"=647
+"enemy_name"="Alpha Wolf"
+"enemy_type"="Humanoid"
+"hitpoints"=279
+"warcry"="ewuaswufra"
+
+
+--- teams ---
+
+"team_id"=6
+"name"="Crimson_Brigade"
+"members_amount"=995
+
+
+--- Enemy ---
+
+"id"=417
+"enemy_name"="Haunted Marionette"
+"enemy_type"="Demon"
+"hitpoints"=723
+"warcry"="sisteba"
+
+
+--- classes ---
+
+"class_id"=211
+"class_name"="Summoner"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- guilds ---
+
+"guild_id"=74
+"type"="Questing"
+"name"="Storm Riders"
+"description"="slebrikxi"
+
+
+--- Enemy ---
+
+"id"=701
+"enemy_name"="Zombie Horde"
+"enemy_type"="Humanoid"
+"hitpoints"=6
+"warcry"="sciusk"
+
+
+--- fightable_characters ---
+
+"npc_id"=216
+"health"=908
+"reward_experience"=79
+
+
+--- teams ---
+
+"team_id"=195
+"name"="Topaz_Templars"
+"members_amount"=726
+
+
+--- races ---
+
+"race_id"=106
+"name"="Naga"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- guilds ---
+
+"guild_id"=44
+"type"="Questing"
+"name"="Emerald Enchanters"
+"description"="eusk"
+
+
+--- fightable_characters ---
+
+"npc_id"=306
+"health"=855
+"reward_experience"=947
+
+
+--- Enemy ---
+
+"id"=450
+"enemy_name"="Plague Rat"
+"enemy_type"="Humanoid"
+"hitpoints"=222
+"warcry"="lild"
+
+
+--- teams ---
+
+"team_id"=26
+"name"="Sun_Shadows"
+"members_amount"=559
+
+
+--- players ---
+
+"player_id"=62
+"name"="Endora"
+"class"="Warrior"
+"race"="Elf"
+"health"=261
+"experience"=467
+"starting_region"="Orynthia"
+
+
+--- events ---
+
+"event_id"=54
+"name"="Feast of the Harvest Moon"
+"event_time"=118
+
+
+--- teams ---
+
+"team_id"=32
+"name"="ThunderClan"
+"members_amount"=970
+
+
+--- Enemy ---
+
+"id"=473
+"enemy_name"="Death Reaper"
+"enemy_type"="Elemental"
+"hitpoints"=245
+"warcry"="skoq"
+
+
+--- events ---
+
+"event_id"=63
+"name"="Serpent's Ascension"
+"event_time"=260
+
+
+--- guilds ---
+
+"guild_id"=27
+"type"="PvP"
+"name"="Dusk to Dawn"
+"description"="tmisl"
+
+
+--- players ---
+
+"player_id"=257
+"name"="Thaelen"
+"class"="Mage"
+"race"="Dwarf"
+"health"=859
+"experience"=64
+"starting_region"="Cimmeria"
+
+
+--- Enemy ---
+
+"id"=640
+"enemy_name"="Corrupted Paladin"
+"enemy_type"="Humanoid"
+"hitpoints"=476
+"warcry"="uuplekkia"
+
+
+--- fightable_characters ---
+
+"npc_id"=171
+"health"=656
+"reward_experience"=456
+
+
+--- players ---
+
+"player_id"=20
+"name"="Thorgrim"
+"class"="Archer"
+"race"="Human"
+"health"=772
+"experience"=7
+"starting_region"="Orynthia"
+
+
+--- guilds ---
+
+"guild_id"=158
+"type"="Exploration"
+"name"="Artisans of Alchemy"
+"description"="cratruobr"
+
+
+--- classes ---
+
+"class_id"=168
+"class_name"="Healer"
+"description"="Summons minions to aid in combat."
+
+
+--- fightable_characters ---
+
+"npc_id"=241
+"health"=498
+"reward_experience"=260
+
+
+--- races ---
+
+"race_id"=202
+"name"="Human"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- teams ---
+
+"team_id"=172
+"name"="Lunar_Army"
+"members_amount"=137
+
+
+--- events ---
+
+"event_id"=67
+"name"="Festival of Golden Leaves"
+"event_time"=757
+
+
+--- teams ---
+
+"team_id"=81
+"name"="RavenWings"
+"members_amount"=725
+
+
+--- classes ---
+
+"class_id"=396
+"class_name"="Warrior"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- items ---
+
+"item_id"=92
+"type"="Bow"
+"name"="Warrior's Battleaxe"
+"description"="qriclocl"
+"cost"=238
+
+
+--- fightable_characters ---
+
+"npc_id"=256
+"health"=312
+"reward_experience"=245
+
+
+--- Enemy ---
+
+"id"=504
+"enemy_name"="Black Widow"
+"enemy_type"="Beast"
+"hitpoints"=737
+"warcry"="ddoproepr"
+
+
+--- classes ---
+
+"class_id"=9
+"class_name"="Archer"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- players ---
+
+"player_id"=135
+"name"="Thorgath"
+"class"="Healer"
+"race"="Elf"
+"health"=117
+"experience"=395
+"starting_region"="Cimmeria"
+
+
+--- events ---
+
+"event_id"=127
+"name"="Blood Moon Rising"
+"event_time"=19
+
+
+--- races ---
+
+"race_id"=188
+"name"="Orc"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- guilds ---
+
+"guild_id"=136
+"type"="Exploration"
+"name"="Starborn Seekers"
+"description"="crehu"
+
+
+--- items ---
+
+"item_id"=24
+"type"="Dagger"
+"name"="Chronomancer's Sandglass"
+"description"="ispeflic"
+"cost"=873
+
+
+--- teams ---
+
+"team_id"=299
+"name"="Jade_Tigers"
+"members_amount"=638
+
+
+--- classes ---
+
+"class_id"=58
+"class_name"="Warrior"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- classes ---
+
+"class_id"=291
+"class_name"="Healer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- guilds ---
+
+"guild_id"=37
+"type"="Questing"
+"name"="Prophets of Doom"
+"description"="bojmaibri"
+
+
+--- classes ---
+
+"class_id"=303
+"class_name"="Warrior"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- teams ---
+
+"team_id"=104
+"name"="RavenWings"
+"members_amount"=531
+
+
+--- players ---
+
+"player_id"=390
+"name"="Oromis"
+"class"="Warrior"
+"race"="Undead"
+"health"=719
+"experience"=588
+"starting_region"="Cimmeria"
+
+
+--- dialogues ---
+
+"dialogue_id"=199
+"npc_id"=200
+"contents"="To defeat your enemies, you must know them, train hard, and also buy some premium gems."
+"choice_options"=744
+"emotion"=613
+
+
+--- items ---
+
+"item_id"=129
+"type"="Ring"
+"name"="Amulet of the Stars"
+"description"="plerg"
+"cost"=376
+
+
+--- items ---
+
+"item_id"=351
+"type"="Shield"
+"name"="Windfury Longsword"
+"description"="eewgo"
+"cost"=301
+
+
+--- teams ---
+
+"team_id"=287
+"name"="Oblivion_Dwellers"
+"members_amount"=83
+
+
+--- teams ---
+
+"team_id"=326
+"name"="ThunderClan"
+"members_amount"=51
+
+
+--- Enemy ---
+
+"id"=624
+"enemy_name"="Fire Salamander"
+"enemy_type"="Magical"
+"hitpoints"=454
+"warcry"="scucx"
+
+
+--- players ---
+
+"player_id"=122
+"name"="Selendis"
+"class"="Mage"
+"race"="Undead"
+"health"=715
+"experience"=905
+"starting_region"="Orynthia"
+
+
+--- Enemy ---
+
+"id"=481
+"enemy_name"="Mystic Djinn"
+"enemy_type"="Humanoid"
+"hitpoints"=284
+"warcry"="skitrufh"
+
+
+--- classes ---
+
+"class_id"=99
+"class_name"="Rogue"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- fightable_characters ---
+
+"npc_id"=351
+"health"=466
+"reward_experience"=636
+
+
+--- guilds ---
+
+"guild_id"=30
+"type"="Healing"
+"name"="Ocean's Children"
+"description"="flos"
+
+
+--- races ---
+
+"race_id"=146
+"name"="Orc"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- items ---
+
+"item_id"=23
+"type"="Bow"
+"name"="Crystal of the Ancients"
+"description"="akkeclesce"
+"cost"=465
+
+
+--- dialogues ---
+
+"dialogue_id"=170
+"npc_id"=172
+"contents"="Life, which you so nobly serve, comes from destruction, disorder and chaos."
+"choice_options"=454
+"emotion"=242
+
+
+--- classes ---
+
+"class_id"=151
+"class_name"="Healer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- teams ---
+
+"team_id"=208
+"name"="Eclipse_Archers"
+"members_amount"=796
+
+
+--- races ---
+
+"race_id"=58
+"name"="Human"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- players ---
+
+"player_id"=209
+"name"="Delgath"
+"class"="Rogue"
+"race"="Human"
+"health"=950
+"experience"=544
+"starting_region"="Orynthia"
+
+
+--- players ---
+
+"player_id"=154
+"name"="Thorgath"
+"class"="Healer"
+"race"="Orc"
+"health"=25
+"experience"=979
+"starting_region"="Elphora"
+
+
+--- teams ---
+
+"team_id"=62
+"name"="Moon_Queens"
+"members_amount"=280
+
+
+--- events ---
+
+"event_id"=56
+"name"="Darkness Over Whitestone"
+"event_time"=218
+
+
+--- players ---
+
+"player_id"=396
+"name"="Thera"
+"class"="Rogue"
+"race"="Undead"
+"health"=889
+"experience"=981
+"starting_region"="Orynthia"
+
+
+--- dialogues ---
+
+"dialogue_id"=97
+"npc_id"=98
+"contents"="The unexamined quest is not worth grinding."
+"choice_options"=418
+"emotion"=40
+
+
+--- items ---
+
+"item_id"=12
+"type"="Potion"
+"name"="Lockpick of Fates"
+"description"="qaglu"
+"cost"=353
+
+
+--- npcs ---
+
+"npc_id"=130
+"name"="Valthor"
+"role"="Lore_Masters"
+"region_id"=224
+"is_fightable"=null
+"description"="jgue"
+
+
+--- dialogues ---
+
+"dialogue_id"=478
+"npc_id"=481
+"contents"="The unexamined quest is not worth grinding."
+"choice_options"=165
+"emotion"=448
+
+
+--- Enemy ---
+
+"id"=396
+"enemy_name"="Corrupted Angel"
+"enemy_type"="Magical"
+"hitpoints"=184
+"warcry"="scosnixy"
+
+
+--- items ---
+
+"item_id"=374
+"type"="Staff"
+"name"="Wand of Time"
+"description"="boswesme"
+"cost"=446
+
+
+--- items ---
+
+"item_id"=9
+"type"="Sword"
+"name"="Potion of Eternal Vigor"
+"description"="ajgu"
+"cost"=88
+
+
+--- races ---
+
+"race_id"=135
+"name"="Elf"
+"description"="Risen from the dead, masters of dark arts and curses."
+
+
+--- events ---
+
+"event_id"=231
+"name"="Lost Horizon's Discovery"
+"event_time"=563
+
+
+--- players ---
+
+"player_id"=334
+"name"="Endora"
+"class"="Healer"
+"race"="Elf"
+"health"=556
+"experience"=417
+"starting_region"="Cimmeria"
+
+
+--- races ---
+
+"race_id"=174
+"name"="Naga"
+"description"="Risen from the dead, masters of dark arts and curses."
+
+
+--- fightable_characters ---
+
+"npc_id"=348
+"health"=244
+"reward_experience"=61
+
+
+--- guilds ---
+
+"guild_id"=72
+"type"="Spying"
+"name"="Dusk to Dawn"
+"description"="skojf"
+
+
+--- Enemy ---
+
+"id"=446
+"enemy_name"="Demonic Kraken"
+"enemy_type"="Undead"
+"hitpoints"=195
+"warcry"="griobhifri"
+
+
+--- items ---
+
+"item_id"=188
+"type"="Potion"
+"name"="Chronomancer's Sandglass"
+"description"="gruisnubleq"
+"cost"=853
+
+
+--- items ---
+
+"item_id"=153
+"type"="Potion"
+"name"="Frostfire Staff"
+"description"="qyosp"
+"cost"=273
+
+
+--- fightable_characters ---
+
+"npc_id"=379
+"health"=897
+"reward_experience"=236
+
+
+--- races ---
+
+"race_id"=78
+"name"="Elf"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- classes ---
+
+"class_id"=308
+"class_name"="Warrior"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- events ---
+
+"event_id"=171
+"name"="Revolution of the Iron Fist"
+"event_time"=161
+
+
+--- guilds ---
+
+"guild_id"=64
+"type"="PvP"
+"name"="Emerald Enchanters"
+"description"="sjo"
+
+
+--- dialogues ---
+
+"dialogue_id"=47
+"npc_id"=49
+"contents"="Fear not, hero! Take this sword, it's dangerous to go alone! Also, it's 50% off today."
+"choice_options"=756
+"emotion"=377
+
+
+--- players ---
+
+"player_id"=203
+"name"="Orifel"
+"class"="Mage"
+"race"="Human"
+"health"=583
+"experience"=253
+"starting_region"="Valoria"
+
+
+--- races ---
+
+"race_id"=149
+"name"="Naga"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- dialogues ---
+
+"dialogue_id"=34
+"npc_id"=36
+"contents"="We make a special deal for you, only today, only now: Buy one health potion, get one free!"
+"choice_options"=311
+"emotion"=802
+
+
+--- items ---
+
+"item_id"=287
+"type"="Dagger"
+"name"="Ring of the Sages"
+"description"="fxem"
+"cost"=242
+
+
+--- races ---
+
+"race_id"=94
+"name"="Human"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- classes ---
+
+"class_id"=42
+"class_name"="Rogue"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- items ---
+
+"item_id"=119
+"type"="Ring"
+"name"="Lunar Tear Bracelet"
+"description"="aey"
+"cost"=405
+
+
+--- Enemy ---
+
+"id"=552
+"enemy_name"="Lava Golem"
+"enemy_type"="Demon"
+"hitpoints"=255
+"warcry"="zrotsurw"
+
+
+--- classes ---
+
+"class_id"=243
+"class_name"="Archer"
+"description"="Summons minions to aid in combat."
+
+
+--- items ---
+
+"item_id"=27
+"type"="Staff"
+"name"="Flask of Infinite Courage"
+"description"="akebr"
+"cost"=394
+
+
+--- players ---
+
+"player_id"=139
+"name"="Orin"
+"class"="Mage"
+"race"="Undead"
+"health"=333
+"experience"=234
+"starting_region"="Orynthia"
+
+
+--- fightable_characters ---
+
+"npc_id"=160
+"health"=801
+"reward_experience"=253
+
+
+--- events ---
+
+"event_id"=234
+"name"="The Celestial Convergence"
+"event_time"=173
+
+
+--- players ---
+
+"player_id"=370
+"name"="Delgath"
+"class"="Archer"
+"race"="Naga"
+"health"=122
+"experience"=756
+"starting_region"="Orynthia"
+
+
+--- teams ---
+
+"team_id"=219
+"name"="CosmicVoyagers"
+"members_amount"=45
+
+
+--- items ---
+
+"item_id"=344
+"type"="Amulet"
+"name"="Ring of the Eternal Flame"
+"description"="uusc"
+"cost"=365
+
+
+--- guilds ---
+
+"guild_id"=58
+"type"="Exploration"
+"name"="Storm Riders"
+"description"="eogl"
+
+
+--- Enemy ---
+
+"id"=621
+"enemy_name"="Ancient Wyrm"
+"enemy_type"="Beast"
+"hitpoints"=20
+"warcry"="qnudr"
+
+
+--- classes ---
+
+"class_id"=76
+"class_name"="Warrior"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- events ---
+
+"event_id"=204
+"name"="Carnival of the Forgotten"
+"event_time"=481
+
+
+--- items ---
+
+"item_id"=35
+"type"="Sword"
+"name"="Robes of the Archmage"
+"description"="bliscecno"
+"cost"=573
+
+
+--- items ---
+
+"item_id"=350
+"type"="Dagger"
+"name"="Shield of the Dwarven Lords"
+"description"="zucruuw"
+"cost"=464
+
+
+--- guilds ---
+
+"guild_id"=144
+"type"="PvP"
+"name"="Abyss Watchers"
+"description"="plesk"
+
+
+--- teams ---
+
+"team_id"=101
+"name"="Quasar_Knights"
+"members_amount"=542
+
+
+--- classes ---
+
+"class_id"=150
+"class_name"="Summoner"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- items ---
+
+"item_id"=263
+"type"="Staff"
+"name"="Stormbringer Blade"
+"description"="aquh"
+"cost"=45
+
+
+--- fightable_characters ---
+
+"npc_id"=254
+"health"=104
+"reward_experience"=54
+
+
+--- items ---
+
+"item_id"=60
+"type"="Sword"
+"name"="Crossbow of Fiery Vengeance"
+"description"="swaitdeesl"
+"cost"=89
+
+
+--- Enemy ---
+
+"id"=604
+"enemy_name"="Ancient Wyrm"
+"enemy_type"="Dragon"
+"hitpoints"=192
+"warcry"="drawistusp"
+
+
+--- dialogues ---
+
+"dialogue_id"=111
+"npc_id"=113
+"contents"="Existence precedes essence. So, what's your next quest, existentialist?"
+"choice_options"=883
+"emotion"=620
+
+
+--- events ---
+
+"event_id"=200
+"name"="Fireheart's Revenge"
+"event_time"=426
+
+
+--- Enemy ---
+
+"id"=612
+"enemy_name"="Thunderhawk"
+"enemy_type"="Elemental"
+"hitpoints"=297
+"warcry"="plesmiyxi"
+
+
+--- items ---
+
+"item_id"=178
+"type"="Ring"
+"name"="Sacred Feather Talisman"
+"description"="jriiwyii"
+"cost"=447
+
+
+--- dialogues ---
+
+"dialogue_id"=267
+"npc_id"=269
+"contents"="Mastering others is strength; mastering yourself is true power."
+"choice_options"=954
+"emotion"=528
+
+
+--- npcs ---
+
+"npc_id"=36
+"name"="Thaelen"
+"role"="Shopkeepers"
+"region_id"=333
+"is_fightable"=null
+"description"="cqizasnidr"
+
+
+--- players ---
+
+"player_id"=265
+"name"="Orik"
+"class"="Summoner"
+"race"="Elf"
+"health"=583
+"experience"=303
+"starting_region"="Elphora"
+
+
+--- classes ---
+
+"class_id"=51
+"class_name"="Warrior"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- players ---
+
+"player_id"=294
+"name"="Delgath"
+"class"="Rogue"
+"race"="Naga"
+"health"=81
+"experience"=195
+"starting_region"="Cimmeria"
+
+
+--- players ---
+
+"player_id"=250
+"name"="Valdrick"
+"class"="Mage"
+"race"="Human"
+"health"=117
+"experience"=877
+"starting_region"="Cimmeria"
+
+
+--- items ---
+
+"item_id"=59
+"type"="Dagger"
+"name"="Amulet of the Moon"
+"description"="omsao"
+"cost"=244
+
+
+--- Enemy ---
+
+"id"=635
+"enemy_name"="Alpha Wolf"
+"enemy_type"="Beast"
+"hitpoints"=874
+"warcry"="breswe"
+
+
+--- classes ---
+
+"class_id"=378
+"class_name"="Summoner"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- events ---
+
+"event_id"=48
+"name"="Serpent's Ascension"
+"event_time"=144
+
+
+--- items ---
+
+"item_id"=141
+"type"="Staff"
+"name"="Boots of the Shadow Dancer"
+"description"="sketiwx"
+"cost"=701
+
+
+--- players ---
+
+"player_id"=137
+"name"="Thorgrim"
+"class"="Warrior"
+"race"="Human"
+"health"=722
+"experience"=632
+"starting_region"="Elphora"
+
+
+--- Enemy ---
+
+"id"=682
+"enemy_name"="Corrupted Alchemist"
+"enemy_type"="Undead"
+"hitpoints"=366
+"warcry"="pripripuw"
+
+
+--- events ---
+
+"event_id"=55
+"name"="The Gathering Storm"
+"event_time"=217
+
+
+--- events ---
+
+"event_id"=142
+"name"="Siege of Thunderpeak"
+"event_time"=728
+
+
+--- teams ---
+
+"team_id"=335
+"name"="Grim_Reapers"
+"members_amount"=739
+
+
+--- players ---
+
+"player_id"=194
+"name"="Aralyn"
+"class"="Rogue"
+"race"="Elf"
+"health"=782
+"experience"=464
+"starting_region"="Elphora"
+
+
+--- players ---
+
+"player_id"=392
+"name"="Daelis"
+"class"="Mage"
+"race"="Undead"
+"health"=283
+"experience"=503
+"starting_region"="Valoria"
+
+
+--- items ---
+
+"item_id"=44
+"type"="Staff"
+"name"="Belt of the Wyrm"
+"description"="gyiqbeca"
+"cost"=784
+
+
+--- classes ---
+
+"class_id"=80
+"class_name"="Rogue"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- races ---
+
+"race_id"=37
+"name"="Orc"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- teams ---
+
+"team_id"=78
+"name"="Cosmic_Paladins"
+"members_amount"=137
+
+
+--- players ---
+
+"player_id"=144
+"name"="Gilean"
+"class"="Archer"
+"race"="Undead"
+"health"=833
+"experience"=722
+"starting_region"="Orynthia"
+
+
+--- items ---
+
+"item_id"=291
+"type"="Staff"
+"name"="Blood-soaked Bracers"
+"description"="oaqismo"
+"cost"=226
+
+
+--- players ---
+
+"player_id"=14
+"name"="Morwyn"
+"class"="Summoner"
+"race"="Naga"
+"health"=673
+"experience"=301
+"starting_region"="Valoria"
+
+
+--- races ---
+
+"race_id"=101
+"name"="Elf"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- Enemy ---
+
+"id"=411
+"enemy_name"="Forest Nymph"
+"enemy_type"="Giant"
+"hitpoints"=105
+"warcry"="pzirf"
+
+
+--- teams ---
+
+"team_id"=218
+"name"="Cobalt_Crusaders"
+"members_amount"=874
+
+
+--- dialogues ---
+
+"dialogue_id"=561
+"npc_id"=563
+"contents"="Existential dread got you down? Try our new Existential Bread\u00e2\u20ac\u201dfreshly baked in-game!"
+"choice_options"=76
+"emotion"=145
+
+
+--- guilds ---
+
+"guild_id"=60
+"type"="Knowledge"
+"name"="Prophets of Doom"
+"description"="swoun"
+
+
+--- races ---
+
+"race_id"=166
+"name"="Dwarf"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- Enemy ---
+
+"id"=626
+"enemy_name"="Blazing Phoenix"
+"enemy_type"="Humanoid"
+"hitpoints"=849
+"warcry"="aseuj"
+
+
+--- fightable_characters ---
+
+"npc_id"=309
+"health"=412
+"reward_experience"=367
+
+
+--- npcs ---
+
+"npc_id"=77
+"name"="Elira"
+"role"="Skill_Trainers"
+"region_id"=785
+"is_fightable"=null
+"description"="drefro"
+
+
+--- players ---
+
+"player_id"=91
+"name"="Quorlinn"
+"class"="Warrior"
+"race"="Elf"
+"health"=41
+"experience"=490
+"starting_region"="Elphora"
+
+
+--- teams ---
+
+"team_id"=275
+"name"="Cosmic_Paladins"
+"members_amount"=585
+
+
+--- players ---
+
+"player_id"=198
+"name"="Zandalar"
+"class"="Warrior"
+"race"="Undead"
+"health"=435
+"experience"=630
+"starting_region"="Cimmeria"
+
+
+--- Enemy ---
+
+"id"=670
+"enemy_name"="Armored Basilisk"
+"enemy_type"="Humanoid"
+"hitpoints"=831
+"warcry"="islastizko"
+
+
+--- items ---
+
+"item_id"=316
+"type"="Potion"
+"name"="Blade of Eternal Night"
+"description"="esno"
+"cost"=245
+
+
+--- classes ---
+
+"class_id"=143
+"class_name"="Healer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- classes ---
+
+"class_id"=281
+"class_name"="Rogue"
+"description"="Summons minions to aid in combat."
+
+
+--- players ---
+
+"player_id"=28
+"name"="Xyra"
+"class"="Rogue"
+"race"="Human"
+"health"=425
+"experience"=181
+"starting_region"="Valoria"
+
+
+--- fightable_characters ---
+
+"npc_id"=159
+"health"=515
+"reward_experience"=619
+
+
+--- events ---
+
+"event_id"=99
+"name"="The Celestial Convergence"
+"event_time"=538
+
+
+--- fightable_characters ---
+
+"npc_id"=149
+"health"=160
+"reward_experience"=563
+
+
+--- dialogues ---
+
+"dialogue_id"=355
+"npc_id"=356
+"contents"="The unexamined quest is not worth grinding."
+"choice_options"=277
+"emotion"=858
+
+
+--- items ---
+
+"item_id"=195
+"type"="Staff"
+"name"="Helm of the Silver Knight"
+"description"="breosmoufo"
+"cost"=124
+
+
+--- events ---
+
+"event_id"=114
+"name"="Timeless Enigma"
+"event_time"=118
+
+
+--- fightable_characters ---
+
+"npc_id"=252
+"health"=322
+"reward_experience"=637
+
+
+--- classes ---
+
+"class_id"=41
+"class_name"="Healer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- classes ---
+
+"class_id"=45
+"class_name"="Archer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- items ---
+
+"item_id"=175
+"type"="Potion"
+"name"="Blade of the Archmage"
+"description"="dosmeasl"
+"cost"=478
+
+
+--- events ---
+
+"event_id"=44
+"name"="Haunting of the Crimson Keep"
+"event_time"=819
+
+
+--- Enemy ---
+
+"id"=616
+"enemy_name"="Harpy Scream"
+"enemy_type"="Humanoid"
+"hitpoints"=777
+"warcry"="axbau"
+
+
+--- fightable_characters ---
+
+"npc_id"=301
+"health"=366
+"reward_experience"=443
+
+
+--- items ---
+
+"item_id"=280
+"type"="Sword"
+"name"="Rune-etched Crossbow"
+"description"="vuf"
+"cost"=308
+
+
+--- dialogues ---
+
+"dialogue_id"=315
+"npc_id"=317
+"contents"="I think you're in the wrong game, but hey, as long as you're having fun!"
+"choice_options"=594
+"emotion"=120
+
+
+--- classes ---
+
+"class_id"=62
+"class_name"="Warrior"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- dialogues ---
+
+"dialogue_id"=732
+"npc_id"=733
+"contents"="May the RNG gods forever be in your favor."
+"choice_options"=689
+"emotion"=352
+
+
+--- items ---
+
+"item_id"=347
+"type"="Dagger"
+"name"="Enchanted Waterskin"
+"description"="tyoprinke"
+"cost"=204
+
+
+--- Enemy ---
+
+"id"=562
+"enemy_name"="Cyclops Brute"
+"enemy_type"="Construct"
+"hitpoints"=83
+"warcry"="nzublak"
+
+
+--- classes ---
+
+"class_id"=334
+"class_name"="Mage"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- Enemy ---
+
+"id"=545
+"enemy_name"="Griffon King"
+"enemy_type"="Elemental"
+"hitpoints"=984
+"warcry"="mmoaski"
+
+
+--- classes ---
+
+"class_id"=247
+"class_name"="Summoner"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- dialogues ---
+
+"dialogue_id"=640
+"npc_id"=642
+"contents"="Behind every avatar is a player with a snack."
+"choice_options"=131
+"emotion"=889
+
+
+--- events ---
+
+"event_id"=169
+"name"="Corruption of the Sacred Grove"
+"event_time"=74
+
+
+--- races ---
+
+"race_id"=68
+"name"="Human"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- items ---
+
+"item_id"=250
+"type"="Amulet"
+"name"="Gloves of the Sun God"
+"description"="piewdagri"
+"cost"=288
+
+
+--- teams ---
+
+"team_id"=169
+"name"="Jade_Tigers"
+"members_amount"=22
+
+
+--- players ---
+
+"player_id"=36
+"name"="Serafelle"
+"class"="Archer"
+"race"="Orc"
+"health"=102
+"experience"=92
+"starting_region"="Elphora"
+
+
+--- npcs ---
+
+"npc_id"=61
+"name"="Elanor"
+"role"="Skill_Trainers"
+"region_id"=119
+"is_fightable"=null
+"description"="lru"
+
+
+--- events ---
+
+"event_id"=65
+"name"="War of the Crystal Lake"
+"event_time"=420
+
+
+--- fightable_characters ---
+
+"npc_id"=166
+"health"=521
+"reward_experience"=295
+
+
+--- races ---
+
+"race_id"=39
+"name"="Orc"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- Enemy ---
+
+"id"=659
+"enemy_name"="Griffon King"
+"enemy_type"="Construct"
+"hitpoints"=478
+"warcry"="udistip"
+
+
+--- events ---
+
+"event_id"=108
+"name"="Serpent's Ascension"
+"event_time"=62
+
+
+--- teams ---
+
+"team_id"=117
+"name"="Ruby_Wizards"
+"members_amount"=248
+
+
+--- dialogues ---
+
+"dialogue_id"=343
+"npc_id"=344
+"contents"="There is always some madness in leveling up. But there is also always some reason in madness."
+"choice_options"=472
+"emotion"=331
+
+
+--- Enemy ---
+
+"id"=561
+"enemy_name"="Forest Nymph"
+"enemy_type"="Elemental"
+"hitpoints"=573
+"warcry"="draelu"
+
+
+--- Enemy ---
+
+"id"=699
+"enemy_name"="Illusionary Trickster"
+"enemy_type"="Swarm"
+"hitpoints"=763
+"warcry"="skiesn"
+
+
+--- teams ---
+
+"team_id"=337
+"name"="AstralWanderers"
+"members_amount"=637
+
+
+--- classes ---
+
+"class_id"=305
+"class_name"="Archer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- teams ---
+
+"team_id"=240
+"name"="Luminous_Sorcerers"
+"members_amount"=645
+
+
+--- dialogues ---
+
+"dialogue_id"=567
+"npc_id"=568
+"contents"="Welcome, welcome! Do you come often? No, really, how often?"
+"choice_options"=224
+"emotion"=24
+
+
+--- teams ---
+
+"team_id"=308
+"name"="Oblivion_Dwellers"
+"members_amount"=995
+
+
+--- events ---
+
+"event_id"=26
+"name"="Cursed Souls' Nightfall"
+"event_time"=850
+
+
+--- classes ---
+
+"class_id"=77
+"class_name"="Archer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=564
+"npc_id"=565
+"contents"="Hey, wanna see something cool? Press Alt+F4!"
+"choice_options"=39
+"emotion"=244
+
+
+--- races ---
+
+"race_id"=144
+"name"="Elf"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- classes ---
+
+"class_id"=79
+"class_name"="Archer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- players ---
+
+"player_id"=304
+"name"="Gilean"
+"class"="Archer"
+"race"="Naga"
+"health"=224
+"experience"=883
+"starting_region"="Elphora"
+
+
+--- players ---
+
+"player_id"=23
+"name"="Xirelle"
+"class"="Rogue"
+"race"="Undead"
+"health"=121
+"experience"=723
+"starting_region"="Cimmeria"
+
+
+--- classes ---
+
+"class_id"=2
+"class_name"="Summoner"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- classes ---
+
+"class_id"=206
+"class_name"="Rogue"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- players ---
+
+"player_id"=110
+"name"="Tyrndar"
+"class"="Rogue"
+"race"="Undead"
+"health"=400
+"experience"=425
+"starting_region"="Orynthia"
+
+
+--- races ---
+
+"race_id"=96
+"name"="Orc"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=221
+"npc_id"=224
+"contents"="Life is suffering. Have you considered that in your quest for the Sword of Destiny?"
+"choice_options"=728
+"emotion"=398
+
+
+--- teams ---
+
+"team_id"=58
+"name"="Winter_Warlocks"
+"members_amount"=41
+
+
+--- fightable_characters ---
+
+"npc_id"=191
+"health"=455
+"reward_experience"=561
+
+
+--- npcs ---
+
+"npc_id"=6
+"name"="Laelor"
+"role"="Quest-givers"
+"region_id"=198
+"is_fightable"=null
+"description"="brosko"
+
+
+--- Enemy ---
+
+"id"=714
+"enemy_name"="Cyclops Brute"
+"enemy_type"="Swarm"
+"hitpoints"=742
+"warcry"="sluev"
+
+
+--- classes ---
+
+"class_id"=130
+"class_name"="Mage"
+"description"="Summons minions to aid in combat."
+
+
+--- items ---
+
+"item_id"=111
+"type"="Bow"
+"name"="Guardian's Shield"
+"description"="dsue"
+"cost"=125
+
+
+--- items ---
+
+"item_id"=127
+"type"="Staff"
+"name"="Emerald Saber of Souls"
+"description"="unzouskig"
+"cost"=314
+
+
+--- players ---
+
+"player_id"=234
+"name"="Elidora"
+"class"="Summoner"
+"race"="Elf"
+"health"=856
+"experience"=838
+"starting_region"="Orynthia"
+
+
+--- fightable_characters ---
+
+"npc_id"=383
+"health"=658
+"reward_experience"=448
+
+
+--- fightable_characters ---
+
+"npc_id"=163
+"health"=379
+"reward_experience"=21
+
+
+--- events ---
+
+"event_id"=59
+"name"="Wrath of the Earthmother"
+"event_time"=642
+
+
+--- classes ---
+
+"class_id"=81
+"class_name"="Mage"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- guilds ---
+
+"guild_id"=147
+"type"="Spying"
+"name"="Heavenly Healers"
+"description"="aslocria"
+
+
+--- events ---
+
+"event_id"=230
+"name"="War of the Crystal Lake"
+"event_time"=805
+
+
+--- items ---
+
+"item_id"=114
+"type"="Potion"
+"name"="Greaves of the Vanguard"
+"description"="qpuspiogri"
+"cost"=691
+
+
+--- players ---
+
+"player_id"=75
+"name"="Runorin"
+"class"="Summoner"
+"race"="Orc"
+"health"=721
+"experience"=278
+"starting_region"="Cimmeria"
+
+
+--- npcs ---
+
+"npc_id"=33
+"name"="Raelan"
+"role"="Shopkeepers"
+"region_id"=344
+"is_fightable"=null
+"description"="arlova"
+
+
+--- fightable_characters ---
+
+"npc_id"=365
+"health"=965
+"reward_experience"=798
+
+
+--- events ---
+
+"event_id"=174
+"name"="Titan's Demise"
+"event_time"=46
+
+
+--- items ---
+
+"item_id"=31
+"type"="Sword"
+"name"="Guardian's Shield"
+"description"="uuscusp"
+"cost"=575
+
+
+--- guilds ---
+
+"guild_id"=19
+"type"="PvP"
+"name"="The Righteous"
+"description"="agw"
+
+
+--- teams ---
+
+"team_id"=161
+"name"="Arcane_Artists"
+"members_amount"=41
+
+
+--- events ---
+
+"event_id"=52
+"name"="Odyssey of the Stormcaller"
+"event_time"=478
+
+
+--- items ---
+
+"item_id"=167
+"type"="Staff"
+"name"="Spectral Chainmail"
+"description"="ufuisc"
+"cost"=560
+
+
+--- classes ---
+
+"class_id"=84
+"class_name"="Rogue"
+"description"="Summons minions to aid in combat."
+
+
+--- fightable_characters ---
+
+"npc_id"=358
+"health"=542
+"reward_experience"=43
+
+
+--- players ---
+
+"player_id"=259
+"name"="Xyralis"
+"class"="Mage"
+"race"="Undead"
+"health"=605
+"experience"=927
+"starting_region"="Elphora"
+
+
+--- Enemy ---
+
+"id"=689
+"enemy_name"="Ice Elemental"
+"enemy_type"="Undead"
+"hitpoints"=86
+"warcry"="smeismiusp"
+
+
+--- classes ---
+
+"class_id"=354
+"class_name"="Mage"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- races ---
+
+"race_id"=134
+"name"="Naga"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- dialogues ---
+
+"dialogue_id"=425
+"npc_id"=426
+"contents"="Existence precedes essence. So, what's your next quest, existentialist?"
+"choice_options"=367
+"emotion"=333
+
+
+--- players ---
+
+"player_id"=320
+"name"="Seraphix"
+"class"="Mage"
+"race"="Elf"
+"health"=345
+"experience"=854
+"starting_region"="Elphora"
+
+
+--- classes ---
+
+"class_id"=267
+"class_name"="Summoner"
+"description"="Summons minions to aid in combat."
+
+
+--- races ---
+
+"race_id"=167
+"name"="Undead"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=351
+"npc_id"=354
+"contents"="It is not the strength of the body that counts, but the strength of the spirit."
+"choice_options"=280
+"emotion"=940
+
+
+--- classes ---
+
+"class_id"=86
+"class_name"="Warrior"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- guilds ---
+
+"guild_id"=133
+"type"="Spying"
+"name"="Defenders of Destiny"
+"description"="psu"
+
+
+--- events ---
+
+"event_id"=77
+"name"="Carnival of the Forgotten"
+"event_time"=189
+
+
+--- Enemy ---
+
+"id"=526
+"enemy_name"="Ghostly Archer"
+"enemy_type"="Humanoid"
+"hitpoints"=19
+"warcry"="ugrer"
+
+
+--- items ---
+
+"item_id"=338
+"type"="Sword"
+"name"="Tome of the Elders"
+"description"="gzum"
+"cost"=180
+
+
+--- Enemy ---
+
+"id"=510
+"enemy_name"="Dire Bat"
+"enemy_type"="Brute"
+"hitpoints"=920
+"warcry"="uoh"
+
+
+--- dialogues ---
+
+"dialogue_id"=195
+"npc_id"=196
+"contents"="Why do today what you can put off for tomorrow? Actually, the Dragon won't slay itself."
+"choice_options"=821
+"emotion"=430
+
+
+--- items ---
+
+"item_id"=300
+"type"="Shield"
+"name"="Potion of Dire Strength"
+"description"="xior"
+"cost"=624
+
+
+--- dialogues ---
+
+"dialogue_id"=119
+"npc_id"=121
+"contents"="Existential dread got you down? Try our new Existential Bread\u00e2\u20ac\u201dfreshly baked in-game!"
+"choice_options"=875
+"emotion"=372
+
+
+--- classes ---
+
+"class_id"=259
+"class_name"="Archer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- races ---
+
+"race_id"=138
+"name"="Orc"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- races ---
+
+"race_id"=66
+"name"="Elf"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- npcs ---
+
+"npc_id"=127
+"name"="Zandalar"
+"role"="Quest-givers"
+"region_id"=376
+"is_fightable"=null
+"description"="espepa"
+
+
+--- classes ---
+
+"class_id"=279
+"class_name"="Mage"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- teams ---
+
+"team_id"=341
+"name"="Rogue_Wraiths"
+"members_amount"=73
+
+
+--- teams ---
+
+"team_id"=53
+"name"="Lunar_Army"
+"members_amount"=169
+
+
+--- classes ---
+
+"class_id"=33
+"class_name"="Mage"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- races ---
+
+"race_id"=120
+"name"="Undead"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- Enemy ---
+
+"id"=558
+"enemy_name"="Harpy Scream"
+"enemy_type"="Demon"
+"hitpoints"=315
+"warcry"="clutoapro"
+
+
+--- classes ---
+
+"class_id"=105
+"class_name"="Warrior"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=623
+"npc_id"=625
+"contents"="Howdy, partner. Ready to saddle up for another bounty?"
+"choice_options"=851
+"emotion"=806
+
+
+--- npcs ---
+
+"npc_id"=129
+"name"="Valdrick"
+"role"="Quest-givers"
+"region_id"=102
+"is_fightable"=null
+"description"="hbammuwt"
+
+
+--- players ---
+
+"player_id"=188
+"name"="Thorgath"
+"class"="Warrior"
+"race"="Elf"
+"health"=847
+"experience"=529
+"starting_region"="Elphora"
+
+
+--- players ---
+
+"player_id"=105
+"name"="Caelthor"
+"class"="Rogue"
+"race"="Undead"
+"health"=534
+"experience"=147
+"starting_region"="Valoria"
+
+
+--- players ---
+
+"player_id"=397
+"name"="Ulfrik"
+"class"="Archer"
+"race"="Naga"
+"health"=274
+"experience"=786
+"starting_region"="Cimmeria"
+
+
+--- items ---
+
+"item_id"=20
+"type"="Bow"
+"name"="Amulet of the Wind Whisperer"
+"description"="bruspobcih"
+"cost"=407
+
+
+--- dialogues ---
+
+"dialogue_id"=611
+"npc_id"=612
+"contents"="Ah, you've come this far, only to die at the hands of the King of Shadows! But first, how was your day?"
+"choice_options"=721
+"emotion"=382
+
+
+--- teams ---
+
+"team_id"=76
+"name"="NebulaSeekers"
+"members_amount"=420
+
+
+--- Enemy ---
+
+"id"=487
+"enemy_name"="Vampiric Bat Swarm"
+"enemy_type"="Undead"
+"hitpoints"=107
+"warcry"="idru"
+
+
+--- Enemy ---
+
+"id"=412
+"enemy_name"="Bloodthirsty Mermaid"
+"enemy_type"="Beast"
+"hitpoints"=945
+"warcry"="imepratro"
+
+
+--- players ---
+
+"player_id"=295
+"name"="Gorgrim"
+"class"="Archer"
+"race"="Elf"
+"health"=518
+"experience"=458
+"starting_region"="Valoria"
+
+
+--- dialogues ---
+
+"dialogue_id"=289
+"npc_id"=291
+"contents"="Ah, another wanderer looking to buy some potions. Just don't ask what's in them."
+"choice_options"=588
+"emotion"=103
+
+
+--- guilds ---
+
+"guild_id"=121
+"type"="Spying"
+"name"="Circle of Druids"
+"description"="trubru"
+
+
+--- teams ---
+
+"team_id"=59
+"name"="Shadow_Assassins"
+"members_amount"=483
+
+
+--- events ---
+
+"event_id"=210
+"name"="Rage of the Warbeast"
+"event_time"=580
+
+
+--- classes ---
+
+"class_id"=125
+"class_name"="Healer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- players ---
+
+"player_id"=245
+"name"="Serafelle"
+"class"="Archer"
+"race"="Undead"
+"health"=43
+"experience"=994
+"starting_region"="Cimmeria"
+
+
+--- events ---
+
+"event_id"=155
+"name"="Timeless Enigma"
+"event_time"=404
+
+
+--- teams ---
+
+"team_id"=380
+"name"="Amethyst_Arbiters"
+"members_amount"=280
+
+
+--- dialogues ---
+
+"dialogue_id"=141
+"npc_id"=142
+"contents"="Hey, listen! You should really stock up on potions before the next fight."
+"choice_options"=273
+"emotion"=916
+
+
+--- events ---
+
+"event_id"=86
+"name"="Riddle of the Ancient Sphinx"
+"event_time"=307
+
+
+--- classes ---
+
+"class_id"=61
+"class_name"="Archer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- items ---
+
+"item_id"=49
+"type"="Sword"
+"name"="Demon's Blood Elixir"
+"description"="tafroe"
+"cost"=77
+
+
+--- items ---
+
+"item_id"=218
+"type"="Ring"
+"name"="Boots of the Shadow Dancer"
+"description"="gaesneo"
+"cost"=284
+
+
+--- races ---
+
+"race_id"=48
+"name"="Dwarf"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- teams ---
+
+"team_id"=249
+"name"="Golden_Lions"
+"members_amount"=690
+
+
+--- races ---
+
+"race_id"=28
+"name"="Undead"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- fightable_characters ---
+
+"npc_id"=269
+"health"=550
+"reward_experience"=378
+
+
+--- dialogues ---
+
+"dialogue_id"=397
+"npc_id"=399
+"contents"="You must collect the seven artifacts of power! And maybe some milk on your way back?"
+"choice_options"=666
+"emotion"=479
+
+
+--- events ---
+
+"event_id"=37
+"name"="The Fall of Skyspire"
+"event_time"=203
+
+
+--- Enemy ---
+
+"id"=595
+"enemy_name"="Fallen Archangel"
+"enemy_type"="Undead"
+"hitpoints"=698
+"warcry"="nbucro"
+
+
+--- items ---
+
+"item_id"=366
+"type"="Amulet"
+"name"="Heartstone Amulet"
+"description"="jvay"
+"cost"=676
+
+
+--- fightable_characters ---
+
+"npc_id"=388
+"health"=323
+"reward_experience"=266
+
+
+--- races ---
+
+"race_id"=141
+"name"="Undead"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- events ---
+
+"event_id"=105
+"name"="The Cataclysm of Ironspire"
+"event_time"=541
+
+
+--- npcs ---
+
+"npc_id"=113
+"name"="Shaelis"
+"role"="Lore_Masters"
+"region_id"=442
+"is_fightable"=null
+"description"="jeste"
+
+
+--- events ---
+
+"event_id"=177
+"name"="Titan's Demise"
+"event_time"=870
+
+
+--- classes ---
+
+"class_id"=284
+"class_name"="Healer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- Enemy ---
+
+"id"=527
+"enemy_name"="Necrotic Lich"
+"enemy_type"="Swarm"
+"hitpoints"=821
+"warcry"="uswoa"
+
+
+--- teams ---
+
+"team_id"=221
+"name"="Titanium_Titans"
+"members_amount"=457
+
+
+--- Enemy ---
+
+"id"=460
+"enemy_name"="Fire Salamander"
+"enemy_type"="Magical"
+"hitpoints"=657
+"warcry"="gmoblia"
+
+
+--- dialogues ---
+
+"dialogue_id"=701
+"npc_id"=704
+"contents"="Behind every avatar is a player with a snack."
+"choice_options"=506
+"emotion"=376
+
+
+--- players ---
+
+"player_id"=323
+"name"="Xirelle"
+"class"="Mage"
+"race"="Elf"
+"health"=682
+"experience"=820
+"starting_region"="Valoria"
+
+
+--- npcs ---
+
+"npc_id"=72
+"name"="Orin"
+"role"="Lore_Masters"
+"region_id"=403
+"is_fightable"=null
+"description"="trempahsu"
+
+
+--- dialogues ---
+
+"dialogue_id"=726
+"npc_id"=729
+"contents"="I feel the need\u00e2\u20ac\u201dthe need for speed (potions)!"
+"choice_options"=283
+"emotion"=68
+
+
+--- players ---
+
+"player_id"=197
+"name"="Aralyn"
+"class"="Archer"
+"race"="Human"
+"health"=145
+"experience"=743
+"starting_region"="Orynthia"
+
+
+--- Enemy ---
+
+"id"=475
+"enemy_name"="Infernal Incubus"
+"enemy_type"="Undead"
+"hitpoints"=616
+"warcry"="hjigluflasm"
+
+
+--- classes ---
+
+"class_id"=227
+"class_name"="Archer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- items ---
+
+"item_id"=189
+"type"="Sword"
+"name"="Ring of the Fallen Queen"
+"description"="xfiogrispe"
+"cost"=270
+
+
+--- fightable_characters ---
+
+"npc_id"=248
+"health"=65
+"reward_experience"=46
+
+
+--- races ---
+
+"race_id"=77
+"name"="Human"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- events ---
+
+"event_id"=30
+"name"="The Scarlet Eclipse"
+"event_time"=812
+
+
+--- players ---
+
+"player_id"=363
+"name"="Lythra"
+"class"="Archer"
+"race"="Human"
+"health"=862
+"experience"=46
+"starting_region"="Elphora"
+
+
+--- Enemy ---
+
+"id"=407
+"enemy_name"="Radiant Valkyrie"
+"enemy_type"="Magical"
+"hitpoints"=488
+"warcry"="mleajrec"
+
+
+--- players ---
+
+"player_id"=220
+"name"="Orifel"
+"class"="Summoner"
+"race"="Dwarf"
+"health"=529
+"experience"=736
+"starting_region"="Cimmeria"
+
+
+--- fightable_characters ---
+
+"npc_id"=208
+"health"=755
+"reward_experience"=728
+
+
+--- events ---
+
+"event_id"=58
+"name"="Corruption of the Sacred Grove"
+"event_time"=442
+
+
+--- teams ---
+
+"team_id"=148
+"name"="Chaos_Bringers"
+"members_amount"=192
+
+
+--- teams ---
+
+"team_id"=375
+"name"="NebulaSeekers"
+"members_amount"=566
+
+
+--- teams ---
+
+"team_id"=178
+"name"="Holy_Shamans"
+"members_amount"=674
+
+
+--- dialogues ---
+
+"dialogue_id"=648
+"npc_id"=650
+"contents"="So you're an adventurer? Isn't that just kick-you-in-the-crotch, spit-on-your-neck fantastic?"
+"choice_options"=470
+"emotion"=37
+
+
+--- classes ---
+
+"class_id"=17
+"class_name"="Rogue"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- items ---
+
+"item_id"=117
+"type"="Ring"
+"name"="Bread of the Wise"
+"description"="uacr"
+"cost"=868
+
+
+--- fightable_characters ---
+
+"npc_id"=331
+"health"=323
+"reward_experience"=519
+
+
+--- dialogues ---
+
+"dialogue_id"=716
+"npc_id"=718
+"contents"="You shall not pass, unless you solve my riddle!"
+"choice_options"=637
+"emotion"=161
+
+
+--- guilds ---
+
+"guild_id"=123
+"type"="Spying"
+"name"="Seekers of Truth"
+"description"="evh"
+
+
+--- classes ---
+
+"class_id"=171
+"class_name"="Healer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- items ---
+
+"item_id"=16
+"type"="Shield"
+"name"="Rune-etched Crossbow"
+"description"="ziswuske"
+"cost"=914
+
+
+--- items ---
+
+"item_id"=124
+"type"="Bow"
+"name"="Lunar Tear Bracelet"
+"description"="evd"
+"cost"=72
+
+
+--- teams ---
+
+"team_id"=246
+"name"="ThunderClan"
+"members_amount"=581
+
+
+--- classes ---
+
+"class_id"=30
+"class_name"="Warrior"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- items ---
+
+"item_id"=271
+"type"="Amulet"
+"name"="Gauntlets of the Berserker"
+"description"="ujler"
+"cost"=250
+
+
+--- players ---
+
+"player_id"=156
+"name"="Ashara"
+"class"="Rogue"
+"race"="Orc"
+"health"=604
+"experience"=383
+"starting_region"="Orynthia"
+
+
+--- dialogues ---
+
+"dialogue_id"=13
+"npc_id"=16
+"contents"="Welcome, adventurer, to the Caverns of Eternal Sorrow. Happy hour is from 4 to 6."
+"choice_options"=425
+"emotion"=441
+
+
+--- dialogues ---
+
+"dialogue_id"=666
+"npc_id"=669
+"contents"="Whoa! You just hit level 20? That's sooo aesthetic! #LevelUpGoals"
+"choice_options"=765
+"emotion"=706
+
+
+--- fightable_characters ---
+
+"npc_id"=201
+"health"=451
+"reward_experience"=2
+
+
+--- classes ---
+
+"class_id"=8
+"class_name"="Archer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- classes ---
+
+"class_id"=120
+"class_name"="Healer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- Enemy ---
+
+"id"=529
+"enemy_name"="Cybernetic Scorpion"
+"enemy_type"="Beast"
+"hitpoints"=237
+"warcry"="treclaujs"
+
+
+--- Enemy ---
+
+"id"=462
+"enemy_name"="Harpy Scream"
+"enemy_type"="Flora"
+"hitpoints"=651
+"warcry"="yilsubi"
+
+
+--- players ---
+
+"player_id"=342
+"name"="Gilean"
+"class"="Healer"
+"race"="Undead"
+"health"=6
+"experience"=642
+"starting_region"="Cimmeria"
+
+
+--- dialogues ---
+
+"dialogue_id"=615
+"npc_id"=618
+"contents"="Do you wish to hear a tale of valor and sacrifice? Too late, it's DLC content."
+"choice_options"=941
+"emotion"=198
+
+
+--- races ---
+
+"race_id"=13
+"name"="Elf"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- classes ---
+
+"class_id"=5
+"class_name"="Summoner"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- classes ---
+
+"class_id"=184
+"class_name"="Archer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- items ---
+
+"item_id"=272
+"type"="Ring"
+"name"="Titanium Gauntlet"
+"description"="rhedri"
+"cost"=377
+
+
+--- items ---
+
+"item_id"=3
+"type"="Sword"
+"name"="Amulet of the Moon"
+"description"="uupr"
+"cost"=264
+
+
+--- teams ---
+
+"team_id"=265
+"name"="Templar_Order"
+"members_amount"=904
+
+
+--- guilds ---
+
+"guild_id"=5
+"type"="Exploration"
+"name"="Artisans of Alchemy"
+"description"="wfeu"
+
+
+--- items ---
+
+"item_id"=311
+"type"="Potion"
+"name"="Venomtouch Whip"
+"description"="sjua"
+"cost"=173
+
+
+--- fightable_characters ---
+
+"npc_id"=367
+"health"=895
+"reward_experience"=117
+
+
+--- Enemy ---
+
+"id"=609
+"enemy_name"="Night Stalker"
+"enemy_type"="Demon"
+"hitpoints"=431
+"warcry"="dfaokjez"
+
+
+--- guilds ---
+
+"guild_id"=143
+"type"="Trading"
+"name"="Heralds of Hope"
+"description"="uinp"
+
+
+--- items ---
+
+"item_id"=309
+"type"="Staff"
+"name"="Windfury Longsword"
+"description"="swaefrogj"
+"cost"=715
+
+
+--- items ---
+
+"item_id"=222
+"type"="Amulet"
+"name"="Orb of the Soul Reaver"
+"description"="spukausl"
+"cost"=767
+
+
+--- teams ---
+
+"team_id"=129
+"name"="CosmicVoyagers"
+"members_amount"=739
+
+
+--- items ---
+
+"item_id"=73
+"type"="Dagger"
+"name"="Warhammer of the Earthshaker"
+"description"="wyufle"
+"cost"=408
+
+
+--- dialogues ---
+
+"dialogue_id"=191
+"npc_id"=193
+"contents"="If you can't handle me at my worst, you sure as hell don't deserve me at my best stats."
+"choice_options"=326
+"emotion"=366
+
+
+--- teams ---
+
+"team_id"=92
+"name"="Chaos_Bringers"
+"members_amount"=209
+
+
+--- fightable_characters ---
+
+"npc_id"=180
+"health"=354
+"reward_experience"=227
+
+
+--- npcs ---
+
+"npc_id"=136
+"name"="Zephyra"
+"role"="Lore_Masters"
+"region_id"=966
+"is_fightable"=null
+"description"="glohfusp"
+
+
+--- players ---
+
+"player_id"=43
+"name"="Elidora"
+"class"="Summoner"
+"race"="Undead"
+"health"=26
+"experience"=967
+"starting_region"="Elphora"
+
+
+--- Enemy ---
+
+"id"=652
+"enemy_name"="Necrotic Lich"
+"enemy_type"="Construct"
+"hitpoints"=905
+"warcry"="smavguu"
+
+
+--- guilds ---
+
+"guild_id"=46
+"type"="Exploration"
+"name"="The Undying"
+"description"="qesn"
+
+
+--- dialogues ---
+
+"dialogue_id"=502
+"npc_id"=503
+"contents"="Time you enjoy wasting on this game was not wasted time."
+"choice_options"=806
+"emotion"=272
+
+
+--- Enemy ---
+
+"id"=625
+"enemy_name"="Poisonous Plant"
+"enemy_type"="Dragon"
+"hitpoints"=540
+"warcry"="yqefos"
+
+
+--- races ---
+
+"race_id"=114
+"name"="Human"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- dialogues ---
+
+"dialogue_id"=122
+"npc_id"=124
+"contents"="Welcome, adventurer, to the dungeon of doom! Not to be confused with the dungeon of gloom, that's two doors down."
+"choice_options"=998
+"emotion"=376
+
+
+--- items ---
+
+"item_id"=363
+"type"="Potion"
+"name"="Ring of the Fallen King"
+"description"="ebrefrag"
+"cost"=680
+
+
+--- items ---
+
+"item_id"=356
+"type"="Staff"
+"name"="Demon's Blood Elixir"
+"description"="scoiwkaix"
+"cost"=385
+
+
+--- Enemy ---
+
+"id"=433
+"enemy_name"="Stone Sentinel"
+"enemy_type"="Elemental"
+"hitpoints"=341
+"warcry"="dreivkid"
+
+
+--- teams ---
+
+"team_id"=358
+"name"="NebulaSeekers"
+"members_amount"=573
+
+
+--- npcs ---
+
+"npc_id"=111
+"name"="Elandria"
+"role"="Skill_Trainers"
+"region_id"=790
+"is_fightable"=null
+"description"="gvoblanv"
+
+
+--- npcs ---
+
+"npc_id"=10
+"name"="Lyrielle"
+"role"="Skill_Trainers"
+"region_id"=815
+"is_fightable"=null
+"description"="loifne"
+
+
+--- events ---
+
+"event_id"=41
+"name"="Fireheart's Revenge"
+"event_time"=321
+
+
+--- dialogues ---
+
+"dialogue_id"=29
+"npc_id"=31
+"contents"="Howdy, partner. Ready to saddle up for another bounty?"
+"choice_options"=777
+"emotion"=275
+
+
+--- items ---
+
+"item_id"=371
+"type"="Bow"
+"name"="Potion of Mana Regeneration"
+"description"="sposke"
+"cost"=32
+
+
+--- fightable_characters ---
+
+"npc_id"=313
+"health"=365
+"reward_experience"=524
+
+
+--- classes ---
+
+"class_id"=390
+"class_name"="Mage"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- Enemy ---
+
+"id"=448
+"enemy_name"="Warrior Orc"
+"enemy_type"="Construct"
+"hitpoints"=917
+"warcry"="skotrudrausc"
+
+
+--- guilds ---
+
+"guild_id"=142
+"type"="Trading"
+"name"="Ocean's Children"
+"description"="gse"
+
+
+--- dialogues ---
+
+"dialogue_id"=588
+"npc_id"=591
+"contents"="Seek the Old Wise Man at the mountain peak. He shall... wait, you're googling a walkthrough, aren't you?"
+"choice_options"=495
+"emotion"=131
+
+
+--- Enemy ---
+
+"id"=492
+"enemy_name"="Haunted Marionette"
+"enemy_type"="Humanoid"
+"hitpoints"=763
+"warcry"="pucoblu"
+
+
+--- items ---
+
+"item_id"=349
+"type"="Amulet"
+"name"="Ring of the Sages"
+"description"="fleeth"
+"cost"=59
+
+
+--- events ---
+
+"event_id"=40
+"name"="Challenge of the Seven Seals"
+"event_time"=428
+
+
+--- teams ---
+
+"team_id"=48
+"name"="FireSerpents"
+"members_amount"=682
+
+
+--- teams ---
+
+"team_id"=127
+"name"="Rogue_Wraiths"
+"members_amount"=995
+
+
+--- classes ---
+
+"class_id"=248
+"class_name"="Warrior"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- Enemy ---
+
+"id"=458
+"enemy_name"="Cave Spider"
+"enemy_type"="Demon"
+"hitpoints"=549
+"warcry"="alsurx"
+
+
+--- races ---
+
+"race_id"=176
+"name"="Undead"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- events ---
+
+"event_id"=60
+"name"="Festival of Golden Leaves"
+"event_time"=957
+
+
+--- dialogues ---
+
+"dialogue_id"=661
+"npc_id"=664
+"contents"="Behind every avatar is a player with a snack."
+"choice_options"=169
+"emotion"=423
+
+
+--- events ---
+
+"event_id"=85
+"name"="Fireheart's Revenge"
+"event_time"=919
+
+
+--- items ---
+
+"item_id"=6
+"type"="Ring"
+"name"="Necklace of the Mermaid"
+"description"="plogrogka"
+"cost"=243
+
+
+--- races ---
+
+"race_id"=118
+"name"="Elf"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- classes ---
+
+"class_id"=265
+"class_name"="Rogue"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- classes ---
+
+"class_id"=302
+"class_name"="Archer"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- fightable_characters ---
+
+"npc_id"=350
+"health"=985
+"reward_experience"=413
+
+
+--- teams ---
+
+"team_id"=71
+"name"="LunarEclipsers"
+"members_amount"=58
+
+
+--- races ---
+
+"race_id"=92
+"name"="Orc"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- items ---
+
+"item_id"=21
+"type"="Ring"
+"name"="Armor of the Sea Spirit"
+"description"="wzoq"
+"cost"=648
+
+
+--- teams ---
+
+"team_id"=170
+"name"="Lightbringers"
+"members_amount"=841
+
+
+--- players ---
+
+"player_id"=278
+"name"="Seraphix"
+"class"="Rogue"
+"race"="Elf"
+"health"=948
+"experience"=212
+"starting_region"="Valoria"
+
+
+--- players ---
+
+"player_id"=52
+"name"="Aryndis"
+"class"="Mage"
+"race"="Elf"
+"health"=549
+"experience"=153
+"starting_region"="Valoria"
+
+
+--- teams ---
+
+"team_id"=37
+"name"="Eclipse_Archers"
+"members_amount"=19
+
+
+--- events ---
+
+"event_id"=135
+"name"="Valley of Forgotten Echoes"
+"event_time"=400
+
+
+--- players ---
+
+"player_id"=260
+"name"="Naelor"
+"class"="Healer"
+"race"="Dwarf"
+"health"=66
+"experience"=795
+"starting_region"="Cimmeria"
+
+
+--- teams ---
+
+"team_id"=192
+"name"="Spellbinders"
+"members_amount"=435
+
+
+--- events ---
+
+"event_id"=148
+"name"="Lost Horizon's Discovery"
+"event_time"=312
+
+
+--- teams ---
+
+"team_id"=120
+"name"="Venom_Serpents"
+"members_amount"=3
+
+
+--- classes ---
+
+"class_id"=401
+"class_name"="Archer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- npcs ---
+
+"npc_id"=76
+"name"="Aerendir"
+"role"="Lore_Masters"
+"region_id"=798
+"is_fightable"=null
+"description"="brund"
+
+
+--- races ---
+
+"race_id"=16
+"name"="Undead"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- classes ---
+
+"class_id"=283
+"class_name"="Archer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- teams ---
+
+"team_id"=75
+"name"="ArcaneWizards"
+"members_amount"=560
+
+
+--- teams ---
+
+"team_id"=162
+"name"="Warden_of_Will"
+"members_amount"=671
+
+
+--- guilds ---
+
+"guild_id"=156
+"type"="Questing"
+"name"="Wizards of the Coast"
+"description"="elmi"
+
+
+--- fightable_characters ---
+
+"npc_id"=284
+"health"=654
+"reward_experience"=846
+
+
+--- classes ---
+
+"class_id"=147
+"class_name"="Healer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- items ---
+
+"item_id"=104
+"type"="Potion"
+"name"="Orb of Chaos"
+"description"="uokqiusli"
+"cost"=19
+
+
+--- items ---
+
+"item_id"=41
+"type"="Sword"
+"name"="Robes of the Archmage"
+"description"="ispub"
+"cost"=6
+
+
+--- players ---
+
+"player_id"=383
+"name"="Elandria"
+"class"="Summoner"
+"race"="Undead"
+"health"=560
+"experience"=854
+"starting_region"="Valoria"
+
+
+--- Enemy ---
+
+"id"=517
+"enemy_name"="Scourge Wight"
+"enemy_type"="Humanoid"
+"hitpoints"=809
+"warcry"="gxiskesmusm"
+
+
+--- npcs ---
+
+"npc_id"=116
+"name"="Valdrick"
+"role"="Skill_Trainers"
+"region_id"=725
+"is_fightable"=null
+"description"="ibludr"
+
+
+--- teams ---
+
+"team_id"=42
+"name"="Oblivion_Dwellers"
+"members_amount"=45
+
+
+--- npcs ---
+
+"npc_id"=3
+"name"="Faelthorn"
+"role"="Lore_Masters"
+"region_id"=142
+"is_fightable"=null
+"description"="ostioyh"
+
+
+--- dialogues ---
+
+"dialogue_id"=528
+"npc_id"=530
+"contents"="Between the idea and the reality, between the potion and the effect, falls the lag."
+"choice_options"=626
+"emotion"=845
+
+
+--- teams ---
+
+"team_id"=373
+"name"="Dragon_Tamers"
+"members_amount"=633
+
+
+--- fightable_characters ---
+
+"npc_id"=161
+"health"=617
+"reward_experience"=491
+
+
+--- events ---
+
+"event_id"=152
+"name"="Wrath of the Earthmother"
+"event_time"=337
+
+
+--- dialogues ---
+
+"dialogue_id"=310
+"npc_id"=311
+"contents"="In this world, it's grind or be grinded!"
+"choice_options"=10
+"emotion"=218
+
+
+--- events ---
+
+"event_id"=190
+"name"="Oracle's Prophetic Challenge"
+"event_time"=674
+
+
+--- teams ---
+
+"team_id"=227
+"name"="Dimensional_Shifters"
+"members_amount"=966
+
+
+--- events ---
+
+"event_id"=217
+"name"="Revolution of the Iron Fist"
+"event_time"=437
+
+
+--- guilds ---
+
+"guild_id"=155
+"type"="PvP"
+"name"="Prophets of Doom"
+"description"="sucro"
+
+
+--- guilds ---
+
+"guild_id"=39
+"type"="Spying"
+"name"="Frostbite Clan"
+"description"="oplirs"
+
+
+--- players ---
+
+"player_id"=233
+"name"="Elidora"
+"class"="Rogue"
+"race"="Naga"
+"health"=431
+"experience"=789
+"starting_region"="Orynthia"
+
+
+--- dialogues ---
+
+"dialogue_id"=419
+"npc_id"=422
+"contents"="The only thing we have to grind is grinding itself."
+"choice_options"=592
+"emotion"=166
+
+
+--- events ---
+
+"event_id"=8
+"name"="Cursed Souls' Nightfall"
+"event_time"=280
+
+
+--- items ---
+
+"item_id"=365
+"type"="Shield"
+"name"="Potion of Mana Regeneration"
+"description"="bvopuuska"
+"cost"=858
+
+
+--- teams ---
+
+"team_id"=338
+"name"="Spirit_Seekers"
+"members_amount"=708
+
+
+--- players ---
+
+"player_id"=21
+"name"="Kyrion"
+"class"="Mage"
+"race"="Undead"
+"health"=33
+"experience"=683
+"starting_region"="Orynthia"
+
+
+--- players ---
+
+"player_id"=56
+"name"="Faelthorn"
+"class"="Warrior"
+"race"="Human"
+"health"=552
+"experience"=608
+"starting_region"="Valoria"
+
+
+--- classes ---
+
+"class_id"=69
+"class_name"="Mage"
+"description"="Summons minions to aid in combat."
+
+
+--- teams ---
+
+"team_id"=16
+"name"="Azure_Avatars"
+"members_amount"=399
+
+
+--- Enemy ---
+
+"id"=563
+"enemy_name"="Ancient Wyrm"
+"enemy_type"="Undead"
+"hitpoints"=3
+"warcry"="eopriplotre"
+
+
+--- fightable_characters ---
+
+"npc_id"=340
+"health"=701
+"reward_experience"=124
+
+
+--- players ---
+
+"player_id"=200
+"name"="Aeriana"
+"class"="Mage"
+"race"="Human"
+"health"=604
+"experience"=568
+"starting_region"="Orynthia"
+
+
+--- Enemy ---
+
+"id"=581
+"enemy_name"="Banshee Queen"
+"enemy_type"="Humanoid"
+"hitpoints"=845
+"warcry"="doq"
+
+
+--- fightable_characters ---
+
+"npc_id"=258
+"health"=431
+"reward_experience"=761
+
+
+--- Enemy ---
+
+"id"=439
+"enemy_name"="Demonic Kraken"
+"enemy_type"="Beast"
+"hitpoints"=565
+"warcry"="oetrac"
+
+
+--- events ---
+
+"event_id"=81
+"name"="Feast of the Harvest Moon"
+"event_time"=393
+
+
+--- items ---
+
+"item_id"=327
+"type"="Potion"
+"name"="Ring of the Fallen King"
+"description"="dtoy"
+"cost"=188
+
+
+--- npcs ---
+
+"npc_id"=31
+"name"="Elanor"
+"role"="Skill_Trainers"
+"region_id"=261
+"is_fightable"=null
+"description"="vas"
+
+
+--- players ---
+
+"player_id"=352
+"name"="Zephyra"
+"class"="Healer"
+"race"="Human"
+"health"=942
+"experience"=560
+"starting_region"="Cimmeria"
+
+
+--- dialogues ---
+
+"dialogue_id"=742
+"npc_id"=743
+"contents"="Existence precedes essence. So, what's your next quest, existentialist?"
+"choice_options"=753
+"emotion"=238
+
+
+--- fightable_characters ---
+
+"npc_id"=194
+"health"=87
+"reward_experience"=114
+
+
+--- guilds ---
+
+"guild_id"=90
+"type"="Healing"
+"name"="Nature's Whisper"
+"description"="euslaqogs"
+
+
+--- dialogues ---
+
+"dialogue_id"=323
+"npc_id"=326
+"contents"="Good to see you, hero! Or should I say... cash cow?"
+"choice_options"=641
+"emotion"=8
+
+
+--- classes ---
+
+"class_id"=255
+"class_name"="Archer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- dialogues ---
+
+"dialogue_id"=333
+"npc_id"=335
+"contents"="Ugh! Could you BE any slower in finishing this quest?"
+"choice_options"=173
+"emotion"=315
+
+
+--- teams ---
+
+"team_id"=316
+"name"="Elemental_Force"
+"members_amount"=663
+
+
+--- classes ---
+
+"class_id"=312
+"class_name"="Rogue"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- players ---
+
+"player_id"=385
+"name"="Caelthor"
+"class"="Rogue"
+"race"="Human"
+"health"=823
+"experience"=517
+"starting_region"="Orynthia"
+
+
+--- dialogues ---
+
+"dialogue_id"=437
+"npc_id"=440
+"contents"="It is not the strength of the body that counts, but the strength of the spirit."
+"choice_options"=716
+"emotion"=163
+
+
+--- events ---
+
+"event_id"=239
+"name"="Temple of the Wicked Oracle"
+"event_time"=833
+
+
+--- npcs ---
+
+"npc_id"=98
+"name"="Grundor"
+"role"="Lore_Masters"
+"region_id"=778
+"is_fightable"=null
+"description"="loe"
+
+
+--- npcs ---
+
+"npc_id"=15
+"name"="Aerendir"
+"role"="Shopkeepers"
+"region_id"=126
+"is_fightable"=null
+"description"="slecxa"
+
+
+--- races ---
+
+"race_id"=1
+"name"="Elf"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- teams ---
+
+"team_id"=86
+"name"="PhoenixRising"
+"members_amount"=685
+
+
+--- players ---
+
+"player_id"=279
+"name"="Veylan"
+"class"="Healer"
+"race"="Dwarf"
+"health"=860
+"experience"=818
+"starting_region"="Cimmeria"
+
+
+--- teams ---
+
+"team_id"=126
+"name"="Solar_Sentinels"
+"members_amount"=870
+
+
+--- events ---
+
+"event_id"=92
+"name"="Quest for the Lost Relics"
+"event_time"=96
+
+
+--- classes ---
+
+"class_id"=371
+"class_name"="Mage"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=279
+"npc_id"=281
+"contents"="Hey, listen! You should really stock up on potions before the next fight."
+"choice_options"=693
+"emotion"=354
+
+
+--- teams ---
+
+"team_id"=88
+"name"="CelestialKnights"
+"members_amount"=666
+
+
+--- teams ---
+
+"team_id"=66
+"name"="Abyss_Watchers"
+"members_amount"=369
+
+
+--- races ---
+
+"race_id"=162
+"name"="Human"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- events ---
+
+"event_id"=156
+"name"="Vault of the Fallen Stars"
+"event_time"=992
+
+
+--- items ---
+
+"item_id"=306
+"type"="Ring"
+"name"="Amethyst Soul Amulet"
+"description"="zirkucrabr"
+"cost"=213
+
+
+--- dialogues ---
+
+"dialogue_id"=460
+"npc_id"=462
+"contents"="Time you enjoy wasting on this game was not wasted time."
+"choice_options"=351
+"emotion"=292
+
+
+--- races ---
+
+"race_id"=61
+"name"="Orc"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- teams ---
+
+"team_id"=323
+"name"="Topaz_Templars"
+"members_amount"=966
+
+
+--- Enemy ---
+
+"id"=658
+"enemy_name"="Murderous Wendigo"
+"enemy_type"="Magical"
+"hitpoints"=729
+"warcry"="huq"
+
+
+--- players ---
+
+"player_id"=368
+"name"="Ulfrik"
+"class"="Healer"
+"race"="Elf"
+"health"=358
+"experience"=381
+"starting_region"="Cimmeria"
+
+
+--- npcs ---
+
+"npc_id"=121
+"name"="Thaelis"
+"role"="Lore_Masters"
+"region_id"=702
+"is_fightable"=null
+"description"="ufleostep"
+
+
+--- teams ---
+
+"team_id"=114
+"name"="Frost_Wolves"
+"members_amount"=244
+
+
+--- Enemy ---
+
+"id"=599
+"enemy_name"="Lunar Witch"
+"enemy_type"="Magical"
+"hitpoints"=195
+"warcry"="gludbipli"
+
+
+--- races ---
+
+"race_id"=9
+"name"="Orc"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- classes ---
+
+"class_id"=273
+"class_name"="Rogue"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- players ---
+
+"player_id"=93
+"name"="Gorgrim"
+"class"="Summoner"
+"race"="Undead"
+"health"=772
+"experience"=177
+"starting_region"="Elphora"
+
+
+--- classes ---
+
+"class_id"=270
+"class_name"="Archer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- teams ---
+
+"team_id"=280
+"name"="Fire_Dragons"
+"members_amount"=651
+
+
+--- dialogues ---
+
+"dialogue_id"=546
+"npc_id"=549
+"contents"="The orcs have a saying: 'Die with honor, respawn with more loot.'"
+"choice_options"=814
+"emotion"=94
+
+
+--- npcs ---
+
+"npc_id"=18
+"name"="Zephyrix"
+"role"="Lore_Masters"
+"region_id"=416
+"is_fightable"=null
+"description"="eapregriu"
+
+
+--- players ---
+
+"player_id"=190
+"name"="Oromis"
+"class"="Summoner"
+"race"="Orc"
+"health"=683
+"experience"=371
+"starting_region"="Elphora"
+
+
+--- players ---
+
+"player_id"=212
+"name"="Naelor"
+"class"="Warrior"
+"race"="Human"
+"health"=427
+"experience"=521
+"starting_region"="Cimmeria"
+
+
+--- events ---
+
+"event_id"=117
+"name"="Storm of the Dead"
+"event_time"=33
+
+
+--- Enemy ---
+
+"id"=496
+"enemy_name"="Winged Serpent"
+"enemy_type"="Humanoid"
+"hitpoints"=576
+"warcry"="aagroelj"
+
+
+--- items ---
+
+"item_id"=29
+"type"="Amulet"
+"name"="Amulet of the Wind Whisperer"
+"description"="swavloe"
+"cost"=727
+
+
+--- fightable_characters ---
+
+"npc_id"=229
+"health"=355
+"reward_experience"=983
+
+
+--- items ---
+
+"item_id"=182
+"type"="Amulet"
+"name"="Maul of the Frost Giant"
+"description"="escuq"
+"cost"=572
+
+
+--- events ---
+
+"event_id"=203
+"name"="Warsong's End"
+"event_time"=176
+
+
+--- dialogues ---
+
+"dialogue_id"=447
+"npc_id"=450
+"contents"="He who fights with monsters should be careful lest he thereby become a monster. And if you grind too long, the grind also grinds you."
+"choice_options"=539
+"emotion"=248
+
+
+--- classes ---
+
+"class_id"=277
+"class_name"="Archer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- dialogues ---
+
+"dialogue_id"=130
+"npc_id"=133
+"contents"="Why do today what you can put off for tomorrow? Actually, the Dragon won't slay itself."
+"choice_options"=273
+"emotion"=864
+
+
+--- fightable_characters ---
+
+"npc_id"=355
+"health"=666
+"reward_experience"=767
+
+
+--- Enemy ---
+
+"id"=596
+"enemy_name"="Bloodthirsty Mermaid"
+"enemy_type"="Dragon"
+"hitpoints"=39
+"warcry"="uye"
+
+
+--- teams ---
+
+"team_id"=191
+"name"="Jade_Tigers"
+"members_amount"=911
+
+
+--- items ---
+
+"item_id"=172
+"type"="Staff"
+"name"="Flask of Infinite Courage"
+"description"="scizri"
+"cost"=164
+
+
+--- items ---
+
+"item_id"=70
+"type"="Staff"
+"name"="Ring of the Sages"
+"description"="ipricdu"
+"cost"=457
+
+
+--- npcs ---
+
+"npc_id"=102
+"name"="Aeriana"
+"role"="Shopkeepers"
+"region_id"=917
+"is_fightable"=null
+"description"="slaosmu"
+
+
+--- players ---
+
+"player_id"=298
+"name"="Jadefang"
+"class"="Mage"
+"race"="Naga"
+"health"=935
+"experience"=339
+"starting_region"="Cimmeria"
+
+
+--- teams ---
+
+"team_id"=197
+"name"="FrostGuardians"
+"members_amount"=110
+
+
+--- players ---
+
+"player_id"=184
+"name"="Xyra"
+"class"="Rogue"
+"race"="Dwarf"
+"health"=73
+"experience"=921
+"starting_region"="Cimmeria"
+
+
+--- Enemy ---
+
+"id"=421
+"enemy_name"="Siren of Despair"
+"enemy_type"="Dragon"
+"hitpoints"=570
+"warcry"="rtask"
+
+
+--- teams ---
+
+"team_id"=3
+"name"="Frost_Wolves"
+"members_amount"=577
+
+
+--- fightable_characters ---
+
+"npc_id"=337
+"health"=550
+"reward_experience"=186
+
+
+--- fightable_characters ---
+
+"npc_id"=215
+"health"=231
+"reward_experience"=329
+
+
+--- races ---
+
+"race_id"=116
+"name"="Human"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- players ---
+
+"player_id"=111
+"name"="Elidora"
+"class"="Healer"
+"race"="Elf"
+"health"=877
+"experience"=845
+"starting_region"="Valoria"
+
+
+--- races ---
+
+"race_id"=51
+"name"="Orc"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- Enemy ---
+
+"id"=419
+"enemy_name"="Chaos Demon"
+"enemy_type"="Elemental"
+"hitpoints"=81
+"warcry"="zboumv"
+
+
+--- fightable_characters ---
+
+"npc_id"=272
+"health"=451
+"reward_experience"=951
+
+
+--- npcs ---
+
+"npc_id"=96
+"name"="Nymriel"
+"role"="Shopkeepers"
+"region_id"=488
+"is_fightable"=null
+"description"="oeslaot"
+
+
+--- dialogues ---
+
+"dialogue_id"=594
+"npc_id"=595
+"contents"="The course of true love never did run smooth. But then again, neither does lag."
+"choice_options"=180
+"emotion"=199
+
+
+--- fightable_characters ---
+
+"npc_id"=381
+"health"=242
+"reward_experience"=304
+
+
+--- guilds ---
+
+"guild_id"=29
+"type"="Knowledge"
+"name"="Nature's Whisper"
+"description"="swieg"
+
+
+--- dialogues ---
+
+"dialogue_id"=673
+"npc_id"=675
+"contents"="Life, which you so nobly serve, comes from destruction, disorder and chaos."
+"choice_options"=721
+"emotion"=23
+
+
+--- teams ---
+
+"team_id"=274
+"name"="PhoenixRising"
+"members_amount"=200
+
+
+--- events ---
+
+"event_id"=103
+"name"="The Golem's Lament"
+"event_time"=659
+
+
+--- dialogues ---
+
+"dialogue_id"=108
+"npc_id"=110
+"contents"="You shall not pass, unless you solve my riddle!"
+"choice_options"=469
+"emotion"=608
+
+
+--- teams ---
+
+"team_id"=353
+"name"="Opal_Oracles"
+"members_amount"=380
+
+
+--- fightable_characters ---
+
+"npc_id"=148
+"health"=653
+"reward_experience"=267
+
+
+--- npcs ---
+
+"npc_id"=71
+"name"="Valyndra"
+"role"="Quest-givers"
+"region_id"=670
+"is_fightable"=null
+"description"="cleidk"
+
+
+--- items ---
+
+"item_id"=275
+"type"="Amulet"
+"name"="Shield of the Dwarven Lords"
+"description"="gweg"
+"cost"=241
+
+
+--- Enemy ---
+
+"id"=513
+"enemy_name"="Frostbite Scorpion"
+"enemy_type"="Humanoid"
+"hitpoints"=978
+"warcry"="uvir"
+
+
+--- teams ---
+
+"team_id"=301
+"name"="Jade_Tigers"
+"members_amount"=731
+
+
+--- classes ---
+
+"class_id"=172
+"class_name"="Summoner"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- teams ---
+
+"team_id"=102
+"name"="CelestialKnights"
+"members_amount"=218
+
+
+--- classes ---
+
+"class_id"=246
+"class_name"="Mage"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- teams ---
+
+"team_id"=140
+"name"="Holy_Shamans"
+"members_amount"=707
+
+
+--- items ---
+
+"item_id"=372
+"type"="Bow"
+"name"="Spectral Chainmail"
+"description"="mbildi"
+"cost"=238
+
+
+--- npcs ---
+
+"npc_id"=95
+"name"="Sarthon"
+"role"="Lore_Masters"
+"region_id"=585
+"is_fightable"=null
+"description"="isne"
+
+
+--- items ---
+
+"item_id"=375
+"type"="Staff"
+"name"="Cloak of Shadows"
+"description"="geaplusmeu"
+"cost"=70
+
+
+--- classes ---
+
+"class_id"=299
+"class_name"="Archer"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- events ---
+
+"event_id"=14
+"name"="Vault of the Fallen Stars"
+"event_time"=304
+
+
+--- items ---
+
+"item_id"=36
+"type"="Dagger"
+"name"="Staff of the Archmage"
+"description"="baen"
+"cost"=215
+
+
+--- players ---
+
+"player_id"=17
+"name"="Grundor"
+"class"="Healer"
+"race"="Elf"
+"health"=206
+"experience"=63
+"starting_region"="Elphora"
+
+
+--- dialogues ---
+
+"dialogue_id"=82
+"npc_id"=84
+"contents"="Mages get your staffs, warriors get your swords, and rogues, just... go stand in the corner."
+"choice_options"=660
+"emotion"=364
+
+
+--- classes ---
+
+"class_id"=342
+"class_name"="Summoner"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- teams ---
+
+"team_id"=157
+"name"="WarriorAngels"
+"members_amount"=916
+
+
+--- dialogues ---
+
+"dialogue_id"=136
+"npc_id"=138
+"contents"="Two things are infinite: the universe and the respawn timer; and I'm not sure about the universe."
+"choice_options"=865
+"emotion"=415
+
+
+--- players ---
+
+"player_id"=239
+"name"="Zyralor"
+"class"="Healer"
+"race"="Undead"
+"health"=540
+"experience"=49
+"starting_region"="Elphora"
+
+
+--- classes ---
+
+"class_id"=324
+"class_name"="Warrior"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- races ---
+
+"race_id"=196
+"name"="Undead"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- events ---
+
+"event_id"=185
+"name"="The Gathering Storm"
+"event_time"=550
+
+
+--- guilds ---
+
+"guild_id"=48
+"type"="Trading"
+"name"="Starborn Seekers"
+"description"="swofliec"
+
+
+--- guilds ---
+
+"guild_id"=65
+"type"="Trading"
+"name"="Nature's Whisper"
+"description"="zwi"
+
+
+--- classes ---
+
+"class_id"=399
+"class_name"="Healer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- races ---
+
+"race_id"=205
+"name"="Orc"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- events ---
+
+"event_id"=125
+"name"="Serpent's Ascension"
+"event_time"=924
+
+
+--- items ---
+
+"item_id"=126
+"type"="Dagger"
+"name"="Amulet of the Fallen"
+"description"="pecliz"
+"cost"=141
+
+
+--- players ---
+
+"player_id"=308
+"name"="Isolde"
+"class"="Warrior"
+"race"="Orc"
+"health"=874
+"experience"=691
+"starting_region"="Elphora"
+
+
+--- players ---
+
+"player_id"=47
+"name"="Zephyra"
+"class"="Healer"
+"race"="Naga"
+"health"=245
+"experience"=766
+"starting_region"="Cimmeria"
+
+
+--- items ---
+
+"item_id"=154
+"type"="Ring"
+"name"="Shield of the Dwarven Lords"
+"description"="fpeclidq"
+"cost"=961
+
+
+--- teams ---
+
+"team_id"=212
+"name"="Dusk_Rebels"
+"members_amount"=308
+
+
+--- events ---
+
+"event_id"=146
+"name"="The Harvest of Souls"
+"event_time"=88
+
+
+--- players ---
+
+"player_id"=54
+"name"="Belthorn"
+"class"="Mage"
+"race"="Naga"
+"health"=739
+"experience"=157
+"starting_region"="Orynthia"
+
+
+--- dialogues ---
+
+"dialogue_id"=254
+"npc_id"=255
+"contents"="What's up, heroes! Use code 'EPICQUEST' for 10% off your next in-game purchase!"
+"choice_options"=756
+"emotion"=317
+
+
+--- events ---
+
+"event_id"=72
+"name"="Odyssey of the Stormcaller"
+"event_time"=457
+
+
+--- dialogues ---
+
+"dialogue_id"=380
+"npc_id"=382
+"contents"="You shall not pass, unless you solve my riddle!"
+"choice_options"=492
+"emotion"=723
+
+
+--- teams ---
+
+"team_id"=362
+"name"="VampireSlayers"
+"members_amount"=744
+
+
+--- Enemy ---
+
+"id"=541
+"enemy_name"="Black Widow"
+"enemy_type"="Elemental"
+"hitpoints"=560
+"warcry"="uuxzal"
+
+
+--- teams ---
+
+"team_id"=367
+"name"="Rainbow_Riders"
+"members_amount"=329
+
+
+--- npcs ---
+
+"npc_id"=89
+"name"="Drakan"
+"role"="Skill_Trainers"
+"region_id"=551
+"is_fightable"=null
+"description"="pruuglufl"
+
+
+--- classes ---
+
+"class_id"=16
+"class_name"="Healer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- classes ---
+
+"class_id"=216
+"class_name"="Summoner"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- classes ---
+
+"class_id"=170
+"class_name"="Summoner"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- dialogues ---
+
+"dialogue_id"=216
+"npc_id"=218
+"contents"="The course of true love never did run smooth. But then again, neither does lag."
+"choice_options"=802
+"emotion"=645
+
+
+--- items ---
+
+"item_id"=54
+"type"="Sword"
+"name"="Sacred Feather Talisman"
+"description"="heslo"
+"cost"=482
+
+
+--- events ---
+
+"event_id"=31
+"name"="Carnival of the Forgotten"
+"event_time"=689
+
+
+--- items ---
+
+"item_id"=82
+"type"="Dagger"
+"name"="Boots of the Pathfinder"
+"description"="fleswurp"
+"cost"=646
+
+
+--- races ---
+
+"race_id"=122
+"name"="Orc"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=580
+"npc_id"=583
+"contents"="Time you enjoy wasting on this game was not wasted time."
+"choice_options"=715
+"emotion"=340
+
+
+--- items ---
+
+"item_id"=267
+"type"="Sword"
+"name"="Tome of the Elders"
+"description"="smavi"
+"cost"=490
+
+
+--- teams ---
+
+"team_id"=392
+"name"="Spirit_Seekers"
+"members_amount"=284
+
+
+--- classes ---
+
+"class_id"=348
+"class_name"="Warrior"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- classes ---
+
+"class_id"=144
+"class_name"="Rogue"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- fightable_characters ---
+
+"npc_id"=326
+"health"=80
+"reward_experience"=774
+
+
+--- classes ---
+
+"class_id"=23
+"class_name"="Summoner"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- fightable_characters ---
+
+"npc_id"=168
+"health"=933
+"reward_experience"=738
+
+
+--- players ---
+
+"player_id"=270
+"name"="Selendis"
+"class"="Archer"
+"race"="Undead"
+"health"=865
+"experience"=477
+"starting_region"="Elphora"
+
+
+--- dialogues ---
+
+"dialogue_id"=628
+"npc_id"=629
+"contents"="Come at me, bro. But only if you've read the Terms of Service."
+"choice_options"=333
+"emotion"=826
+
+
+--- teams ---
+
+"team_id"=325
+"name"="WarriorAngels"
+"members_amount"=605
+
+
+--- classes ---
+
+"class_id"=361
+"class_name"="Rogue"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=90
+"npc_id"=91
+"contents"="The unexamined quest is not worth grinding."
+"choice_options"=127
+"emotion"=246
+
+
+--- Enemy ---
+
+"id"=568
+"enemy_name"="Swamp Leviathan"
+"enemy_type"="Swarm"
+"hitpoints"=497
+"warcry"="enjij"
+
+
+--- dialogues ---
+
+"dialogue_id"=251
+"npc_id"=253
+"contents"="Between the idea and the reality, between the potion and the effect, falls the lag."
+"choice_options"=236
+"emotion"=206
+
+
+--- Enemy ---
+
+"id"=668
+"enemy_name"="Undead Pirate"
+"enemy_type"="Dragon"
+"hitpoints"=198
+"warcry"="rwatrare"
+
+
+--- dialogues ---
+
+"dialogue_id"=78
+"npc_id"=79
+"contents"="In this world, it's grind or be grinded!"
+"choice_options"=201
+"emotion"=592
+
+
+--- teams ---
+
+"team_id"=98
+"name"="Dusk_Rebels"
+"members_amount"=485
+
+
+--- players ---
+
+"player_id"=88
+"name"="Valeria"
+"class"="Mage"
+"race"="Undead"
+"health"=640
+"experience"=942
+"starting_region"="Elphora"
+
+
+--- items ---
+
+"item_id"=318
+"type"="Amulet"
+"name"="Emerald Saber of Souls"
+"description"="ueskiust"
+"cost"=140
+
+
+--- players ---
+
+"player_id"=3
+"name"="Elandria"
+"class"="Archer"
+"race"="Undead"
+"health"=399
+"experience"=869
+"starting_region"="Cimmeria"
+
+
+--- teams ---
+
+"team_id"=137
+"name"="Twilight_Hunters"
+"members_amount"=831
+
+
+--- classes ---
+
+"class_id"=275
+"class_name"="Summoner"
+"description"="Summons minions to aid in combat."
+
+
+--- Enemy ---
+
+"id"=600
+"enemy_name"="Spiked Behemoth"
+"enemy_type"="Magical"
+"hitpoints"=853
+"warcry"="orqotnen"
+
+
+--- teams ---
+
+"team_id"=285
+"name"="SoulHarvesters"
+"members_amount"=457
+
+
+--- dialogues ---
+
+"dialogue_id"=552
+"npc_id"=554
+"contents"="Existence precedes essence. So, what's your next quest, existentialist?"
+"choice_options"=923
+"emotion"=332
+
+
+--- guilds ---
+
+"guild_id"=111
+"type"="Exploration"
+"name"="The Forsaken"
+"description"="blupr"
+
+
+--- dialogues ---
+
+"dialogue_id"=262
+"npc_id"=265
+"contents"="In your quest, you must consult the Oracle of Delphi...or Dave, the guy who knows stuff."
+"choice_options"=114
+"emotion"=180
+
+
+--- players ---
+
+"player_id"=179
+"name"="Belthorn"
+"class"="Archer"
+"race"="Orc"
+"health"=541
+"experience"=74
+"starting_region"="Orynthia"
+
+
+--- Enemy ---
+
+"id"=678
+"enemy_name"="Demonic Harbinger"
+"enemy_type"="Humanoid"
+"hitpoints"=652
+"warcry"="nhugl"
+
+
+--- Enemy ---
+
+"id"=618
+"enemy_name"="Enraged Cyclops"
+"enemy_type"="Humanoid"
+"hitpoints"=48
+"warcry"="djoepcia"
+
+
+--- Enemy ---
+
+"id"=440
+"enemy_name"="Winged Serpent"
+"enemy_type"="Brute"
+"hitpoints"=524
+"warcry"="sloblislu"
+
+
+--- guilds ---
+
+"guild_id"=56
+"type"="Knowledge"
+"name"="Crypt Crawlers"
+"description"="bran"
+
+
+--- events ---
+
+"event_id"=29
+"name"="Vault of the Fallen Stars"
+"event_time"=182
+
+
+--- Enemy ---
+
+"id"=606
+"enemy_name"="Thunderhawk"
+"enemy_type"="Humanoid"
+"hitpoints"=370
+"warcry"="lpuesn"
+
+
+--- teams ---
+
+"team_id"=13
+"name"="Soul_Reapers"
+"members_amount"=905
+
+
+--- teams ---
+
+"team_id"=183
+"name"="ElementalFury"
+"members_amount"=625
+
+
+--- teams ---
+
+"team_id"=349
+"name"="Star_Wanderers"
+"members_amount"=527
+
+
+--- classes ---
+
+"class_id"=332
+"class_name"="Archer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- dialogues ---
+
+"dialogue_id"=8
+"npc_id"=10
+"contents"="Ain't no party like a dungeon crawl party 'cause a dungeon crawl party don't stop until everyone's encumbered."
+"choice_options"=396
+"emotion"=480
+
+
+--- classes ---
+
+"class_id"=25
+"class_name"="Mage"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- items ---
+
+"item_id"=173
+"type"="Amulet"
+"name"="Necklace of the Mermaid"
+"description"="zengoudr"
+"cost"=802
+
+
+--- dialogues ---
+
+"dialogue_id"=219
+"npc_id"=220
+"contents"="Howdy, partner. Ready to saddle up for another bounty?"
+"choice_options"=4
+"emotion"=669
+
+
+--- events ---
+
+"event_id"=213
+"name"="Serpent's Ascension"
+"event_time"=583
+
+
+--- fightable_characters ---
+
+"npc_id"=373
+"health"=951
+"reward_experience"=56
+
+
+--- fightable_characters ---
+
+"npc_id"=245
+"health"=147
+"reward_experience"=26
+
+
+--- teams ---
+
+"team_id"=211
+"name"="Dusk_Rebels"
+"members_amount"=157
+
+
+--- fightable_characters ---
+
+"npc_id"=369
+"health"=263
+"reward_experience"=698
+
+
+--- npcs ---
+
+"npc_id"=91
+"name"="Xyra"
+"role"="Quest-givers"
+"region_id"=563
+"is_fightable"=null
+"description"="opespisro"
+
+
+--- npcs ---
+
+"npc_id"=30
+"name"="Veyla"
+"role"="Lore_Masters"
+"region_id"=301
+"is_fightable"=null
+"description"="bloexl"
+
+
+--- races ---
+
+"race_id"=126
+"name"="Elf"
+"description"="Risen from the dead, masters of dark arts and curses."
+
+
+--- fightable_characters ---
+
+"npc_id"=179
+"health"=919
+"reward_experience"=786
+
+
+--- players ---
+
+"player_id"=40
+"name"="Keldra"
+"class"="Warrior"
+"race"="Orc"
+"health"=357
+"experience"=527
+"starting_region"="Valoria"
+
+
+--- dialogues ---
+
+"dialogue_id"=154
+"npc_id"=156
+"contents"="Y'know, in another universe, you and I are just polygons and pixels."
+"choice_options"=116
+"emotion"=619
+
+
+--- items ---
+
+"item_id"=353
+"type"="Potion"
+"name"="Amulet of the Wind Whisperer"
+"description"="vkisoa"
+"cost"=735
+
+
+--- fightable_characters ---
+
+"npc_id"=292
+"health"=347
+"reward_experience"=49
+
+
+--- events ---
+
+"event_id"=11
+"name"="The Scarlet Eclipse"
+"event_time"=166
+
+
+--- players ---
+
+"player_id"=130
+"name"="Valthor"
+"class"="Archer"
+"race"="Elf"
+"health"=918
+"experience"=533
+"starting_region"="Orynthia"
+
+
+--- Enemy ---
+
+"id"=547
+"enemy_name"="Dreaded Chimera"
+"enemy_type"="Undead"
+"hitpoints"=834
+"warcry"="ctucaefr"
+
+
+--- items ---
+
+"item_id"=290
+"type"="Bow"
+"name"="Sacred Feather Talisman"
+"description"="catrediap"
+"cost"=192
+
+
+--- players ---
+
+"player_id"=92
+"name"="Serafelle"
+"class"="Summoner"
+"race"="Human"
+"health"=7
+"experience"=844
+"starting_region"="Valoria"
+
+
+--- fightable_characters ---
+
+"npc_id"=246
+"health"=924
+"reward_experience"=733
+
+
+--- players ---
+
+"player_id"=191
+"name"="Thaelen"
+"class"="Warrior"
+"race"="Dwarf"
+"health"=370
+"experience"=428
+"starting_region"="Orynthia"
+
+
+--- players ---
+
+"player_id"=72
+"name"="Aethor"
+"class"="Healer"
+"race"="Dwarf"
+"health"=670
+"experience"=910
+"starting_region"="Valoria"
+
+
+--- classes ---
+
+"class_id"=165
+"class_name"="Warrior"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- fightable_characters ---
+
+"npc_id"=226
+"health"=351
+"reward_experience"=799
+
+
+--- items ---
+
+"item_id"=15
+"type"="Dagger"
+"name"="Sacred Feather Talisman"
+"description"="maisc"
+"cost"=169
+
+
+--- guilds ---
+
+"guild_id"=88
+"type"="Trading"
+"name"="The Silent Footsteps"
+"description"="bifleifr"
+
+
+--- classes ---
+
+"class_id"=60
+"class_name"="Summoner"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=238
+"npc_id"=239
+"contents"="Hey, wanna see something cool? Press Alt+F4!"
+"choice_options"=47
+"emotion"=306
+
+
+--- Enemy ---
+
+"id"=471
+"enemy_name"="Ancient Wyrm"
+"enemy_type"="Undead"
+"hitpoints"=952
+"warcry"="tretruesp"
+
+
+--- items ---
+
+"item_id"=170
+"type"="Ring"
+"name"="Bracelet of Divine Fates"
+"description"="atedriaglu"
+"cost"=694
+
+
+--- races ---
+
+"race_id"=34
+"name"="Elf"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- npcs ---
+
+"npc_id"=99
+"name"="Valeria"
+"role"="Lore_Masters"
+"region_id"=483
+"is_fightable"=null
+"description"="mraxuigj"
+
+
+--- players ---
+
+"player_id"=312
+"name"="Seraphix"
+"class"="Archer"
+"race"="Naga"
+"health"=286
+"experience"=931
+"starting_region"="Valoria"
+
+
+--- fightable_characters ---
+
+"npc_id"=362
+"health"=101
+"reward_experience"=652
+
+
+--- players ---
+
+"player_id"=189
+"name"="Orik"
+"class"="Summoner"
+"race"="Dwarf"
+"health"=123
+"experience"=623
+"starting_region"="Valoria"
+
+
+--- npcs ---
+
+"npc_id"=118
+"name"="Aryndis"
+"role"="Quest-givers"
+"region_id"=371
+"is_fightable"=null
+"description"="pluipqaj"
+
+
+--- Enemy ---
+
+"id"=630
+"enemy_name"="Crystal Gargoyle"
+"enemy_type"="Elemental"
+"hitpoints"=390
+"warcry"="ubaav"
+
+
+--- classes ---
+
+"class_id"=27
+"class_name"="Rogue"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- items ---
+
+"item_id"=150
+"type"="Shield"
+"name"="Bracelet of Divine Fates"
+"description"="vbugl"
+"cost"=390
+
+
+--- dialogues ---
+
+"dialogue_id"=4
+"npc_id"=7
+"contents"="Y'know, in another universe, you and I are just polygons and pixels."
+"choice_options"=366
+"emotion"=480
+
+
+--- items ---
+
+"item_id"=160
+"type"="Sword"
+"name"="Scepter of the Forsaken"
+"description"="bbo"
+"cost"=682
+
+
+--- dialogues ---
+
+"dialogue_id"=184
+"npc_id"=186
+"contents"="So you're an adventurer? Isn't that just kick-you-in-the-crotch, spit-on-your-neck fantastic?"
+"choice_options"=811
+"emotion"=107
+
+
+--- classes ---
+
+"class_id"=358
+"class_name"="Warrior"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- players ---
+
+"player_id"=236
+"name"="Thaelen"
+"class"="Healer"
+"race"="Dwarf"
+"health"=72
+"experience"=624
+"starting_region"="Orynthia"
+
+
+--- guilds ---
+
+"guild_id"=97
+"type"="PvP"
+"name"="Council of Elders"
+"description"="unfoi"
+
+
+--- dialogues ---
+
+"dialogue_id"=371
+"npc_id"=373
+"contents"="Boss ahead? 'Tis but a scratch!"
+"choice_options"=792
+"emotion"=537
+
+
+--- classes ---
+
+"class_id"=235
+"class_name"="Healer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- teams ---
+
+"team_id"=256
+"name"="Crystal_Clerics"
+"members_amount"=381
+
+
+--- classes ---
+
+"class_id"=309
+"class_name"="Mage"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- classes ---
+
+"class_id"=103
+"class_name"="Rogue"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- npcs ---
+
+"npc_id"=133
+"name"="Goromir"
+"role"="Lore_Masters"
+"region_id"=148
+"is_fightable"=null
+"description"="iepfe"
+
+
+--- fightable_characters ---
+
+"npc_id"=221
+"health"=717
+"reward_experience"=604
+
+
+--- classes ---
+
+"class_id"=63
+"class_name"="Warrior"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- players ---
+
+"player_id"=55
+"name"="Caelthor"
+"class"="Warrior"
+"race"="Elf"
+"health"=658
+"experience"=4
+"starting_region"="Valoria"
+
+
+--- players ---
+
+"player_id"=225
+"name"="Gorgrim"
+"class"="Warrior"
+"race"="Human"
+"health"=619
+"experience"=798
+"starting_region"="Orynthia"
+
+
+--- guilds ---
+
+"guild_id"=115
+"type"="Exploration"
+"name"="Storm Riders"
+"description"="jhoosko"
+
+
+--- guilds ---
+
+"guild_id"=80
+"type"="PvP"
+"name"="Crypt Crawlers"
+"description"="iismuww"
+
+
+--- players ---
+
+"player_id"=33
+"name"="Runorin"
+"class"="Healer"
+"race"="Naga"
+"health"=989
+"experience"=800
+"starting_region"="Elphora"
+
+
+--- Enemy ---
+
+"id"=406
+"enemy_name"="Forest Spirit"
+"enemy_type"="Humanoid"
+"hitpoints"=306
+"warcry"="pnodroawj"
+
+
+--- events ---
+
+"event_id"=89
+"name"="The Reckoning of Lighthaven"
+"event_time"=228
+
+
+--- items ---
+
+"item_id"=125
+"type"="Staff"
+"name"="Aegis of the Sun"
+"description"="pjeogifla"
+"cost"=627
+
+
+--- players ---
+
+"player_id"=78
+"name"="Loralei"
+"class"="Rogue"
+"race"="Human"
+"health"=646
+"experience"=940
+"starting_region"="Valoria"
+
+
+--- dialogues ---
+
+"dialogue_id"=721
+"npc_id"=724
+"contents"="Hey, wanna see something cool? Press Alt+F4!"
+"choice_options"=664
+"emotion"=468
+
+
+--- players ---
+
+"player_id"=289
+"name"="Caelthor"
+"class"="Healer"
+"race"="Elf"
+"health"=431
+"experience"=116
+"starting_region"="Cimmeria"
+
+
+--- dialogues ---
+
+"dialogue_id"=101
+"npc_id"=104
+"contents"="To conquer oneself is a greater victory than to conquer thousands in a battle."
+"choice_options"=592
+"emotion"=668
+
+
+--- teams ---
+
+"team_id"=233
+"name"="CelestialKnights"
+"members_amount"=466
+
+
+--- fightable_characters ---
+
+"npc_id"=151
+"health"=337
+"reward_experience"=572
+
+
+--- Enemy ---
+
+"id"=592
+"enemy_name"="Forest Nymph"
+"enemy_type"="Undead"
+"hitpoints"=936
+"warcry"="kpu"
+
+
+--- items ---
+
+"item_id"=228
+"type"="Sword"
+"name"="Armor of the Sea Spirit"
+"description"="aasmust"
+"cost"=403
+
+
+--- classes ---
+
+"class_id"=340
+"class_name"="Warrior"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- dialogues ---
+
+"dialogue_id"=634
+"npc_id"=637
+"contents"="So you're an adventurer? Isn't that just kick-you-in-the-crotch, spit-on-your-neck fantastic?"
+"choice_options"=419
+"emotion"=702
+
+
+--- players ---
+
+"player_id"=79
+"name"="Thorgal"
+"class"="Healer"
+"race"="Naga"
+"health"=554
+"experience"=517
+"starting_region"="Elphora"
+
+
+--- dialogues ---
+
+"dialogue_id"=475
+"npc_id"=477
+"contents"="Good to see you, hero! Or should I say... cash cow?"
+"choice_options"=675
+"emotion"=381
+
+
+--- items ---
+
+"item_id"=143
+"type"="Amulet"
+"name"="Stoneforged Mace"
+"description"="xziplirra"
+"cost"=69
+
+
+--- dialogues ---
+
+"dialogue_id"=44
+"npc_id"=45
+"contents"="Howdy, partner. Ready to saddle up for another bounty?"
+"choice_options"=214
+"emotion"=722
+
+
+--- items ---
+
+"item_id"=215
+"type"="Ring"
+"name"="Blade of the Archmage"
+"description"="waglitrocb"
+"cost"=192
+
+
+--- items ---
+
+"item_id"=133
+"type"="Sword"
+"name"="Armor of the Sea Spirit"
+"description"="kmie"
+"cost"=267
+
+
+--- npcs ---
+
+"npc_id"=45
+"name"="Oberion"
+"role"="Shopkeepers"
+"region_id"=3
+"is_fightable"=null
+"description"="scistu"
+
+
+--- races ---
+
+"race_id"=183
+"name"="Undead"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- players ---
+
+"player_id"=103
+"name"="Xirelle"
+"class"="Summoner"
+"race"="Human"
+"health"=228
+"experience"=526
+"starting_region"="Orynthia"
+
+
+--- players ---
+
+"player_id"=174
+"name"="Valdrick"
+"class"="Mage"
+"race"="Elf"
+"health"=653
+"experience"=538
+"starting_region"="Orynthia"
+
+
+--- teams ---
+
+"team_id"=107
+"name"="Emerald_Shamans"
+"members_amount"=655
+
+
+--- players ---
+
+"player_id"=44
+"name"="Xirelle"
+"class"="Rogue"
+"race"="Human"
+"health"=505
+"experience"=623
+"starting_region"="Orynthia"
+
+
+--- items ---
+
+"item_id"=81
+"type"="Amulet"
+"name"="Gauntlets of the Berserker"
+"description"="sniugf"
+"cost"=729
+
+
+--- teams ---
+
+"team_id"=130
+"name"="Luminous_Sorcerers"
+"members_amount"=635
+
+
+--- fightable_characters ---
+
+"npc_id"=277
+"health"=297
+"reward_experience"=279
+
+
+--- guilds ---
+
+"guild_id"=55
+"type"="Questing"
+"name"="Elemental Lords"
+"description"="gleuysi"
+
+
+--- dialogues ---
+
+"dialogue_id"=432
+"npc_id"=434
+"contents"="To defeat your enemies, you must know them, train hard, and also buy some premium gems."
+"choice_options"=659
+"emotion"=934
+
+
+--- classes ---
+
+"class_id"=224
+"class_name"="Healer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- dialogues ---
+
+"dialogue_id"=105
+"npc_id"=106
+"contents"="Welcome, adventurer, to the dungeon of doom! Not to be confused with the dungeon of gloom, that's two doors down."
+"choice_options"=364
+"emotion"=505
+
+
+--- dialogues ---
+
+"dialogue_id"=525
+"npc_id"=527
+"contents"="To defeat your enemies, you must know them, train hard, and also buy some premium gems."
+"choice_options"=42
+"emotion"=430
+
+
+--- dialogues ---
+
+"dialogue_id"=515
+"npc_id"=518
+"contents"="Hey, wanna see something cool? Press Alt+F4!"
+"choice_options"=981
+"emotion"=893
+
+
+--- items ---
+
+"item_id"=106
+"type"="Potion"
+"name"="Girdle of Strength"
+"description"="icviodco"
+"cost"=202
+
+
+--- classes ---
+
+"class_id"=331
+"class_name"="Warrior"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- players ---
+
+"player_id"=81
+"name"="Zandalar"
+"class"="Healer"
+"race"="Undead"
+"health"=656
+"experience"=956
+"starting_region"="Valoria"
+
+
+--- players ---
+
+"player_id"=263
+"name"="Ulfrik"
+"class"="Archer"
+"race"="Elf"
+"health"=551
+"experience"=714
+"starting_region"="Cimmeria"
+
+
+--- races ---
+
+"race_id"=23
+"name"="Orc"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- guilds ---
+
+"guild_id"=71
+"type"="Exploration"
+"name"="The Wanderers"
+"description"="uagrobifl"
+
+
+--- Enemy ---
+
+"id"=533
+"enemy_name"="Ancient Wyrm"
+"enemy_type"="Humanoid"
+"hitpoints"=921
+"warcry"="osadgitro"
+
+
+--- players ---
+
+"player_id"=276
+"name"="Gorgrim"
+"class"="Archer"
+"race"="Dwarf"
+"health"=806
+"experience"=555
+"starting_region"="Orynthia"
+
+
+--- dialogues ---
+
+"dialogue_id"=631
+"npc_id"=632
+"contents"="Verily, you've conquered the Mountain of Despair! Here's 50 gold coins."
+"choice_options"=715
+"emotion"=584
+
+
+--- events ---
+
+"event_id"=120
+"name"="The Gatekeeper's Fury"
+"event_time"=486
+
+
+--- Enemy ---
+
+"id"=400
+"enemy_name"="Poisonous Plant"
+"enemy_type"="Beast"
+"hitpoints"=550
+"warcry"="hweswiusco"
+
+
+--- dialogues ---
+
+"dialogue_id"=298
+"npc_id"=301
+"contents"="When it's us vs. them, always bet on us. Unless they're higher level."
+"choice_options"=962
+"emotion"=619
+
+
+--- classes ---
+
+"class_id"=301
+"class_name"="Archer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- races ---
+
+"race_id"=98
+"name"="Undead"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- fightable_characters ---
+
+"npc_id"=320
+"health"=979
+"reward_experience"=426
+
+
+--- players ---
+
+"player_id"=388
+"name"="Elira"
+"class"="Summoner"
+"race"="Dwarf"
+"health"=909
+"experience"=273
+"starting_region"="Orynthia"
+
+
+--- items ---
+
+"item_id"=239
+"type"="Amulet"
+"name"="Mystic Lightshield"
+"description"="pladraoxki"
+"cost"=483
+
+
+--- players ---
+
+"player_id"=305
+"name"="Ulfrik"
+"class"="Warrior"
+"race"="Dwarf"
+"health"=921
+"experience"=438
+"starting_region"="Orynthia"
+
+
+--- players ---
+
+"player_id"=223
+"name"="Illinor"
+"class"="Summoner"
+"race"="Human"
+"health"=219
+"experience"=336
+"starting_region"="Valoria"
+
+
+--- items ---
+
+"item_id"=67
+"type"="Dagger"
+"name"="Chains of the Abyss"
+"description"="bbocifl"
+"cost"=914
+
+
+--- Enemy ---
+
+"id"=716
+"enemy_name"="Armored Demon"
+"enemy_type"="Beast"
+"hitpoints"=875
+"warcry"="odrujgaw"
+
+
+--- dialogues ---
+
+"dialogue_id"=469
+"npc_id"=472
+"contents"="In this world, it's grind or be grinded!"
+"choice_options"=536
+"emotion"=294
+
+
+--- fightable_characters ---
+
+"npc_id"=384
+"health"=955
+"reward_experience"=752
+
+
+--- dialogues ---
+
+"dialogue_id"=520
+"npc_id"=523
+"contents"="We make a special deal for you, only today, only now: Buy one health potion, get one free!"
+"choice_options"=764
+"emotion"=325
+
+
+--- races ---
+
+"race_id"=82
+"name"="Undead"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- npcs ---
+
+"npc_id"=74
+"name"="Quorlinn"
+"role"="Skill_Trainers"
+"region_id"=354
+"is_fightable"=null
+"description"="acadf"
+
+
+--- players ---
+
+"player_id"=5
+"name"="Aerendir"
+"class"="Healer"
+"race"="Naga"
+"health"=508
+"experience"=891
+"starting_region"="Elphora"
+
+
+--- players ---
+
+"player_id"=283
+"name"="Solandria"
+"class"="Healer"
+"race"="Undead"
+"health"=492
+"experience"=771
+"starting_region"="Orynthia"
+
+
+--- events ---
+
+"event_id"=237
+"name"="Valley of Forgotten Echoes"
+"event_time"=951
+
+
+--- dialogues ---
+
+"dialogue_id"=163
+"npc_id"=166
+"contents"="Boss ahead? 'Tis but a scratch!"
+"choice_options"=812
+"emotion"=428
+
+
+--- players ---
+
+"player_id"=96
+"name"="Xaradra"
+"class"="Mage"
+"race"="Naga"
+"health"=9
+"experience"=133
+"starting_region"="Cimmeria"
+
+
+--- Enemy ---
+
+"id"=685
+"enemy_name"="Death Reaper"
+"enemy_type"="Elemental"
+"hitpoints"=366
+"warcry"="pjefopreq"
+
+
+--- dialogues ---
+
+"dialogue_id"=225
+"npc_id"=226
+"contents"="Trust is for fools! Gold is all that matters here."
+"choice_options"=557
+"emotion"=999
+
+
+--- items ---
+
+"item_id"=85
+"type"="Amulet"
+"name"="Greatsword of Heavenly Wrath"
+"description"="uexluv"
+"cost"=311
+
+
+--- dialogues ---
+
+"dialogue_id"=247
+"npc_id"=248
+"contents"="Trust is for fools! Gold is all that matters here."
+"choice_options"=171
+"emotion"=84
+
+
+--- events ---
+
+"event_id"=206
+"name"="Curse of the Phantom Queen"
+"event_time"=316
+
+
+--- players ---
+
+"player_id"=171
+"name"="Naelor"
+"class"="Summoner"
+"race"="Elf"
+"health"=820
+"experience"=514
+"starting_region"="Cimmeria"
+
+
+--- events ---
+
+"event_id"=201
+"name"="The Gatekeeper's Fury"
+"event_time"=391
+
+
+--- players ---
+
+"player_id"=384
+"name"="Laelor"
+"class"="Warrior"
+"race"="Undead"
+"health"=699
+"experience"=970
+"starting_region"="Cimmeria"
+
+
+--- teams ---
+
+"team_id"=15
+"name"="Golden_Lions"
+"members_amount"=68
+
+
+--- teams ---
+
+"team_id"=177
+"name"="Dusk_Rebels"
+"members_amount"=890
+
+
+--- classes ---
+
+"class_id"=13
+"class_name"="Warrior"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- players ---
+
+"player_id"=378
+"name"="Aethor"
+"class"="Rogue"
+"race"="Dwarf"
+"health"=950
+"experience"=443
+"starting_region"="Valoria"
+
+
+--- classes ---
+
+"class_id"=187
+"class_name"="Summoner"
+"description"="Summons minions to aid in combat."
+
+
+--- teams ---
+
+"team_id"=288
+"name"="Ethereal_Sages"
+"members_amount"=626
+
+
+--- classes ---
+
+"class_id"=202
+"class_name"="Archer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- dialogues ---
+
+"dialogue_id"=180
+"npc_id"=182
+"contents"="We make a special deal for you, only today, only now: Buy one health potion, get one free!"
+"choice_options"=708
+"emotion"=203
+
+
+--- players ---
+
+"player_id"=143
+"name"="Xirelle"
+"class"="Rogue"
+"race"="Undead"
+"health"=936
+"experience"=968
+"starting_region"="Cimmeria"
+
+
+--- Enemy ---
+
+"id"=551
+"enemy_name"="Frost Giant"
+"enemy_type"="Dragon"
+"hitpoints"=40
+"warcry"="praujnosl"
+
+
+--- events ---
+
+"event_id"=139
+"name"="Siege of Thunderpeak"
+"event_time"=772
+
+
+--- players ---
+
+"player_id"=108
+"name"="Jadefang"
+"class"="Healer"
+"race"="Undead"
+"health"=762
+"experience"=198
+"starting_region"="Orynthia"
+
+
+--- npcs ---
+
+"npc_id"=46
+"name"="Veyla"
+"role"="Lore_Masters"
+"region_id"=905
+"is_fightable"=null
+"description"="lhieroew"
+
+
+--- Enemy ---
+
+"id"=553
+"enemy_name"="Time-Weaver"
+"enemy_type"="Undead"
+"hitpoints"=155
+"warcry"="frarqa"
+
+
+--- npcs ---
+
+"npc_id"=145
+"name"="Lythra"
+"role"="Lore_Masters"
+"region_id"=414
+"is_fightable"=null
+"description"="stubrieblo"
+
+
+--- players ---
+
+"player_id"=99
+"name"="Ulfrik"
+"class"="Rogue"
+"race"="Undead"
+"health"=619
+"experience"=262
+"starting_region"="Valoria"
+
+
+--- teams ---
+
+"team_id"=70
+"name"="Violet_Viceroys"
+"members_amount"=666
+
+
+--- players ---
+
+"player_id"=166
+"name"="Valthor"
+"class"="Summoner"
+"race"="Human"
+"health"=392
+"experience"=728
+"starting_region"="Elphora"
+
+
+--- teams ---
+
+"team_id"=317
+"name"="Sun_Shadows"
+"members_amount"=86
+
+
+--- dialogues ---
+
+"dialogue_id"=284
+"npc_id"=286
+"contents"="Do you wish to hear a tale of valor and sacrifice? Too late, it's DLC content."
+"choice_options"=1000
+"emotion"=215
+
+
+--- players ---
+
+"player_id"=324
+"name"="Serafelle"
+"class"="Warrior"
+"race"="Dwarf"
+"health"=855
+"experience"=74
+"starting_region"="Cimmeria"
+
+
+--- npcs ---
+
+"npc_id"=48
+"name"="Azalor"
+"role"="Quest-givers"
+"region_id"=303
+"is_fightable"=null
+"description"="eoswe"
+
+
+--- dialogues ---
+
+"dialogue_id"=241
+"npc_id"=244
+"contents"="Be yourself; everyone else is already grinding."
+"choice_options"=905
+"emotion"=246
+
+
+--- races ---
+
+"race_id"=53
+"name"="Elf"
+"description"="Risen from the dead, masters of dark arts and curses."
+
+
+--- events ---
+
+"event_id"=66
+"name"="Challenge of the Seven Seals"
+"event_time"=707
+
+
+--- teams ---
+
+"team_id"=384
+"name"="RavenWings"
+"members_amount"=95
+
+
+--- events ---
+
+"event_id"=32
+"name"="Haunting of the Crimson Keep"
+"event_time"=623
+
+
+--- teams ---
+
+"team_id"=67
+"name"="Astral_Crusaders"
+"members_amount"=269
+
+
+--- Enemy ---
+
+"id"=578
+"enemy_name"="Winged Serpent"
+"enemy_type"="Magical"
+"hitpoints"=217
+"warcry"="dbiav"
+
+
+--- classes ---
+
+"class_id"=38
+"class_name"="Archer"
+"description"="Summons minions to aid in combat."
+
+
+--- races ---
+
+"race_id"=157
+"name"="Undead"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=256
+"npc_id"=259
+"contents"="You either die a hero or live long enough to become an NPC."
+"choice_options"=525
+"emotion"=656
+
+
+--- classes ---
+
+"class_id"=111
+"class_name"="Summoner"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- teams ---
+
+"team_id"=153
+"name"="Holy_Shamans"
+"members_amount"=745
+
+
+--- classes ---
+
+"class_id"=375
+"class_name"="Rogue"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- classes ---
+
+"class_id"=326
+"class_name"="Rogue"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- events ---
+
+"event_id"=219
+"name"="The Celestial Convergence"
+"event_time"=591
+
+
+--- Enemy ---
+
+"id"=422
+"enemy_name"="Dreaded Chimera"
+"enemy_type"="Dragon"
+"hitpoints"=894
+"warcry"="gucnobr"
+
+
+--- teams ---
+
+"team_id"=61
+"name"="Twilight_Hunters"
+"members_amount"=345
+
+
+--- Enemy ---
+
+"id"=603
+"enemy_name"="Astral Naga"
+"enemy_type"="Humanoid"
+"hitpoints"=600
+"warcry"="hiifubj"
+
+
+--- items ---
+
+"item_id"=283
+"type"="Amulet"
+"name"="Guardian's Shield"
+"description"="oupjiodro"
+"cost"=806
+
+
+--- Enemy ---
+
+"id"=656
+"enemy_name"="Ghostly Archer"
+"enemy_type"="Construct"
+"hitpoints"=613
+"warcry"="preb"
+
+
+--- players ---
+
+"player_id"=146
+"name"="Illinor"
+"class"="Rogue"
+"race"="Elf"
+"health"=778
+"experience"=225
+"starting_region"="Elphora"
+
+
+--- fightable_characters ---
+
+"npc_id"=238
+"health"=638
+"reward_experience"=81
+
+
+--- players ---
+
+"player_id"=331
+"name"="Lyrielle"
+"class"="Archer"
+"race"="Undead"
+"health"=607
+"experience"=303
+"starting_region"="Elphora"
+
+
+--- items ---
+
+"item_id"=310
+"type"="Sword"
+"name"="Boots of Swiftness"
+"description"="floldaep"
+"cost"=243
+
+
+--- Enemy ---
+
+"id"=638
+"enemy_name"="Voracious Goblin"
+"enemy_type"="Beast"
+"hitpoints"=637
+"warcry"="uuskabla"
+
+
+--- teams ---
+
+"team_id"=234
+"name"="Frost_Wolves"
+"members_amount"=691
+
+
+--- teams ---
+
+"team_id"=200
+"name"="Amber_Wizards"
+"members_amount"=149
+
+
+--- teams ---
+
+"team_id"=377
+"name"="Star_Wanderers"
+"members_amount"=341
+
+
+--- classes ---
+
+"class_id"=118
+"class_name"="Warrior"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- races ---
+
+"race_id"=171
+"name"="Undead"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- dialogues ---
+
+"dialogue_id"=56
+"npc_id"=59
+"contents"="Do you wish to hear a tale of valor and sacrifice? Too late, it's DLC content."
+"choice_options"=434
+"emotion"=441
+
+
+--- players ---
+
+"player_id"=59
+"name"="Orin"
+"class"="Healer"
+"race"="Orc"
+"health"=365
+"experience"=246
+"starting_region"="Valoria"
+
+
+--- teams ---
+
+"team_id"=65
+"name"="Scarlet_Scouts"
+"members_amount"=402
+
+
+--- players ---
+
+"player_id"=142
+"name"="Vyktor"
+"class"="Rogue"
+"race"="Orc"
+"health"=635
+"experience"=20
+"starting_region"="Valoria"
+
+
+--- teams ---
+
+"team_id"=307
+"name"="Dream_Weavers"
+"members_amount"=768
+
+
+--- classes ---
+
+"class_id"=53
+"class_name"="Warrior"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- dialogues ---
+
+"dialogue_id"=409
+"npc_id"=411
+"contents"="Adventurer, your future is whatever you grind it to be."
+"choice_options"=28
+"emotion"=87
+
+
+--- classes ---
+
+"class_id"=73
+"class_name"="Summoner"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- Enemy ---
+
+"id"=493
+"enemy_name"="Forest Spirit"
+"enemy_type"="Flora"
+"hitpoints"=178
+"warcry"="aoglublaf"
+
+
+--- classes ---
+
+"class_id"=288
+"class_name"="Mage"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- dialogues ---
+
+"dialogue_id"=443
+"npc_id"=446
+"contents"="Ah, traveler! You've returned with the Elixir of Eternal Life, eh?"
+"choice_options"=287
+"emotion"=117
+
+
+--- dialogues ---
+
+"dialogue_id"=620
+"npc_id"=622
+"contents"="Today's forecast: Cloudy with a chance of dragon attacks."
+"choice_options"=946
+"emotion"=966
+
+
+--- races ---
+
+"race_id"=90
+"name"="Dwarf"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- teams ---
+
+"team_id"=8
+"name"="Grim_Reapers"
+"members_amount"=954
+
+
+--- dialogues ---
+
+"dialogue_id"=294
+"npc_id"=297
+"contents"="The end is near! But it's not too late to buy some in-game merchandise."
+"choice_options"=377
+"emotion"=395
+
+
+--- dialogues ---
+
+"dialogue_id"=114
+"npc_id"=116
+"contents"="When it's us vs. them, always bet on us. Unless they're higher level."
+"choice_options"=522
+"emotion"=302
+
+
+--- fightable_characters ---
+
+"npc_id"=177
+"health"=362
+"reward_experience"=458
+
+
+--- items ---
+
+"item_id"=65
+"type"="Shield"
+"name"="Robes of the Archmage"
+"description"="sniz"
+"cost"=73
+
+
+--- Enemy ---
+
+"id"=454
+"enemy_name"="Vampire Lord"
+"enemy_type"="Undead"
+"hitpoints"=940
+"warcry"="spebliik"
+
+
+--- npcs ---
+
+"npc_id"=29
+"name"="Elidora"
+"role"="Shopkeepers"
+"region_id"=734
+"is_fightable"=null
+"description"="brexostabr"
+
+
+--- dialogues ---
+
+"dialogue_id"=711
+"npc_id"=713
+"contents"="It's not the size of the sword, it's how you swing it!"
+"choice_options"=473
+"emotion"=588
+
+
+--- Enemy ---
+
+"id"=641
+"enemy_name"="Necrotic Lich"
+"enemy_type"="Humanoid"
+"hitpoints"=279
+"warcry"="pruutrunga"
+
+
+--- races ---
+
+"race_id"=159
+"name"="Human"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- Enemy ---
+
+"id"=614
+"enemy_name"="Murderous Wendigo"
+"enemy_type"="Magical"
+"hitpoints"=66
+"warcry"="epruy"
+
+
+--- teams ---
+
+"team_id"=344
+"name"="Rainbow_Riders"
+"members_amount"=100
+
+
+--- dialogues ---
+
+"dialogue_id"=27
+"npc_id"=28
+"contents"="Ah, the wind whispers of your coming, brave adventurer! How may Old Gregg assist you today?"
+"choice_options"=815
+"emotion"=594
+
+
+--- teams ---
+
+"team_id"=205
+"name"="Lunar_Army"
+"members_amount"=274
+
+
+--- teams ---
+
+"team_id"=331
+"name"="Star_Wanderers"
+"members_amount"=287
+
+
+--- events ---
+
+"event_id"=198
+"name"="The Cataclysm of Ironspire"
+"event_time"=322
+
+
+--- Enemy ---
+
+"id"=673
+"enemy_name"="Cybernetic Scorpion"
+"enemy_type"="Beast"
+"hitpoints"=162
+"warcry"="pluj"
+
+
+--- classes ---
+
+"class_id"=48
+"class_name"="Rogue"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- races ---
+
+"race_id"=154
+"name"="Human"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- teams ---
+
+"team_id"=276
+"name"="Rainbow_Riders"
+"members_amount"=85
+
+
+--- dialogues ---
+
+"dialogue_id"=427
+"npc_id"=430
+"contents"="If you can't handle me at my worst, you sure as hell don't deserve me at my best stats."
+"choice_options"=171
+"emotion"=214
+
+
+--- classes ---
+
+"class_id"=26
+"class_name"="Mage"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- Enemy ---
+
+"id"=403
+"enemy_name"="Twilight Satyr"
+"enemy_type"="Elemental"
+"hitpoints"=117
+"warcry"="fmufrocr"
+
+
+--- races ---
+
+"race_id"=7
+"name"="Elf"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- events ---
+
+"event_id"=216
+"name"="Riddle of the Ancient Sphinx"
+"event_time"=150
+
+
+--- teams ---
+
+"team_id"=267
+"name"="BladeMasters"
+"members_amount"=251
+
+
+--- classes ---
+
+"class_id"=179
+"class_name"="Mage"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- classes ---
+
+"class_id"=208
+"class_name"="Healer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- Enemy ---
+
+"id"=688
+"enemy_name"="Infernal Incubus"
+"enemy_type"="Undead"
+"hitpoints"=272
+"warcry"="sofreplism"
+
+
+--- classes ---
+
+"class_id"=70
+"class_name"="Warrior"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- races ---
+
+"race_id"=185
+"name"="Naga"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- items ---
+
+"item_id"=163
+"type"="Ring"
+"name"="Cursed Bone Necklace"
+"description"="slopliprisp"
+"cost"=190
+
+
+--- Enemy ---
+
+"id"=709
+"enemy_name"="Spectral Knight"
+"enemy_type"="Humanoid"
+"hitpoints"=359
+"warcry"="gluu"
+
+
+--- items ---
+
+"item_id"=62
+"type"="Amulet"
+"name"="Ring of the Fallen King"
+"description"="odriesli"
+"cost"=531
+
+
+--- teams ---
+
+"team_id"=51
+"name"="Radiant_Healers"
+"members_amount"=353
+
+
+--- classes ---
+
+"class_id"=15
+"class_name"="Archer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- dialogues ---
+
+"dialogue_id"=506
+"npc_id"=507
+"contents"="The cake is a lie, but the XP is real!"
+"choice_options"=586
+"emotion"=560
+
+
+--- players ---
+
+"player_id"=318
+"name"="Thera"
+"class"="Healer"
+"race"="Naga"
+"health"=828
+"experience"=49
+"starting_region"="Orynthia"
+
+
+--- items ---
+
+"item_id"=57
+"type"="Bow"
+"name"="Armor of the Sea Spirit"
+"description"="ouscuutr"
+"cost"=174
+
+
+--- guilds ---
+
+"guild_id"=161
+"type"="Questing"
+"name"="Mercenaries of Fortune"
+"description"="bletreasw"
+
+
+--- items ---
+
+"item_id"=75
+"type"="Staff"
+"name"="Staff of Tranquility"
+"description"="glojja"
+"cost"=827
+
+
+--- Enemy ---
+
+"id"=680
+"enemy_name"="Griffon King"
+"enemy_type"="Elemental"
+"hitpoints"=377
+"warcry"="zopleyuh"
+
+
+--- dialogues ---
+
+"dialogue_id"=361
+"npc_id"=364
+"contents"="You either die a hero or live long enough to become an NPC."
+"choice_options"=559
+"emotion"=253
+
+
+--- Enemy ---
+
+"id"=507
+"enemy_name"="Twilight Satyr"
+"enemy_type"="Undead"
+"hitpoints"=957
+"warcry"="veyn"
+
+
+--- guilds ---
+
+"guild_id"=40
+"type"="Healing"
+"name"="Shadow Society"
+"description"="abnascobr"
+
+
+--- players ---
+
+"player_id"=381
+"name"="Raelthorn"
+"class"="Archer"
+"race"="Naga"
+"health"=571
+"experience"=16
+"starting_region"="Valoria"
+
+
+--- classes ---
+
+"class_id"=220
+"class_name"="Healer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- players ---
+
+"player_id"=252
+"name"="Zyraziel"
+"class"="Rogue"
+"race"="Dwarf"
+"health"=14
+"experience"=889
+"starting_region"="Orynthia"
+
+
+--- teams ---
+
+"team_id"=334
+"name"="Lightbringers"
+"members_amount"=663
+
+
+--- items ---
+
+"item_id"=322
+"type"="Dagger"
+"name"="Titanium Gauntlet"
+"description"="vga"
+"cost"=267
+
+
+--- events ---
+
+"event_id"=121
+"name"="Curse of the Phantom Queen"
+"event_time"=122
+
+
+--- items ---
+
+"item_id"=198
+"type"="Shield"
+"name"="Dagger of the Trickster"
+"description"="mejoblu"
+"cost"=173
+
+
+--- players ---
+
+"player_id"=375
+"name"="Shaelis"
+"class"="Healer"
+"race"="Orc"
+"health"=671
+"experience"=283
+"starting_region"="Cimmeria"
+
+
+--- fightable_characters ---
+
+"npc_id"=280
+"health"=635
+"reward_experience"=919
+
+
+--- npcs ---
+
+"npc_id"=8
+"name"="Oromis"
+"role"="Quest-givers"
+"region_id"=24
+"is_fightable"=null
+"description"="uohsufria"
+
+
+--- players ---
+
+"player_id"=100
+"name"="Zyralor"
+"class"="Warrior"
+"race"="Undead"
+"health"=930
+"experience"=272
+"starting_region"="Orynthia"
+
+
+--- items ---
+
+"item_id"=108
+"type"="Staff"
+"name"="Tome of Elemental Secrets"
+"description"="swesm"
+"cost"=809
+
+
+--- teams ---
+
+"team_id"=314
+"name"="Wind_Dancers"
+"members_amount"=169
+
+
+--- classes ---
+
+"class_id"=122
+"class_name"="Healer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=149
+"npc_id"=152
+"contents"="The essence of combat: kill, or be killed."
+"choice_options"=504
+"emotion"=385
+
+
+--- fightable_characters ---
+
+"npc_id"=287
+"health"=232
+"reward_experience"=951
+
+
+--- npcs ---
+
+"npc_id"=58
+"name"="Laelor"
+"role"="Shopkeepers"
+"region_id"=819
+"is_fightable"=null
+"description"="aut"
+
+
+--- npcs ---
+
+"npc_id"=17
+"name"="Orik"
+"role"="Quest-givers"
+"region_id"=645
+"is_fightable"=null
+"description"="ubroesnays"
+
+
+--- items ---
+
+"item_id"=139
+"type"="Bow"
+"name"="Vial of Healing Winds"
+"description"="dkuhace"
+"cost"=205
+
+
+--- events ---
+
+"event_id"=143
+"name"="Fireheart's Revenge"
+"event_time"=691
+
+
+--- fightable_characters ---
+
+"npc_id"=323
+"health"=430
+"reward_experience"=657
+
+
+--- Enemy ---
+
+"id"=409
+"enemy_name"="Lunar Moth"
+"enemy_type"="Construct"
+"hitpoints"=327
+"warcry"="uigleke"
+
+
+--- players ---
+
+"player_id"=328
+"name"="Goromir"
+"class"="Archer"
+"race"="Orc"
+"health"=575
+"experience"=527
+"starting_region"="Orynthia"
+
+
+--- fightable_characters ---
+
+"npc_id"=231
+"health"=548
+"reward_experience"=319
+
+
+--- Enemy ---
+
+"id"=662
+"enemy_name"="Lava Golem"
+"enemy_type"="Brute"
+"hitpoints"=637
+"warcry"="speflu"
+
+
+--- guilds ---
+
+"guild_id"=62
+"type"="Questing"
+"name"="Silver Lances"
+"description"="ioy"
+
+
+--- items ---
+
+"item_id"=156
+"type"="Sword"
+"name"="Helm of Insight"
+"description"="mmefl"
+"cost"=835
+
+
+--- items ---
+
+"item_id"=368
+"type"="Bow"
+"name"="Champion's Greatsword"
+"description"="ufrunke"
+"cost"=496
+
+
+--- classes ---
+
+"class_id"=405
+"class_name"="Healer"
+"description"="Summons minions to aid in combat."
+
+
+--- fightable_characters ---
+
+"npc_id"=316
+"health"=613
+"reward_experience"=754
+
+
+--- teams ---
+
+"team_id"=364
+"name"="Ocean_Sirens"
+"members_amount"=225
+
+
+--- races ---
+
+"race_id"=182
+"name"="Orc"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- teams ---
+
+"team_id"=21
+"name"="PhoenixRising"
+"members_amount"=892
+
+
+--- teams ---
+
+"team_id"=348
+"name"="Shadow_Assassins"
+"members_amount"=168
+
+
+--- races ---
+
+"race_id"=104
+"name"="Naga"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- events ---
+
+"event_id"=226
+"name"="Riddle of the Ancient Sphinx"
+"event_time"=751
+
+
+--- Enemy ---
+
+"id"=424
+"enemy_name"="Abyssal Fiend"
+"enemy_type"="Swarm"
+"hitpoints"=695
+"warcry"="troablu"
+
+
+--- races ---
+
+"race_id"=35
+"name"="Undead"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- players ---
+
+"player_id"=358
+"name"="Orifel"
+"class"="Mage"
+"race"="Orc"
+"health"=683
+"experience"=788
+"starting_region"="Cimmeria"
+
+
+--- items ---
+
+"item_id"=269
+"type"="Ring"
+"name"="Potion of Eternal Vigor"
+"description"="obpiibr"
+"cost"=831
+
+
+--- dialogues ---
+
+"dialogue_id"=384
+"npc_id"=387
+"contents"="What is better? To be born good, or to overcome your evil nature through great effort?"
+"choice_options"=906
+"emotion"=290
+
+
+--- players ---
+
+"player_id"=339
+"name"="Veyla"
+"class"="Warrior"
+"race"="Dwarf"
+"health"=587
+"experience"=606
+"starting_region"="Valoria"
+
+
+--- fightable_characters ---
+
+"npc_id"=303
+"health"=613
+"reward_experience"=619
+
+
+--- fightable_characters ---
+
+"npc_id"=204
+"health"=805
+"reward_experience"=325
+
+
+--- npcs ---
+
+"npc_id"=1
+"name"="Grundor"
+"role"="Skill_Trainers"
+"region_id"=452
+"is_fightable"=null
+"description"="eblugri"
+
+
+--- events ---
+
+"event_id"=167
+"name"="Riddle of the Ancient Sphinx"
+"event_time"=48
+
+
+--- players ---
+
+"player_id"=151
+"name"="Elidora"
+"class"="Warrior"
+"race"="Human"
+"health"=477
+"experience"=511
+"starting_region"="Valoria"
+
+
+--- players ---
+
+"player_id"=114
+"name"="Aethor"
+"class"="Archer"
+"race"="Elf"
+"health"=928
+"experience"=639
+"starting_region"="Valoria"
+
+
+--- dialogues ---
+
+"dialogue_id"=39
+"npc_id"=42
+"contents"="Woe be to the adventurer who opens Pandora's Loot Box."
+"choice_options"=45
+"emotion"=65
+
+
+--- guilds ---
+
+"guild_id"=3
+"type"="Knowledge"
+"name"="The Righteous"
+"description"="faq"
+
+
+--- players ---
+
+"player_id"=207
+"name"="Vyktor"
+"class"="Rogue"
+"race"="Human"
+"health"=898
+"experience"=529
+"starting_region"="Cimmeria"
+
+
+--- classes ---
+
+"class_id"=57
+"class_name"="Rogue"
+"description"="Summons minions to aid in combat."
+
+
+--- guilds ---
+
+"guild_id"=126
+"type"="Exploration"
+"name"="The Forsaken"
+"description"="odriclo"
+
+
+--- guilds ---
+
+"guild_id"=53
+"type"="PvP"
+"name"="Hands of Fate"
+"description"="kwapruuba"
+
+
+--- classes ---
+
+"class_id"=365
+"class_name"="Mage"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- items ---
+
+"item_id"=5
+"type"="Bow"
+"name"="Shadowflame Dagger"
+"description"="hoirb"
+"cost"=592
+
+
+--- Enemy ---
+
+"id"=550
+"enemy_name"="Bloodthirsty Minotaur"
+"enemy_type"="Undead"
+"hitpoints"=417
+"warcry"="prismud"
+
+
+--- items ---
+
+"item_id"=192
+"type"="Staff"
+"name"="Bracelet of Divine Fates"
+"description"="smuu"
+"cost"=235
+
+
+--- teams ---
+
+"team_id"=387
+"name"="Stone_Giants"
+"members_amount"=474
+
+
+--- classes ---
+
+"class_id"=104
+"class_name"="Mage"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- items ---
+
+"item_id"=201
+"type"="Sword"
+"name"="Blade of the Archmage"
+"description"="yga"
+"cost"=732
+
+
+--- npcs ---
+
+"npc_id"=138
+"name"="Endora"
+"role"="Shopkeepers"
+"region_id"=677
+"is_fightable"=null
+"description"="glivcusneu"
+
+
+--- classes ---
+
+"class_id"=191
+"class_name"="Warrior"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- guilds ---
+
+"guild_id"=4
+"type"="Mage Training"
+"name"="Council of Elders"
+"description"="crasniub"
+
+
+--- Enemy ---
+
+"id"=427
+"enemy_name"="Scourge Wight"
+"enemy_type"="Construct"
+"hitpoints"=202
+"warcry"="gvisc"
+
+
+--- classes ---
+
+"class_id"=89
+"class_name"="Healer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- npcs ---
+
+"npc_id"=43
+"name"="Seraphix"
+"role"="Skill_Trainers"
+"region_id"=708
+"is_fightable"=null
+"description"="aspadrum"
+
+
+--- events ---
+
+"event_id"=123
+"name"="Siege of Thunderpeak"
+"event_time"=113
+
+
+--- teams ---
+
+"team_id"=113
+"name"="Indigo_Invaders"
+"members_amount"=619
+
+
+--- players ---
+
+"player_id"=267
+"name"="Selendis"
+"class"="Warrior"
+"race"="Human"
+"health"=193
+"experience"=232
+"starting_region"="Valoria"
+
+
+--- fightable_characters ---
+
+"npc_id"=344
+"health"=397
+"reward_experience"=116
+
+
+--- classes ---
+
+"class_id"=322
+"class_name"="Warrior"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- items ---
+
+"item_id"=185
+"type"="Bow"
+"name"="Grimoire of Lost Souls"
+"description"="edru"
+"cost"=597
+
+
+--- events ---
+
+"event_id"=9
+"name"="Rage of the Warbeast"
+"event_time"=253
+
+
+--- dialogues ---
+
+"dialogue_id"=275
+"npc_id"=278
+"contents"="There is always some madness in leveling up. But there is also always some reason in madness."
+"choice_options"=492
+"emotion"=217
+
+
+--- classes ---
+
+"class_id"=368
+"class_name"="Summoner"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- guilds ---
+
+"guild_id"=85
+"type"="PvP"
+"name"="Thieves of Time"
+"description"="mfa"
+
+
+--- players ---
+
+"player_id"=13
+"name"="Faenar"
+"class"="Rogue"
+"race"="Human"
+"health"=363
+"experience"=307
+"starting_region"="Orynthia"
+
+
+--- classes ---
+
+"class_id"=194
+"class_name"="Warrior"
+"description"="Summons minions to aid in combat."
+
+
+--- players ---
+
+"player_id"=39
+"name"="Thaelen"
+"class"="Rogue"
+"race"="Dwarf"
+"health"=499
+"experience"=680
+"starting_region"="Cimmeria"
+
+
+--- teams ---
+
+"team_id"=84
+"name"="Topaz_Templars"
+"members_amount"=154
+
+
+--- classes ---
+
+"class_id"=230
+"class_name"="Summoner"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- classes ---
+
+"class_id"=394
+"class_name"="Mage"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- races ---
+
+"race_id"=124
+"name"="Undead"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- fightable_characters ---
+
+"npc_id"=155
+"health"=718
+"reward_experience"=708
+
+
+--- items ---
+
+"item_id"=93
+"type"="Potion"
+"name"="Elixir of the Moon"
+"description"="rgefboj"
+"cost"=788
+
+
+--- classes ---
+
+"class_id"=258
+"class_name"="Healer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- teams ---
+
+"team_id"=12
+"name"="Dark_Crusaders"
+"members_amount"=42
+
+
+--- items ---
+
+"item_id"=336
+"type"="Bow"
+"name"="Dagger of Betrayal"
+"description"="szafroproi"
+"cost"=432
+
+
+--- fightable_characters ---
+
+"npc_id"=185
+"health"=668
+"reward_experience"=851
+
+
+--- npcs ---
+
+"npc_id"=39
+"name"="Lythra"
+"role"="Skill_Trainers"
+"region_id"=24
+"is_fightable"=null
+"description"="clauy"
+
+
+--- npcs ---
+
+"npc_id"=122
+"name"="Kyrion"
+"role"="Shopkeepers"
+"region_id"=147
+"is_fightable"=null
+"description"="gxe"
+
+
+--- Enemy ---
+
+"id"=398
+"enemy_name"="Corrupted Alchemist"
+"enemy_type"="Elemental"
+"hitpoints"=112
+"warcry"="slug"
+
+
+--- teams ---
+
+"team_id"=155
+"name"="Cosmic_Paladins"
+"members_amount"=999
+
+
+--- teams ---
+
+"team_id"=315
+"name"="Azure_Avatars"
+"members_amount"=477
+
+
+--- fightable_characters ---
+
+"npc_id"=236
+"health"=96
+"reward_experience"=223
+
+
+--- races ---
+
+"race_id"=179
+"name"="Naga"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- teams ---
+
+"team_id"=91
+"name"="Rogue_Wraiths"
+"members_amount"=857
+
+
+--- Enemy ---
+
+"id"=420
+"enemy_name"="Bloodthirsty Minotaur"
+"enemy_type"="Magical"
+"hitpoints"=116
+"warcry"="itrucwasm"
+
+
+--- dialogues ---
+
+"dialogue_id"=86
+"npc_id"=88
+"contents"="Enemies ahead? I can take 'em!"
+"choice_options"=279
+"emotion"=489
+
+
+--- items ---
+
+"item_id"=165
+"type"="Staff"
+"name"="Warhammer of the Earthshaker"
+"description"="prienmogr"
+"cost"=117
+
+
+--- Enemy ---
+
+"id"=667
+"enemy_name"="Blazing Phoenix"
+"enemy_type"="Undead"
+"hitpoints"=55
+"warcry"="bolj"
+
+
+--- teams ---
+
+"team_id"=184
+"name"="Emerald_Shamans"
+"members_amount"=871
+
+
+--- fightable_characters ---
+
+"npc_id"=308
+"health"=685
+"reward_experience"=526
+
+
+--- teams ---
+
+"team_id"=351
+"name"="Azure_Avatars"
+"members_amount"=339
+
+
+--- classes ---
+
+"class_id"=376
+"class_name"="Summoner"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- Enemy ---
+
+"id"=633
+"enemy_name"="Cybernetic Scorpion"
+"enemy_type"="Undead"
+"hitpoints"=463
+"warcry"="oiskotri"
+
+
+--- events ---
+
+"event_id"=3
+"name"="Spectral Masquerade"
+"event_time"=777
+
+
+--- fightable_characters ---
+
+"npc_id"=341
+"health"=985
+"reward_experience"=479
+
+
+--- players ---
+
+"player_id"=254
+"name"="Sarthon"
+"class"="Mage"
+"race"="Orc"
+"health"=950
+"experience"=340
+"starting_region"="Elphora"
+
+
+--- fightable_characters ---
+
+"npc_id"=393
+"health"=434
+"reward_experience"=644
+
+
+--- events ---
+
+"event_id"=180
+"name"="Slaying of the Ice Queen"
+"event_time"=692
+
+
+--- races ---
+
+"race_id"=25
+"name"="Human"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- Enemy ---
+
+"id"=537
+"enemy_name"="Phantom Banshee"
+"enemy_type"="Magical"
+"hitpoints"=317
+"warcry"="lrisw"
+
+
+--- classes ---
+
+"class_id"=146
+"class_name"="Warrior"
+"description"="Summons minions to aid in combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=407
+"npc_id"=408
+"contents"="Why do today what you can put off for tomorrow? Actually, the Dragon won't slay itself."
+"choice_options"=699
+"emotion"=210
+
+
+--- fightable_characters ---
+
+"npc_id"=318
+"health"=834
+"reward_experience"=79
+
+
+--- dialogues ---
+
+"dialogue_id"=405
+"npc_id"=406
+"contents"="Ah, the wind whispers of your coming, brave adventurer! How may Old Gregg assist you today?"
+"choice_options"=945
+"emotion"=89
+
+
+--- guilds ---
+
+"guild_id"=140
+"type"="Trading"
+"name"="Moonlit Mystics"
+"description"="nyogsif"
+
+
+--- items ---
+
+"item_id"=32
+"type"="Potion"
+"name"="Chronomancer's Sandglass"
+"description"="qabro"
+"cost"=175
+
+
+--- players ---
+
+"player_id"=9
+"name"="Orin"
+"class"="Mage"
+"race"="Human"
+"health"=478
+"experience"=691
+"starting_region"="Elphora"
+
+
+--- npcs ---
+
+"npc_id"=50
+"name"="Ulfrik"
+"role"="Skill_Trainers"
+"region_id"=399
+"is_fightable"=null
+"description"="blelyi"
+
+
+--- teams ---
+
+"team_id"=259
+"name"="Silver_Falcons"
+"members_amount"=242
+
+
+--- classes ---
+
+"class_id"=207
+"class_name"="Warrior"
+"description"="Summons minions to aid in combat."
+
+
+--- events ---
+
+"event_id"=100
+"name"="Titan's Demise"
+"event_time"=570
+
+
+--- fightable_characters ---
+
+"npc_id"=391
+"health"=773
+"reward_experience"=40
+
+
+--- teams ---
+
+"team_id"=43
+"name"="Warden_of_Will"
+"members_amount"=900
+
+
+--- events ---
+
+"event_id"=205
+"name"="Titan's Demise"
+"event_time"=94
+
+
+--- Enemy ---
+
+"id"=664
+"enemy_name"="Zombie Horde"
+"enemy_type"="Undead"
+"hitpoints"=566
+"warcry"="proucri"
+
+
+--- teams ---
+
+"team_id"=230
+"name"="Chaos_Bringers"
+"members_amount"=740
+
+
+--- items ---
+
+"item_id"=244
+"type"="Shield"
+"name"="Runic Vestments"
+"description"="wtaaww"
+"cost"=763
+
+
+--- races ---
+
+"race_id"=88
+"name"="Human"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- events ---
+
+"event_id"=176
+"name"="Valley of Forgotten Echoes"
+"event_time"=556
+
+
+--- players ---
+
+"player_id"=382
+"name"="Zandalar"
+"class"="Healer"
+"race"="Human"
+"health"=215
+"experience"=734
+"starting_region"="Elphora"
+
+
+--- npcs ---
+
+"npc_id"=117
+"name"="Aerendir"
+"role"="Shopkeepers"
+"region_id"=81
+"is_fightable"=null
+"description"="suosta"
+
+
+--- fightable_characters ---
+
+"npc_id"=183
+"health"=13
+"reward_experience"=802
+
+
+--- players ---
+
+"player_id"=165
+"name"="Caelthor"
+"class"="Mage"
+"race"="Naga"
+"health"=44
+"experience"=705
+"starting_region"="Valoria"
+
+
+--- classes ---
+
+"class_id"=54
+"class_name"="Rogue"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- dialogues ---
+
+"dialogue_id"=692
+"npc_id"=693
+"contents"="Adventurer, your future is whatever you grind it to be."
+"choice_options"=263
+"emotion"=196
+
+
+--- events ---
+
+"event_id"=225
+"name"="Assault on the Abyss"
+"event_time"=96
+
+
+--- Enemy ---
+
+"id"=617
+"enemy_name"="Bloodthirsty Minotaur"
+"enemy_type"="Elemental"
+"hitpoints"=596
+"warcry"="blio"
+
+
+--- races ---
+
+"race_id"=2
+"name"="Naga"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- dialogues ---
+
+"dialogue_id"=63
+"npc_id"=66
+"contents"="Behind every avatar is a player with a snack."
+"choice_options"=463
+"emotion"=425
+
+
+--- players ---
+
+"player_id"=393
+"name"="Gwynara"
+"class"="Warrior"
+"race"="Dwarf"
+"health"=481
+"experience"=388
+"starting_region"="Orynthia"
+
+
+--- players ---
+
+"player_id"=315
+"name"="Solandria"
+"class"="Archer"
+"race"="Dwarf"
+"health"=993
+"experience"=122
+"starting_region"="Cimmeria"
+
+
+--- dialogues ---
+
+"dialogue_id"=688
+"npc_id"=691
+"contents"="New to the realm? Swipe up for an exclusive tutorial!"
+"choice_options"=105
+"emotion"=529
+
+
+--- events ---
+
+"event_id"=111
+"name"="The Harvest of Souls"
+"event_time"=303
+
+
+--- events ---
+
+"event_id"=78
+"name"="The Cataclysm of Ironspire"
+"event_time"=573
+
+
+--- players ---
+
+"player_id"=61
+"name"="Endora"
+"class"="Summoner"
+"race"="Undead"
+"health"=291
+"experience"=152
+"starting_region"="Orynthia"
+
+
+--- dialogues ---
+
+"dialogue_id"=388
+"npc_id"=391
+"contents"="It was the best of times, it was the worst of quests."
+"choice_options"=211
+"emotion"=45
+
+
+--- classes ---
+
+"class_id"=381
+"class_name"="Rogue"
+"description"="Summons minions to aid in combat."
+
+
+--- players ---
+
+"player_id"=136
+"name"="Aethor"
+"class"="Mage"
+"race"="Human"
+"health"=1
+"experience"=680
+"starting_region"="Valoria"
+
+
+--- fightable_characters ---
+
+"npc_id"=162
+"health"=530
+"reward_experience"=161
+
+
+--- npcs ---
+
+"npc_id"=83
+"name"="Delgath"
+"role"="Skill_Trainers"
+"region_id"=776
+"is_fightable"=null
+"description"="aescufrosnu"
+
+
+--- events ---
+
+"event_id"=187
+"name"="Raven's Eclipse"
+"event_time"=141
+
+
+--- teams ---
+
+"team_id"=261
+"name"="Dimensional_Shifters"
+"members_amount"=660
+
+
+--- players ---
+
+"player_id"=398
+"name"="Oromis"
+"class"="Rogue"
+"race"="Naga"
+"health"=845
+"experience"=218
+"starting_region"="Orynthia"
+
+
+--- players ---
+
+"player_id"=49
+"name"="Zephyrix"
+"class"="Rogue"
+"race"="Naga"
+"health"=605
+"experience"=324
+"starting_region"="Valoria"
+
+
+--- classes ---
+
+"class_id"=139
+"class_name"="Rogue"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- classes ---
+
+"class_id"=328
+"class_name"="Archer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- items ---
+
+"item_id"=330
+"type"="Ring"
+"name"="Dragonbone Greataxe"
+"description"="bliifrozn"
+"cost"=850
+
+
+--- items ---
+
+"item_id"=78
+"type"="Sword"
+"name"="Emerald Saber of Souls"
+"description"="vjebrug"
+"cost"=927
+
+
+--- dialogues ---
+
+"dialogue_id"=415
+"npc_id"=418
+"contents"="You shall not pass, unless you solve my riddle!"
+"choice_options"=918
+"emotion"=491
+
+
+--- classes ---
+
+"class_id"=198
+"class_name"="Rogue"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=576
+"npc_id"=579
+"contents"="Whoa! You just hit level 20? That's sooo aesthetic! #LevelUpGoals"
+"choice_options"=765
+"emotion"=797
+
+
+--- npcs ---
+
+"npc_id"=52
+"name"="Nymriel"
+"role"="Quest-givers"
+"region_id"=638
+"is_fightable"=null
+"description"="wfepre"
+
+
+--- races ---
+
+"race_id"=199
+"name"="Undead"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- Enemy ---
+
+"id"=704
+"enemy_name"="Stone Sentinel"
+"enemy_type"="Demon"
+"hitpoints"=581
+"warcry"="skayagro"
+
+
+--- teams ---
+
+"team_id"=27
+"name"="Venom_Serpents"
+"members_amount"=815
+
+
+--- events ---
+
+"event_id"=159
+"name"="The Reckoning of Lighthaven"
+"event_time"=375
+
+
+--- items ---
+
+"item_id"=179
+"type"="Staff"
+"name"="Goblin-made Flail"
+"description"="edsegrai"
+"cost"=869
+
+
+--- fightable_characters ---
+
+"npc_id"=363
+"health"=303
+"reward_experience"=625
+
+
+--- dialogues ---
+
+"dialogue_id"=376
+"npc_id"=378
+"contents"="Do you wish to hear a tale of valor and sacrifice? Too late, it's DLC content."
+"choice_options"=612
+"emotion"=825
+
+
+--- classes ---
+
+"class_id"=363
+"class_name"="Warrior"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- teams ---
+
+"team_id"=19
+"name"="Moon_Queens"
+"members_amount"=433
+
+
+--- npcs ---
+
+"npc_id"=62
+"name"="Toraell"
+"role"="Lore_Masters"
+"region_id"=329
+"is_fightable"=null
+"description"="plestuekp"
+
+
+--- items ---
+
+"item_id"=294
+"type"="Dagger"
+"name"="Ring of Arcane Mastery"
+"description"="dzao"
+"cost"=978
+
+
+--- teams ---
+
+"team_id"=394
+"name"="AstralWanderers"
+"members_amount"=59
+
+
+--- Enemy ---
+
+"id"=436
+"enemy_name"="Spiked Behemoth"
+"enemy_type"="Magical"
+"hitpoints"=79
+"warcry"="eowi"
+
+
+--- classes ---
+
+"class_id"=200
+"class_name"="Mage"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- items ---
+
+"item_id"=204
+"type"="Shield"
+"name"="Frostfire Staff"
+"description"="glaude"
+"cost"=574
+
+
+--- items ---
+
+"item_id"=46
+"type"="Potion"
+"name"="Veil of the Tempest"
+"description"="slegre"
+"cost"=735
+
+
+--- items ---
+
+"item_id"=314
+"type"="Amulet"
+"name"="Grimoire of Lost Souls"
+"description"="itripw"
+"cost"=632
+
+
+--- items ---
+
+"item_id"=260
+"type"="Sword"
+"name"="Ring of the Moon"
+"description"="uqwifl"
+"cost"=679
+
+
+--- Enemy ---
+
+"id"=693
+"enemy_name"="Siren of Despair"
+"enemy_type"="Undead"
+"hitpoints"=22
+"warcry"="prim"
+
+
+--- guilds ---
+
+"guild_id"=73
+"type"="Healing"
+"name"="Ocean's Children"
+"description"="glacunc"
+
+
+--- classes ---
+
+"class_id"=96
+"class_name"="Mage"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- guilds ---
+
+"guild_id"=11
+"type"="Crafting"
+"name"="Wizards of the Coast"
+"description"="aatri"
+
+
+--- dialogues ---
+
+"dialogue_id"=302
+"npc_id"=305
+"contents"="OMG, you guys! This dungeon is sooo lit! #BestDungeonEver"
+"choice_options"=346
+"emotion"=570
+
+
+--- races ---
+
+"race_id"=71
+"name"="Human"
+"description"="Risen from the dead, masters of dark arts and curses."
+
+
+--- classes ---
+
+"class_id"=142
+"class_name"="Mage"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- fightable_characters ---
+
+"npc_id"=173
+"health"=731
+"reward_experience"=566
+
+
+--- Enemy ---
+
+"id"=712
+"enemy_name"="Corrupted Paladin"
+"enemy_type"="Undead"
+"hitpoints"=192
+"warcry"="glimf"
+
+
+--- npcs ---
+
+"npc_id"=51
+"name"="Kyrion"
+"role"="Lore_Masters"
+"region_id"=843
+"is_fightable"=null
+"description"="oaroogragl"
+
+
+--- items ---
+
+"item_id"=157
+"type"="Amulet"
+"name"="Veil of the Tempest"
+"description"="gzifro"
+"cost"=448
+
+
+--- Enemy ---
+
+"id"=511
+"enemy_name"="Voracious Goblin"
+"enemy_type"="Undead"
+"hitpoints"=245
+"warcry"="plutr"
+
+
+--- events ---
+
+"event_id"=150
+"name"="Wrath of the Earthmother"
+"event_time"=938
+
+
+--- dialogues ---
+
+"dialogue_id"=366
+"npc_id"=369
+"contents"="Verily, you've conquered the Mountain of Despair! Here's 50 gold coins."
+"choice_options"=34
+"emotion"=135
+
+
+--- classes ---
+
+"class_id"=173
+"class_name"="Summoner"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- fightable_characters ---
+
+"npc_id"=297
+"health"=930
+"reward_experience"=199
+
+
+--- npcs ---
+
+"npc_id"=68
+"name"="Zandalar"
+"role"="Skill_Trainers"
+"region_id"=492
+"is_fightable"=null
+"description"="pliskacradh"
+
+
+--- events ---
+
+"event_id"=183
+"name"="Titan's Demise"
+"event_time"=361
+
+
+--- items ---
+
+"item_id"=234
+"type"="Shield"
+"name"="Tome of the Elders"
+"description"="iwzarsisn"
+"cost"=677
+
+
+--- classes ---
+
+"class_id"=115
+"class_name"="Archer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- events ---
+
+"event_id"=157
+"name"="Fall of the Shadow Titan"
+"event_time"=375
+
+
+--- items ---
+
+"item_id"=98
+"type"="Shield"
+"name"="Ring of Arcane Mastery"
+"description"="gea"
+"cost"=613
+
+
+--- classes ---
+
+"class_id"=221
+"class_name"="Rogue"
+"description"="Summons minions to aid in combat."
+
+
+--- guilds ---
+
+"guild_id"=36
+"type"="Healing"
+"name"="The Wanderers"
+"description"="qasna"
+
+
+--- classes ---
+
+"class_id"=286
+"class_name"="Warrior"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- items ---
+
+"item_id"=52
+"type"="Sword"
+"name"="Staff of Eldritch Power"
+"description"="zecorr"
+"cost"=796
+
+
+--- Enemy ---
+
+"id"=443
+"enemy_name"="Lunar Witch"
+"enemy_type"="Elemental"
+"hitpoints"=480
+"warcry"="aslogriyyi"
+
+
+--- players ---
+
+"player_id"=360
+"name"="Serafelle"
+"class"="Archer"
+"race"="Dwarf"
+"health"=203
+"experience"=312
+"starting_region"="Cimmeria"
+
+
+--- classes ---
+
+"class_id"=232
+"class_name"="Mage"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- items ---
+
+"item_id"=136
+"type"="Sword"
+"name"="Necklace of the Mermaid"
+"description"="bloa"
+"cost"=953
+
+
+--- teams ---
+
+"team_id"=56
+"name"="FrostGuardians"
+"members_amount"=484
+
+
+--- items ---
+
+"item_id"=148
+"type"="Amulet"
+"name"="Amulet of the Stars"
+"description"="uswu"
+"cost"=496
+
+
+--- dialogues ---
+
+"dialogue_id"=205
+"npc_id"=208
+"contents"="So you're an adventurer? Isn't that just kick-you-in-the-crotch, spit-on-your-neck fantastic?"
+"choice_options"=935
+"emotion"=518
+
+
+--- players ---
+
+"player_id"=149
+"name"="Shaelis"
+"class"="Warrior"
+"race"="Undead"
+"health"=540
+"experience"=709
+"starting_region"="Orynthia"
+
+
+--- dialogues ---
+
+"dialogue_id"=533
+"npc_id"=535
+"contents"="Do you wish to hear a tale of valor and sacrifice? Too late, it's DLC content."
+"choice_options"=62
+"emotion"=694
+
+
+--- dialogues ---
+
+"dialogue_id"=538
+"npc_id"=540
+"contents"="What is better? To be born good, or to overcome your evil nature through great effort?"
+"choice_options"=446
+"emotion"=798
+
+
+--- guilds ---
+
+"guild_id"=150
+"type"="Exploration"
+"name"="Council of Elders"
+"description"="unadr"
+
+
+--- events ---
+
+"event_id"=229
+"name"="Escape from Shadow Hold"
+"event_time"=991
+
+
+--- events ---
+
+"event_id"=109
+"name"="The Dragon's Awakening"
+"event_time"=376
+
+
+--- events ---
+
+"event_id"=96
+"name"="Curse of the Phantom Queen"
+"event_time"=347
+
+
+--- dialogues ---
+
+"dialogue_id"=657
+"npc_id"=660
+"contents"="Y'arrr, what be ye doin' in these parts? Ah, treasure hunting, I see. Well, X marks the spot... or was it Y?"
+"choice_options"=599
+"emotion"=417
+
+
+--- players ---
+
+"player_id"=127
+"name"="Oberion"
+"class"="Rogue"
+"race"="Human"
+"health"=47
+"experience"=107
+"starting_region"="Cimmeria"
+
+
+--- npcs ---
+
+"npc_id"=12
+"name"="Endora"
+"role"="Quest-givers"
+"region_id"=650
+"is_fightable"=null
+"description"="xde"
+
+
+--- guilds ---
+
+"guild_id"=50
+"type"="Crafting"
+"name"="Silver Lances"
+"description"="qtibr"
+
+
+--- fightable_characters ---
+
+"npc_id"=206
+"health"=29
+"reward_experience"=990
+
+
+--- npcs ---
+
+"npc_id"=23
+"name"="Daelis"
+"role"="Shopkeepers"
+"region_id"=155
+"is_fightable"=null
+"description"="aflafru"
+
+
+--- teams ---
+
+"team_id"=396
+"name"="Soul_Reapers"
+"members_amount"=166
+
+
+--- players ---
+
+"player_id"=187
+"name"="Zyraziel"
+"class"="Archer"
+"race"="Orc"
+"health"=739
+"experience"=65
+"starting_region"="Cimmeria"
+
+
+--- Enemy ---
+
+"id"=642
+"enemy_name"="Armored Basilisk"
+"enemy_type"="Beast"
+"hitpoints"=881
+"warcry"="ploavx"
+
+
+--- items ---
+
+"item_id"=131
+"type"="Sword"
+"name"="Potion of Dire Strength"
+"description"="flebluira"
+"cost"=924
+
+
+--- fightable_characters ---
+
+"npc_id"=224
+"health"=821
+"reward_experience"=778
+
+
+--- Enemy ---
+
+"id"=512
+"enemy_name"="Armored Centaur"
+"enemy_type"="Elemental"
+"hitpoints"=191
+"warcry"="kwegx"
+
+
+--- teams ---
+
+"team_id"=383
+"name"="Lunar_Army"
+"members_amount"=791
+
+
+--- players ---
+
+"player_id"=124
+"name"="Orifel"
+"class"="Summoner"
+"race"="Human"
+"health"=7
+"experience"=896
+"starting_region"="Cimmeria"
+
+
+--- races ---
+
+"race_id"=192
+"name"="Orc"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- guilds ---
+
+"guild_id"=139
+"type"="Questing"
+"name"="Dragon Slayers"
+"description"="edro"
+
+
+--- classes ---
+
+"class_id"=386
+"class_name"="Healer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- Enemy ---
+
+"id"=518
+"enemy_name"="Vampiric Bat Swarm"
+"enemy_type"="Undead"
+"hitpoints"=840
+"warcry"="plosniple"
+
+
+--- items ---
+
+"item_id"=256
+"type"="Sword"
+"name"="Ring of Arcane Mastery"
+"description"="swocr"
+"cost"=53
+
+
+--- fightable_characters ---
+
+"npc_id"=291
+"health"=314
+"reward_experience"=116
+
+
+--- players ---
+
+"player_id"=372
+"name"="Orin"
+"class"="Mage"
+"race"="Undead"
+"health"=73
+"experience"=700
+"starting_region"="Valoria"
+
+
+--- dialogues ---
+
+"dialogue_id"=606
+"npc_id"=609
+"contents"="New to the realm? Swipe up for an exclusive tutorial!"
+"choice_options"=672
+"emotion"=944
+
+
+--- players ---
+
+"player_id"=246
+"name"="Azalor"
+"class"="Mage"
+"race"="Undead"
+"health"=88
+"experience"=792
+"starting_region"="Elphora"
+
+
+--- events ---
+
+"event_id"=76
+"name"="Storm of the Dead"
+"event_time"=543
+
+
+--- fightable_characters ---
+
+"npc_id"=251
+"health"=648
+"reward_experience"=46
+
+
+--- classes ---
+
+"class_id"=321
+"class_name"="Rogue"
+"description"="Summons minions to aid in combat."
+
+
+--- classes ---
+
+"class_id"=214
+"class_name"="Archer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- players ---
+
+"player_id"=87
+"name"="Xyralis"
+"class"="Mage"
+"race"="Orc"
+"health"=680
+"experience"=182
+"starting_region"="Cimmeria"
+
+
+--- classes ---
+
+"class_id"=218
+"class_name"="Mage"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- events ---
+
+"event_id"=93
+"name"="Wrath of the Earthmother"
+"event_time"=454
+
+
+--- races ---
+
+"race_id"=47
+"name"="Dwarf"
+"description"="Stout warriors skilled in metallurgy and crafting."
+
+
+--- dialogues ---
+
+"dialogue_id"=176
+"npc_id"=179
+"contents"="Welcome, adventurer, to the dungeon of doom! Not to be confused with the dungeon of gloom, that's two doors down."
+"choice_options"=815
+"emotion"=533
+
+
+--- events ---
+
+"event_id"=130
+"name"="Spectral Masquerade"
+"event_time"=993
+
+
+--- teams ---
+
+"team_id"=304
+"name"="Night_Owls"
+"members_amount"=496
+
+
+--- events ---
+
+"event_id"=5
+"name"="Serpent's Ascension"
+"event_time"=30
+
+
+--- items ---
+
+"item_id"=144
+"type"="Amulet"
+"name"="Potion of Eternal Vigor"
+"description"="spoemismol"
+"cost"=285
+
+
+--- dialogues ---
+
+"dialogue_id"=413
+"npc_id"=414
+"contents"="It's-a me! Are you ready to jump into the next adventure?"
+"choice_options"=5
+"emotion"=856
+
+
+--- teams ---
+
+"team_id"=11
+"name"="Ocean_Sirens"
+"members_amount"=769
+
+
+--- players ---
+
+"player_id"=230
+"name"="Veylan"
+"class"="Mage"
+"race"="Human"
+"health"=406
+"experience"=617
+"starting_region"="Valoria"
+
+
+--- races ---
+
+"race_id"=186
+"name"="Naga"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- races ---
+
+"race_id"=50
+"name"="Undead"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- items ---
+
+"item_id"=246
+"type"="Bow"
+"name"="Robes of the Archmage"
+"description"="uosnisw"
+"cost"=610
+
+
+--- teams ---
+
+"team_id"=165
+"name"="Warden_of_Will"
+"members_amount"=781
+
+
+--- dialogues ---
+
+"dialogue_id"=457
+"npc_id"=459
+"contents"="You wish to defeat the Demon Lord? First, you must conquer the deadliest foe: server lag."
+"choice_options"=513
+"emotion"=106
+
+
+--- Enemy ---
+
+"id"=692
+"enemy_name"="Thunder Drake"
+"enemy_type"="Elemental"
+"hitpoints"=253
+"warcry"="scudrootr"
+
+
+--- teams ---
+
+"team_id"=20
+"name"="Rainbow_Riders"
+"members_amount"=41
+
+
+--- teams ---
+
+"team_id"=237
+"name"="Jade_Judges"
+"members_amount"=435
+
+
+--- teams ---
+
+"team_id"=105
+"name"="Astral_Crusaders"
+"members_amount"=573
+
+
+--- classes ---
+
+"class_id"=217
+"class_name"="Rogue"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- items ---
+
+"item_id"=220
+"type"="Ring"
+"name"="Potion of Mana Regeneration"
+"description"="ozwuagr"
+"cost"=922
+
+
+--- classes ---
+
+"class_id"=204
+"class_name"="Rogue"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- items ---
+
+"item_id"=319
+"type"="Sword"
+"name"="Bracers of the Hunter"
+"description"="yxesmae"
+"cost"=226
+
+
+--- classes ---
+
+"class_id"=318
+"class_name"="Healer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- fightable_characters ---
+
+"npc_id"=210
+"health"=109
+"reward_experience"=231
+
+
+--- Enemy ---
+
+"id"=535
+"enemy_name"="Dire Bat"
+"enemy_type"="Undead"
+"hitpoints"=567
+"warcry"="hebromog"
+
+
+--- dialogues ---
+
+"dialogue_id"=228
+"npc_id"=231
+"contents"="What's up, heroes! Use code 'EPICQUEST' for 10% off your next in-game purchase!"
+"choice_options"=811
+"emotion"=571
+
+
+--- dialogues ---
+
+"dialogue_id"=681
+"npc_id"=684
+"contents"="Let's make a deal, you and I. One you simply can't refuse."
+"choice_options"=339
+"emotion"=370
+
+
+--- players ---
+
+"player_id"=177
+"name"="Thorgrim"
+"class"="Healer"
+"race"="Human"
+"health"=433
+"experience"=922
+"starting_region"="Elphora"
+
+
+--- Enemy ---
+
+"id"=665
+"enemy_name"="Corrupted Paladin"
+"enemy_type"="Undead"
+"hitpoints"=303
+"warcry"="glosdoe"
+
+
+--- Enemy ---
+
+"id"=653
+"enemy_name"="Bloodthirsty Mermaid"
+"enemy_type"="Magical"
+"hitpoints"=974
+"warcry"="satrutto"
+
+
+--- events ---
+
+"event_id"=46
+"name"="Dawn of the Void"
+"event_time"=666
+
+
+--- Enemy ---
+
+"id"=644
+"enemy_name"="Cybernetic Scorpion"
+"enemy_type"="Magical"
+"hitpoints"=753
+"warcry"="igruaftisw"
+
+
+--- teams ---
+
+"team_id"=320
+"name"="Galactic_Guardians"
+"members_amount"=981
+
+
+--- dialogues ---
+
+"dialogue_id"=494
+"npc_id"=497
+"contents"="Fear not, hero! Take this sword, it's dangerous to go alone! Also, it's 50% off today."
+"choice_options"=449
+"emotion"=629
+
+
+--- Enemy ---
+
+"id"=415
+"enemy_name"="Astral Naga"
+"enemy_type"="Beast"
+"hitpoints"=340
+"warcry"="orgucyo"
+
+
+--- Enemy ---
+
+"id"=671
+"enemy_name"="Shadow Wraith"
+"enemy_type"="Magical"
+"hitpoints"=882
+"warcry"="eucruifra"
+
+
+--- items ---
+
+"item_id"=207
+"type"="Sword"
+"name"="Thunderstrike Axe"
+"description"="sliswo"
+"cost"=961
+
+
+--- guilds ---
+
+"guild_id"=25
+"type"="Exploration"
+"name"="Knights of Valor"
+"description"="bhu"
+
+
+--- guilds ---
+
+"guild_id"=42
+"type"="Knowledge"
+"name"="Defenders of Destiny"
+"description"="otraegriir"
+
+
+--- teams ---
+
+"team_id"=318
+"name"="Crystal_Clerics"
+"members_amount"=363
+
+
+--- players ---
+
+"player_id"=94
+"name"="Aethor"
+"class"="Warrior"
+"race"="Dwarf"
+"health"=310
+"experience"=121
+"starting_region"="Valoria"
+
+
+--- dialogues ---
+
+"dialogue_id"=93
+"npc_id"=94
+"contents"="Do you wish to hear a tale of valor and sacrifice? Too late, it's DLC content."
+"choice_options"=183
+"emotion"=991
+
+
+--- events ---
+
+"event_id"=34
+"name"="Blood Moon Rising"
+"event_time"=890
+
+
+--- classes ---
+
+"class_id"=66
+"class_name"="Healer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- npcs ---
+
+"npc_id"=108
+"name"="Isolde"
+"role"="Shopkeepers"
+"region_id"=994
+"is_fightable"=null
+"description"="aaspep"
+
+
+--- fightable_characters ---
+
+"npc_id"=376
+"health"=959
+"reward_experience"=372
+
+
+--- dialogues ---
+
+"dialogue_id"=463
+"npc_id"=466
+"contents"="In this world, it's grind or be grinded!"
+"choice_options"=640
+"emotion"=199
+
+
+--- dialogues ---
+
+"dialogue_id"=677
+"npc_id"=679
+"contents"="Fear not, hero! Take this sword, it's dangerous to go alone! Also, it's 50% off today."
+"choice_options"=824
+"emotion"=582
+
+
+--- dialogues ---
+
+"dialogue_id"=602
+"npc_id"=603
+"contents"="Behind every avatar is a player with a snack."
+"choice_options"=659
+"emotion"=288
+
+
+--- teams ---
+
+"team_id"=295
+"name"="Zen_Monks"
+"members_amount"=882
+
+
+--- items ---
+
+"item_id"=238
+"type"="Dagger"
+"name"="Shield of the Dwarven Lords"
+"description"="ucjogro"
+"cost"=461
+
+
+--- players ---
+
+"player_id"=329
+"name"="Zaela"
+"class"="Summoner"
+"race"="Dwarf"
+"health"=520
+"experience"=958
+"starting_region"="Orynthia"
+
+
+--- teams ---
+
+"team_id"=77
+"name"="Wind_Dancers"
+"members_amount"=714
+
+
+--- players ---
+
+"player_id"=125
+"name"="Xirelle"
+"class"="Archer"
+"race"="Elf"
+"health"=911
+"experience"=865
+"starting_region"="Cimmeria"
+
+
+--- players ---
+
+"player_id"=235
+"name"="Daelis"
+"class"="Warrior"
+"race"="Naga"
+"health"=781
+"experience"=268
+"starting_region"="Orynthia"
+
+
+--- dialogues ---
+
+"dialogue_id"=318
+"npc_id"=320
+"contents"="Why do today what you can put off for tomorrow? Actually, the Dragon won't slay itself."
+"choice_options"=710
+"emotion"=755
+
+
+--- teams ---
+
+"team_id"=123
+"name"="Cosmic_Paladins"
+"members_amount"=595
+
+
+--- fightable_characters ---
+
+"npc_id"=175
+"health"=73
+"reward_experience"=171
+
+
+--- players ---
+
+"player_id"=337
+"name"="Valdrick"
+"class"="Mage"
+"race"="Elf"
+"health"=746
+"experience"=957
+"starting_region"="Valoria"
+
+
+--- teams ---
+
+"team_id"=355
+"name"="Mystic_Phoenix"
+"members_amount"=425
+
+
+--- guilds ---
+
+"guild_id"=108
+"type"="Questing"
+"name"="Nature's Whisper"
+"description"="ddu"
+
+
+--- items ---
+
+"item_id"=101
+"type"="Ring"
+"name"="Amethyst Soul Amulet"
+"description"="zzuzho"
+"cost"=923
+
+
+--- dialogues ---
+
+"dialogue_id"=349
+"npc_id"=350
+"contents"="Mages get your staffs, warriors get your swords, and rogues, just... go stand in the corner."
+"choice_options"=613
+"emotion"=706
+
+
+--- events ---
+
+"event_id"=132
+"name"="The Cataclysm of Ironspire"
+"event_time"=438
+
+
+--- Enemy ---
+
+"id"=539
+"enemy_name"="Cybernetic Scorpion"
+"enemy_type"="Elemental"
+"hitpoints"=845
+"warcry"="mmugreswotr"
+
+
+--- players ---
+
+"player_id"=277
+"name"="Shaelis"
+"class"="Mage"
+"race"="Orc"
+"health"=491
+"experience"=178
+"starting_region"="Elphora"
+
+
+--- items ---
+
+"item_id"=236
+"type"="Staff"
+"name"="Amulet of the Fallen"
+"description"="npuglaev"
+"cost"=104
+
+
+--- events ---
+
+"event_id"=70
+"name"="Dawn of the Void"
+"event_time"=418
+
+
+--- players ---
+
+"player_id"=84
+"name"="Azalor"
+"class"="Warrior"
+"race"="Human"
+"health"=177
+"experience"=273
+"starting_region"="Valoria"
+
+
+--- races ---
+
+"race_id"=111
+"name"="Orc"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- dialogues ---
+
+"dialogue_id"=543
+"npc_id"=544
+"contents"="To defeat your enemies, you must know them. Even if they are mushrooms!"
+"choice_options"=399
+"emotion"=49
+
+
+--- dialogues ---
+
+"dialogue_id"=484
+"npc_id"=487
+"contents"="Woe be to the adventurer who opens Pandora's Loot Box."
+"choice_options"=671
+"emotion"=490
+
+
+--- npcs ---
+
+"npc_id"=65
+"name"="Lunarion"
+"role"="Shopkeepers"
+"region_id"=318
+"is_fightable"=null
+"description"="rru"
+
+
+--- teams ---
+
+"team_id"=143
+"name"="Eclipse_Archers"
+"members_amount"=67
+
+
+--- classes ---
+
+"class_id"=177
+"class_name"="Warrior"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- players ---
+
+"player_id"=311
+"name"="Faelthorn"
+"class"="Mage"
+"race"="Naga"
+"health"=847
+"experience"=310
+"starting_region"="Elphora"
+
+
+--- Enemy ---
+
+"id"=490
+"enemy_name"="Armored Demon"
+"enemy_type"="Beast"
+"hitpoints"=8
+"warcry"="idwa"
+
+
+--- classes ---
+
+"class_id"=317
+"class_name"="Rogue"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- teams ---
+
+"team_id"=252
+"name"="Fire_Dragons"
+"members_amount"=395
+
+
+--- npcs ---
+
+"npc_id"=125
+"name"="Isolde"
+"role"="Shopkeepers"
+"region_id"=258
+"is_fightable"=null
+"description"="orjao"
+
+
+--- Enemy ---
+
+"id"=524
+"enemy_name"="Mud Troll"
+"enemy_type"="Humanoid"
+"hitpoints"=387
+"warcry"="tkofka"
+
+
+--- fightable_characters ---
+
+"npc_id"=314
+"health"=641
+"reward_experience"=533
+
+
+--- fightable_characters ---
+
+"npc_id"=199
+"health"=303
+"reward_experience"=264
+
+
+--- Enemy ---
+
+"id"=566
+"enemy_name"="Dreaded Chimera"
+"enemy_type"="Humanoid"
+"hitpoints"=428
+"warcry"="oizba"
+
+
+--- events ---
+
+"event_id"=196
+"name"="Quest for the Lost Relics"
+"event_time"=203
+
+
+--- Enemy ---
+
+"id"=476
+"enemy_name"="Infernal Incubus"
+"enemy_type"="Giant"
+"hitpoints"=979
+"warcry"="msadbe"
+
+
+--- dialogues ---
+
+"dialogue_id"=327
+"npc_id"=330
+"contents"="Life is suffering. Have you considered that in your quest for the Sword of Destiny?"
+"choice_options"=472
+"emotion"=336
+
+
+--- players ---
+
+"player_id"=204
+"name"="Seraphix"
+"class"="Rogue"
+"race"="Undead"
+"health"=136
+"experience"=597
+"starting_region"="Cimmeria"
+
+
+--- classes ---
+
+"class_id"=12
+"class_name"="Warrior"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- npcs ---
+
+"npc_id"=86
+"name"="Tyrndar"
+"role"="Lore_Masters"
+"region_id"=124
+"is_fightable"=null
+"description"="akzanroa"
+
+
+--- dialogues ---
+
+"dialogue_id"=510
+"npc_id"=512
+"contents"="Mages get your staffs, warriors get your swords, and rogues, just... go stand in the corner."
+"choice_options"=689
+"emotion"=190
+
+
+--- items ---
+
+"item_id"=200
+"type"="Sword"
+"name"="Greaves of the Vanguard"
+"description"="mgosw"
+"cost"=609
+
+
+--- teams ---
+
+"team_id"=298
+"name"="Jade_Tigers"
+"members_amount"=349
+
+
+--- players ---
+
+"player_id"=168
+"name"="Lunarion"
+"class"="Rogue"
+"race"="Dwarf"
+"health"=5
+"experience"=884
+"starting_region"="Orynthia"
+
+
+--- events ---
+
+"event_id"=208
+"name"="Darkness Over Whitestone"
+"event_time"=162
+
+
+--- classes ---
+
+"class_id"=90
+"class_name"="Healer"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- races ---
+
+"race_id"=85
+"name"="Elf"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- classes ---
+
+"class_id"=135
+"class_name"="Archer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- players ---
+
+"player_id"=181
+"name"="Valthor"
+"class"="Mage"
+"race"="Dwarf"
+"health"=517
+"experience"=201
+"starting_region"="Elphora"
+
+
+--- items ---
+
+"item_id"=39
+"type"="Sword"
+"name"="Sword of the Paladin"
+"description"="uhgapr"
+"cost"=860
+
+
+--- players ---
+
+"player_id"=119
+"name"="Valdrick"
+"class"="Archer"
+"race"="Dwarf"
+"health"=812
+"experience"=496
+"starting_region"="Cimmeria"
+
+
+--- Enemy ---
+
+"id"=649
+"enemy_name"="Haunted Marionette"
+"enemy_type"="Giant"
+"hitpoints"=338
+"warcry"="swecraclan"
+
+
+--- items ---
+
+"item_id"=227
+"type"="Staff"
+"name"="Boots of Celestial Steps"
+"description"="easniyne"
+"cost"=798
+
+
+--- players ---
+
+"player_id"=12
+"name"="Lunarion"
+"class"="Healer"
+"race"="Dwarf"
+"health"=701
+"experience"=4
+"starting_region"="Cimmeria"
+
+
+--- teams ---
+
+"team_id"=151
+"name"="Cosmic_Paladins"
+"members_amount"=392
+
+
+--- classes ---
+
+"class_id"=92
+"class_name"="Healer"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- dialogues ---
+
+"dialogue_id"=126
+"npc_id"=127
+"contents"="Ah, another wanderer looking to buy some potions. Just don't ask what's in them."
+"choice_options"=136
+"emotion"=813
+
+
+--- players ---
+
+"player_id"=32
+"name"="Elira"
+"class"="Archer"
+"race"="Naga"
+"health"=871
+"experience"=74
+"starting_region"="Elphora"
+
+
+--- teams ---
+
+"team_id"=283
+"name"="Lightbringers"
+"members_amount"=125
+
+
+--- players ---
+
+"player_id"=112
+"name"="Orin"
+"class"="Summoner"
+"race"="Naga"
+"health"=719
+"experience"=627
+"starting_region"="Valoria"
+
+
+--- Enemy ---
+
+"id"=576
+"enemy_name"="Cursed Mummy"
+"enemy_type"="Undead"
+"hitpoints"=495
+"warcry"="pgapl"
+
+
+--- guilds ---
+
+"guild_id"=130
+"type"="Mage Training"
+"name"="Heroes of Harmony"
+"description"="voplo"
+
+
+--- teams ---
+
+"team_id"=243
+"name"="WarriorAngels"
+"members_amount"=543
+
+
+--- classes ---
+
+"class_id"=382
+"class_name"="Healer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- dialogues ---
+
+"dialogue_id"=51
+"npc_id"=53
+"contents"="Ugh! Could you BE any slower in finishing this quest?"
+"choice_options"=689
+"emotion"=18
+
+
+--- Enemy ---
+
+"id"=695
+"enemy_name"="Griffon King"
+"enemy_type"="Flora"
+"hitpoints"=520
+"warcry"="tfapbu"
+
+
+--- fightable_characters ---
+
+"npc_id"=347
+"health"=724
+"reward_experience"=704
+
+
+--- dialogues ---
+
+"dialogue_id"=61
+"npc_id"=62
+"contents"="Beyond this gate lies the Abyss. Bring a sweater, it gets chilly."
+"choice_options"=951
+"emotion"=905
+
+
+--- Enemy ---
+
+"id"=589
+"enemy_name"="Night Stalker"
+"enemy_type"="Undead"
+"hitpoints"=814
+"warcry"="usmir"
+
+
+--- events ---
+
+"event_id"=106
+"name"="Quest for the Lost Relics"
+"event_time"=386
+
+
+--- classes ---
+
+"class_id"=181
+"class_name"="Summoner"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- items ---
+
+"item_id"=302
+"type"="Sword"
+"name"="Serpent's Fang Saber"
+"description"="stafuskahh"
+"cost"=593
+
+
+--- players ---
+
+"player_id"=273
+"name"="Zyraziel"
+"class"="Mage"
+"race"="Undead"
+"health"=751
+"experience"=304
+"starting_region"="Elphora"
+
+
+--- teams ---
+
+"team_id"=135
+"name"="ElementalFury"
+"members_amount"=474
+
+
+--- events ---
+
+"event_id"=50
+"name"="Quest for the Lost Relics"
+"event_time"=94
+
+
+--- players ---
+
+"player_id"=281
+"name"="Lythra"
+"class"="Warrior"
+"race"="Elf"
+"health"=150
+"experience"=196
+"starting_region"="Orynthia"
+
+
+--- classes ---
+
+"class_id"=356
+"class_name"="Mage"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- npcs ---
+
+"npc_id"=141
+"name"="Oromis"
+"role"="Lore_Masters"
+"region_id"=834
+"is_fightable"=null
+"description"="vig"
+
+
+--- Enemy ---
+
+"id"=484
+"enemy_name"="Enchanted Treant"
+"enemy_type"="Humanoid"
+"hitpoints"=219
+"warcry"="craet"
+
+
+--- races ---
+
+"race_id"=151
+"name"="Human"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- races ---
+
+"race_id"=21
+"name"="Human"
+"description"="Risen from the dead, masters of dark arts and curses."
+
+
+--- classes ---
+
+"class_id"=102
+"class_name"="Mage"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- dialogues ---
+
+"dialogue_id"=211
+"npc_id"=214
+"contents"="We make a special deal for you, only today, only now: Buy one health potion, get one free!"
+"choice_options"=171
+"emotion"=608
+
+
+--- dialogues ---
+
+"dialogue_id"=312
+"npc_id"=313
+"contents"="I think you're in the wrong game, but hey, as long as you're having fun!"
+"choice_options"=358
+"emotion"=607
+
+
+--- classes ---
+
+"class_id"=385
+"class_name"="Mage"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- items ---
+
+"item_id"=257
+"type"="Staff"
+"name"="Amulet of the Wind Whisperer"
+"description"="smenc"
+"cost"=389
+
+
+--- teams ---
+
+"team_id"=333
+"name"="Ruby_Wizards"
+"members_amount"=425
+
+
+--- dialogues ---
+
+"dialogue_id"=393
+"npc_id"=394
+"contents"="Be yourself; everyone else is already grinding."
+"choice_options"=5
+"emotion"=324
+
+
+--- players ---
+
+"player_id"=355
+"name"="Xaradra"
+"class"="Healer"
+"race"="Orc"
+"health"=502
+"experience"=819
+"starting_region"="Elphora"
+
+
+--- teams ---
+
+"team_id"=379
+"name"="Galactic_Guardians"
+"members_amount"=738
+
+
+--- classes ---
+
+"class_id"=249
+"class_name"="Mage"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- classes ---
+
+"class_id"=20
+"class_name"="Healer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- classes ---
+
+"class_id"=108
+"class_name"="Rogue"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- guilds ---
+
+"guild_id"=95
+"type"="Knowledge"
+"name"="Knights of Valor"
+"description"="ebteqha"
+
+
+--- events ---
+
+"event_id"=223
+"name"="Curse of the Phantom Queen"
+"event_time"=35
+
+
+--- items ---
+
+"item_id"=121
+"type"="Dagger"
+"name"="Scepter of the Forsaken"
+"description"="izno"
+"cost"=157
+
+
+--- fightable_characters ---
+
+"npc_id"=290
+"health"=90
+"reward_experience"=895
+
+
+--- npcs ---
+
+"npc_id"=26
+"name"="Caelthor"
+"role"="Quest-givers"
+"region_id"=799
+"is_fightable"=null
+"description"="bliprufrasce"
+
+
+--- classes ---
+
+"class_id"=174
+"class_name"="Archer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- dialogues ---
+
+"dialogue_id"=555
+"npc_id"=558
+"contents"="Today's forecast: Cloudy with a chance of dragon attacks."
+"choice_options"=410
+"emotion"=93
+
+
+--- teams ---
+
+"team_id"=4
+"name"="Arcane_Artists"
+"members_amount"=281
+
+
+--- dialogues ---
+
+"dialogue_id"=453
+"npc_id"=454
+"contents"="The essence of combat: kill, or be killed."
+"choice_options"=790
+"emotion"=950
+
+
+--- guilds ---
+
+"guild_id"=116
+"type"="Crafting"
+"name"="Elixir Masters"
+"description"="craa"
+
+
+--- teams ---
+
+"team_id"=361
+"name"="Lunar_Army"
+"members_amount"=64
+
+
+--- teams ---
+
+"team_id"=133
+"name"="Ethereal_Sages"
+"members_amount"=746
+
+
+--- npcs ---
+
+"npc_id"=32
+"name"="Faelthorn"
+"role"="Skill_Trainers"
+"region_id"=468
+"is_fightable"=null
+"description"="itrumbesw"
+
+
+--- guilds ---
+
+"guild_id"=105
+"type"="Spying"
+"name"="Thieves of Time"
+"description"="usliclegrio"
+
+
+--- Enemy ---
+
+"id"=629
+"enemy_name"="Corrupted Paladin"
+"enemy_type"="Swarm"
+"hitpoints"=656
+"warcry"="stivaesluk"
+
+
+--- fightable_characters ---
+
+"npc_id"=234
+"health"=37
+"reward_experience"=482
+
+
+--- races ---
+
+"race_id"=193
+"name"="Dwarf"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- players ---
+
+"player_id"=161
+"name"="Aethor"
+"class"="Rogue"
+"race"="Elf"
+"health"=749
+"experience"=351
+"starting_region"="Elphora"
+
+
+--- classes ---
+
+"class_id"=307
+"class_name"="Archer"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- classes ---
+
+"class_id"=314
+"class_name"="Rogue"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- teams ---
+
+"team_id"=389
+"name"="Spellbinders"
+"members_amount"=920
+
+
+--- dialogues ---
+
+"dialogue_id"=584
+"npc_id"=587
+"contents"="Two things are infinite: the universe and the respawn timer; and I'm not sure about the universe."
+"choice_options"=57
+"emotion"=135
+
+
+--- items ---
+
+"item_id"=333
+"type"="Amulet"
+"name"="Chronomancer's Sandglass"
+"description"="skeetr"
+"cost"=679
+
+
+--- items ---
+
+"item_id"=137
+"type"="Shield"
+"name"="Necklace of the Mermaid"
+"description"="oajq"
+"cost"=965
+
+
+--- classes ---
+
+"class_id"=93
+"class_name"="Archer"
+"description"="Specializes in tanking damage and close combat."
+
+
+--- Enemy ---
+
+"id"=706
+"enemy_name"="Venomous Serpent"
+"enemy_type"="Elemental"
+"hitpoints"=235
+"warcry"="tpa"
+
+
+--- guilds ---
+
+"guild_id"=152
+"type"="Healing"
+"name"="Council of Elders"
+"description"="hqoble"
+
+
+--- teams ---
+
+"team_id"=74
+"name"="Thunderbolts"
+"members_amount"=540
+
+
+--- teams ---
+
+"team_id"=284
+"name"="Dark_Crusaders"
+"members_amount"=147
+
+
+--- dialogues ---
+
+"dialogue_id"=201
+"npc_id"=202
+"contents"="Yo, fam! Don't forget to like and subscribe before you head to the Dark Forest!"
+"choice_options"=505
+"emotion"=239
+
+
+--- dialogues ---
+
+"dialogue_id"=645
+"npc_id"=646
+"contents"="Beyond this gate lies the Abyss. Bring a sweater, it gets chilly."
+"choice_options"=622
+"emotion"=424
+
+
+--- fightable_characters ---
+
+"npc_id"=295
+"health"=959
+"reward_experience"=538
+
+
+--- events ---
+
+"event_id"=164
+"name"="Blood Moon Rising"
+"event_time"=560
+
+
+--- events ---
+
+"event_id"=178
+"name"="The Scarlet Eclipse"
+"event_time"=670
+
+
+--- teams ---
+
+"team_id"=319
+"name"="Venom_Serpents"
+"members_amount"=546
+
+
+--- fightable_characters ---
+
+"npc_id"=170
+"health"=537
+"reward_experience"=227
+
+
+--- fightable_characters ---
+
+"npc_id"=153
+"health"=594
+"reward_experience"=372
+
+
+--- teams ---
+
+"team_id"=85
+"name"="Nebula_Ninjas"
+"members_amount"=359
+
+
+--- Enemy ---
+
+"id"=468
+"enemy_name"="Dark Sorcerer"
+"enemy_type"="Magical"
+"hitpoints"=226
+"warcry"="rzu"
+
+
+--- guilds ---
+
+"guild_id"=114
+"type"="Mage Training"
+"name"="Mercenaries of Fortune"
+"description"="nmilqu"
+
+
+--- events ---
+
+"event_id"=138
+"name"="Titan's Demise"
+"event_time"=190
+
+
+--- players ---
+
+"player_id"=69
+"name"="Aeriana"
+"class"="Healer"
+"race"="Human"
+"health"=166
+"experience"=770
+"starting_region"="Elphora"
+
+
+--- teams ---
+
+"team_id"=210
+"name"="Opal_Oracles"
+"members_amount"=127
+
+
+--- classes ---
+
+"class_id"=136
+"class_name"="Mage"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- dialogues ---
+
+"dialogue_id"=307
+"npc_id"=309
+"contents"="The unexamined quest is not worth grinding."
+"choice_options"=807
+"emotion"=707
+
+
+--- dialogues ---
+
+"dialogue_id"=69
+"npc_id"=72
+"contents"="Ain't no party like a dungeon crawl party 'cause a dungeon crawl party don't stop until everyone's encumbered."
+"choice_options"=467
+"emotion"=849
+
+
+--- teams ---
+
+"team_id"=238
+"name"="Ethereal_Sages"
+"members_amount"=805
+
+
+--- events ---
+
+"event_id"=161
+"name"="Storm of the Dead"
+"event_time"=356
+
+
+--- dialogues ---
+
+"dialogue_id"=2
+"npc_id"=3
+"contents"="Ugh! Could you BE any slower in finishing this quest?"
+"choice_options"=75
+"emotion"=327
+
+
+--- Enemy ---
+
+"id"=580
+"enemy_name"="Death Reaper"
+"enemy_type"="Undead"
+"hitpoints"=727
+"warcry"="fuacaaz"
+
+
+--- items ---
+
+"item_id"=89
+"type"="Amulet"
+"name"="Scroll of the Phoenix"
+"description"="uwd"
+"cost"=874
+
+
+--- players ---
+
+"player_id"=242
+"name"="Nymriel"
+"class"="Summoner"
+"race"="Undead"
+"health"=880
+"experience"=869
+"starting_region"="Elphora"
+
+
+--- classes ---
+
+"class_id"=238
+"class_name"="Archer"
+"description"="Summons minions to aid in combat."
+
+
+--- races ---
+
+"race_id"=63
+"name"="Elf"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- players ---
+
+"player_id"=164
+"name"="Aerendir"
+"class"="Summoner"
+"race"="Elf"
+"health"=145
+"experience"=406
+"starting_region"="Valoria"
+
+
+--- teams ---
+
+"team_id"=40
+"name"="Cobalt_Crusaders"
+"members_amount"=798
+
+
+--- items ---
+
+"item_id"=304
+"type"="Shield"
+"name"="Guardian's Shield"
+"description"="swoustabq"
+"cost"=697
+
+
+--- classes ---
+
+"class_id"=133
+"class_name"="Rogue"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- classes ---
+
+"class_id"=128
+"class_name"="Rogue"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- players ---
+
+"player_id"=25
+"name"="Endora"
+"class"="Rogue"
+"race"="Dwarf"
+"health"=814
+"experience"=743
+"starting_region"="Orynthia"
+
+
+--- teams ---
+
+"team_id"=188
+"name"="Sapphire_Sorcerers"
+"members_amount"=308
+
+
+--- classes ---
+
+"class_id"=333
+"class_name"="Rogue"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- classes ---
+
+"class_id"=215
+"class_name"="Mage"
+"description"="Summons minions to aid in combat."
+
+
+--- races ---
+
+"race_id"=95
+"name"="Elf"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- dialogues ---
+
+"dialogue_id"=18
+"npc_id"=21
+"contents"="Look in the mirror... that's your only competition in this game."
+"choice_options"=103
+"emotion"=315
+
+
+--- players ---
+
+"player_id"=65
+"name"="Faelthorn"
+"class"="Rogue"
+"race"="Orc"
+"health"=456
+"experience"=164
+"starting_region"="Elphora"
+
+
+--- items ---
+
+"item_id"=145
+"type"="Bow"
+"name"="Boots of Celestial Steps"
+"description"="oeztebra"
+"cost"=327
+
+
+--- classes ---
+
+"class_id"=389
+"class_name"="Archer"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- Enemy ---
+
+"id"=571
+"enemy_name"="Spiked Behemoth"
+"enemy_type"="Humanoid"
+"hitpoints"=90
+"warcry"="bzogro"
+
+
+--- guilds ---
+
+"guild_id"=118
+"type"="Knowledge"
+"name"="Elixir Masters"
+"description"="aaplabl"
+
+
+--- races ---
+
+"race_id"=170
+"name"="Orc"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- items ---
+
+"item_id"=224
+"type"="Sword"
+"name"="Gauntlets of the Titan"
+"description"="dasnaots"
+"cost"=518
+
+
+--- teams ---
+
+"team_id"=254
+"name"="CosmicVoyagers"
+"members_amount"=896
+
+
+--- teams ---
+
+"team_id"=215
+"name"="Void_Walkers"
+"members_amount"=388
+
+
+--- items ---
+
+"item_id"=88
+"type"="Potion"
+"name"="Demon's Blood Elixir"
+"description"="uploufbo"
+"cost"=17
+
+
+--- Enemy ---
+
+"id"=451
+"enemy_name"="Enraged Cyclops"
+"enemy_type"="Humanoid"
+"hitpoints"=582
+"warcry"="ifragrotra"
+
+
+--- npcs ---
+
+"npc_id"=80
+"name"="Xyphera"
+"role"="Shopkeepers"
+"region_id"=540
+"is_fightable"=null
+"description"="yrou"
+
+
+--- Enemy ---
+
+"id"=430
+"enemy_name"="Shadow Stalker"
+"enemy_type"="Beast"
+"hitpoints"=591
+"warcry"="pliw"
+
+
+--- npcs ---
+
+"npc_id"=93
+"name"="Saphyra"
+"role"="Quest-givers"
+"region_id"=900
+"is_fightable"=null
+"description"="wgewu"
+
+
+--- guilds ---
+
+"guild_id"=68
+"type"="Knowledge"
+"name"="The Wanderers"
+"description"="gousnagk"
+
+
+--- races ---
+
+"race_id"=109
+"name"="Elf"
+"description"="Serpentine creatures adept in both magic and combat."
+
+
+--- guilds ---
+
+"guild_id"=33
+"type"="Healing"
+"name"="Abyss Watchers"
+"description"="eclupr"
+
+
+--- dialogues ---
+
+"dialogue_id"=652
+"npc_id"=654
+"contents"="What's up, heroes! Use code 'EPICQUEST' for 10% off your next in-game purchase!"
+"choice_options"=55
+"emotion"=207
+
+
+--- teams ---
+
+"team_id"=24
+"name"="RavenWings"
+"members_amount"=989
+
+
+--- npcs ---
+
+"npc_id"=142
+"name"="Illinor"
+"role"="Skill_Trainers"
+"region_id"=176
+"is_fightable"=null
+"description"="ztoabicx"
+
+
+--- dialogues ---
+
+"dialogue_id"=401
+"npc_id"=404
+"contents"="Our kingdom is in peril! But first, let's take a selfie."
+"choice_options"=578
+"emotion"=608
+
+
+--- players ---
+
+"player_id"=325
+"name"="Gorgrim"
+"class"="Mage"
+"race"="Dwarf"
+"health"=857
+"experience"=99
+"starting_region"="Cimmeria"
+
+
+--- npcs ---
+
+"npc_id"=103
+"name"="Tyrndar"
+"role"="Skill_Trainers"
+"region_id"=818
+"is_fightable"=null
+"description"="eugl"
+
+
+--- dialogues ---
+
+"dialogue_id"=734
+"npc_id"=735
+"contents"="OMG, you guys! This dungeon is sooo lit! #BestDungeonEver"
+"choice_options"=546
+"emotion"=613
+
+
+--- races ---
+
+"race_id"=163
+"name"="Naga"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- npcs ---
+
+"npc_id"=42
+"name"="Zyraziel"
+"role"="Quest-givers"
+"region_id"=314
+"is_fightable"=null
+"description"="smocl"
+
+
+--- fightable_characters ---
+
+"npc_id"=315
+"health"=856
+"reward_experience"=823
+
+
+--- teams ---
+
+"team_id"=159
+"name"="Shadow_Assassins"
+"members_amount"=403
+
+
+--- classes ---
+
+"class_id"=402
+"class_name"="Warrior"
+"description"="Excels at long-range damage with various types of arrows."
+
+
+--- teams ---
+
+"team_id"=277
+"name"="BladeMasters"
+"members_amount"=775
+
+
+--- races ---
+
+"race_id"=79
+"name"="Dwarf"
+"description"="Brutal and strong, excelling in physical combat."
+
+
+--- fightable_characters ---
+
+"npc_id"=218
+"health"=765
+"reward_experience"=140
+
+
+--- fightable_characters ---
+
+"npc_id"=387
+"health"=320
+"reward_experience"=571
+
+
+--- players ---
+
+"player_id"=68
+"name"="Jadefang"
+"class"="Warrior"
+"race"="Naga"
+"health"=15
+"experience"=274
+"starting_region"="Orynthia"
+
+
+--- classes ---
+
+"class_id"=351
+"class_name"="Archer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- fightable_characters ---
+
+"npc_id"=366
+"health"=998
+"reward_experience"=525
+
+
+--- fightable_characters ---
+
+"npc_id"=352
+"health"=815
+"reward_experience"=542
+
+
+--- fightable_characters ---
+
+"npc_id"=157
+"health"=142
+"reward_experience"=906
+
+
+--- Enemy ---
+
+"id"=675
+"enemy_name"="Forest Spirit"
+"enemy_type"="Humanoid"
+"hitpoints"=629
+"warcry"="scinnu"
+
+
+--- events ---
+
+"event_id"=209
+"name"="Warsong's End"
+"event_time"=994
+
+
+--- teams ---
+
+"team_id"=68
+"name"="Void_Walkers"
+"members_amount"=215
+
+
+--- players ---
+
+"player_id"=348
+"name"="Faelthorn"
+"class"="Warrior"
+"race"="Elf"
+"health"=244
+"experience"=830
+"starting_region"="Orynthia"
+
+
+--- items ---
+
+"item_id"=99
+"type"="Potion"
+"name"="Cursed Bone Necklace"
+"description"="nomi"
+"cost"=844
+
+
+--- players ---
+
+"player_id"=133
+"name"="Sarthon"
+"class"="Archer"
+"race"="Elf"
+"health"=354
+"experience"=600
+"starting_region"="Elphora"
+
+
+--- dialogues ---
+
+"dialogue_id"=338
+"npc_id"=340
+"contents"="It's-a me! Are you ready to jump into the next adventure?"
+"choice_options"=36
+"emotion"=82
+
+
+--- guilds ---
+
+"guild_id"=15
+"type"="Trading"
+"name"="Abyss Watchers"
+"description"="uuswesnadr"
+
+
+--- guilds ---
+
+"guild_id"=22
+"type"="Healing"
+"name"="Ocean's Children"
+"description"="hbeosmegs"
+
+
+--- classes ---
+
+"class_id"=197
+"class_name"="Mage"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- fightable_characters ---
+
+"npc_id"=230
+"health"=352
+"reward_experience"=483
+
+
+--- races ---
+
+"race_id"=12
+"name"="Dwarf"
+"description"="Versatile and adaptive, excelling in various crafts and trades."
+
+
+--- players ---
+
+"player_id"=158
+"name"="Raelis"
+"class"="Healer"
+"race"="Elf"
+"health"=521
+"experience"=172
+"starting_region"="Elphora"
+
+
+--- classes ---
+
+"class_id"=250
+"class_name"="Warrior"
+"description"="Summons minions to aid in combat."
+
+
+--- classes ---
+
+"class_id"=292
+"class_name"="Summoner"
+"description"="Summons minions to aid in combat."
+
+
+--- fightable_characters ---
+
+"npc_id"=264
+"health"=800
+"reward_experience"=80
+
+
+--- items ---
+
+"item_id"=343
+"type"="Amulet"
+"name"="Guardian's Shield"
+"description"="sleahkie"
+"cost"=448
+
+
+--- fightable_characters ---
+
+"npc_id"=298
+"health"=40
+"reward_experience"=403
+
+
+--- events ---
+
+"event_id"=82
+"name"="Chaos in the Windy Crag"
+"event_time"=575
+
+
+--- fightable_characters ---
+
+"npc_id"=304
+"health"=69
+"reward_experience"=663
+
+
+--- fightable_characters ---
+
+"npc_id"=243
+"health"=481
+"reward_experience"=274
+
+
+--- teams ---
+
+"team_id"=239
+"name"="NebulaSeekers"
+"members_amount"=71
+
+
+--- items ---
+
+"item_id"=293
+"type"="Bow"
+"name"="Robe of the Sage"
+"description"="equswosp"
+"cost"=288
+
+
+--- players ---
+
+"player_id"=128
+"name"="Thaldor"
+"class"="Healer"
+"race"="Orc"
+"health"=377
+"experience"=656
+"starting_region"="Valoria"
+
+
+--- guilds ---
+
+"guild_id"=107
+"type"="Healing"
+"name"="Dragon Slayers"
+"description"="greegrofro"
+
+
+--- players ---
+
+"player_id"=8
+"name"="Lyrielle"
+"class"="Archer"
+"race"="Orc"
+"health"=838
+"experience"=962
+"starting_region"="Elphora"
+
+
+--- Enemy ---
+
+"id"=574
+"enemy_name"="Undead Pirate"
+"enemy_type"="Construct"
+"hitpoints"=49
+"warcry"="smai"
+
+
+--- classes ---
+
+"class_id"=295
+"class_name"="Archer"
+"description"="Summons minions to aid in combat."
+
+
+--- dialogues ---
+
+"dialogue_id"=737
+"npc_id"=739
+"contents"="Whoa! You just hit level 20? That's sooo aesthetic! #LevelUpGoals"
+"choice_options"=647
+"emotion"=906
+
+
+--- items ---
+
+"item_id"=285
+"type"="Amulet"
+"name"="Quicksilver Bullets"
+"description"="jni"
+"cost"=510
+
+
+--- classes ---
+
+"class_id"=188
+"class_name"="Rogue"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- teams ---
+
+"team_id"=224
+"name"="Dark_Crusaders"
+"members_amount"=968
+
+
+--- fightable_characters ---
+
+"npc_id"=371
+"health"=641
+"reward_experience"=14
+
+
+--- Enemy ---
+
+"id"=501
+"enemy_name"="Fallen Archangel"
+"enemy_type"="Dragon"
+"hitpoints"=474
+"warcry"="cleasc"
+
+
+--- guilds ---
+
+"guild_id"=16
+"type"="Questing"
+"name"="Mercenaries of Fortune"
+"description"="sneusnixl"
+
+
+--- dialogues ---
+
+"dialogue_id"=270
+"npc_id"=273
+"contents"="Between the idea and the reality, between the potion and the effect, falls the lag."
+"choice_options"=5
+"emotion"=239
+
+
+--- classes ---
+
+"class_id"=157
+"class_name"="Healer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- teams ---
+
+"team_id"=180
+"name"="Elemental_Force"
+"members_amount"=702
+
+
+--- teams ---
+
+"team_id"=35
+"name"="Templar_Order"
+"members_amount"=411
+
+
+--- events ---
+
+"event_id"=73
+"name"="Escape from Shadow Hold"
+"event_time"=499
+
+
+--- players ---
+
+"player_id"=338
+"name"="Keldra"
+"class"="Mage"
+"race"="Orc"
+"health"=209
+"experience"=182
+"starting_region"="Orynthia"
+
+
+--- Enemy ---
+
+"id"=619
+"enemy_name"="Dark Sorcerer"
+"enemy_type"="Giant"
+"hitpoints"=938
+"warcry"="dok"
+
+
+--- items ---
+
+"item_id"=358
+"type"="Dagger"
+"name"="Tome of the Elders"
+"description"="mfo"
+"cost"=843
+
+
+--- items ---
+
+"item_id"=266
+"type"="Amulet"
+"name"="Orb of Chaos"
+"description"="qsed"
+"cost"=698
+
+
+--- fightable_characters ---
+
+"npc_id"=274
+"health"=812
+"reward_experience"=203
+
+
+--- dialogues ---
+
+"dialogue_id"=158
+"npc_id"=160
+"contents"="The essence of combat: kill, or be killed."
+"choice_options"=515
+"emotion"=479
+
+
+--- races ---
+
+"race_id"=191
+"name"="Dwarf"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- Enemy ---
+
+"id"=627
+"enemy_name"="Cursed Samurai"
+"enemy_type"="Magical"
+"hitpoints"=789
+"warcry"="qudra"
+
+
+--- guilds ---
+
+"guild_id"=8
+"type"="Questing"
+"name"="Gold Brokers"
+"description"="skeiclivje"
+
+
+--- Enemy ---
+
+"id"=456
+"enemy_name"="Night Stalker"
+"enemy_type"="Magical"
+"hitpoints"=247
+"warcry"="obraekza"
+
+
+--- Enemy ---
+
+"id"=569
+"enemy_name"="Frostbite Scorpion"
+"enemy_type"="Swarm"
+"hitpoints"=544
+"warcry"="spauw"
+
+
+--- teams ---
+
+"team_id"=329
+"name"="Shadow_Assassins"
+"members_amount"=545
+
+
+--- dialogues ---
+
+"dialogue_id"=500
+"npc_id"=501
+"contents"="Yo, fam! Don't forget to like and subscribe before you head to the Dark Forest!"
+"choice_options"=260
+"emotion"=1
+
+
+--- guilds ---
+
+"guild_id"=83
+"type"="Exploration"
+"name"="Guardians of Light"
+"description"="bleogi"
+
+
+--- Enemy ---
+
+"id"=696
+"enemy_name"="Cybernetic Scorpion"
+"enemy_type"="Giant"
+"hitpoints"=446
+"warcry"="octaefl"
+
+
+--- dialogues ---
+
+"dialogue_id"=345
+"npc_id"=347
+"contents"="Y'arrr, what be ye doin' in these parts? Ah, treasure hunting, I see. Well, X marks the spot... or was it Y?"
+"choice_options"=213
+"emotion"=653
+
+
+--- Enemy ---
+
+"id"=543
+"enemy_name"="Crystal Gargoyle"
+"enemy_type"="Undead"
+"hitpoints"=766
+"warcry"="udsiskougl"
+
+
+--- classes ---
+
+"class_id"=113
+"class_name"="Archer"
+"description"="Focuses on healing and buffing teammates."
+
+
+--- Enemy ---
+
+"id"=500
+"enemy_name"="Crystal Dragon"
+"enemy_type"="Construct"
+"hitpoints"=247
+"warcry"="giablabr"
+
+
+--- npcs ---
+
+"npc_id"=20
+"name"="Isolde"
+"role"="Lore_Masters"
+"region_id"=390
+"is_fightable"=null
+"description"="iafluq"
+
+
+--- classes ---
+
+"class_id"=372
+"class_name"="Healer"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- teams ---
+
+"team_id"=290
+"name"="Opal_Oracles"
+"members_amount"=554
+
+
+--- teams ---
+
+"team_id"=34
+"name"="Wind_Dancers"
+"members_amount"=120
+
+
+--- races ---
+
+"race_id"=56
+"name"="Dwarf"
+"description"="Graceful beings connected with nature and magic."
+
+
+--- events ---
+
+"event_id"=23
+"name"="The Scarlet Eclipse"
+"event_time"=560
+
+
+--- items ---
+
+"item_id"=240
+"type"="Sword"
+"name"="Windfury Longsword"
+"description"="speecree"
+"cost"=634
+
+
+--- players ---
+
+"player_id"=15
+"name"="Raelan"
+"class"="Summoner"
+"race"="Human"
+"health"=379
+"experience"=974
+"starting_region"="Elphora"
+
+
+--- fightable_characters ---
+
+"npc_id"=261
+"health"=981
+"reward_experience"=410
+
+
+--- players ---
+
+"player_id"=387
+"name"="Daelis"
+"class"="Healer"
+"race"="Undead"
+"health"=425
+"experience"=787
+"starting_region"="Orynthia"
+
+
+--- guilds ---
+
+"guild_id"=79
+"type"="Crafting"
+"name"="Heart of Courage"
+"description"="praizy"
+
+
+--- dialogues ---
+
+"dialogue_id"=22
+"npc_id"=24
+"contents"="You must collect the seven artifacts of power! And maybe some milk on your way back?"
+"choice_options"=68
+"emotion"=634
+
+
+--- races ---
+
+"race_id"=129
+"name"="Dwarf"
+"description"="Risen from the dead, masters of dark arts and curses."
+
+
+--- guilds ---
+
+"guild_id"=100
+"type"="Spying"
+"name"="Defenders of Destiny"
+"description"="ilju"
+
+
+--- fightable_characters ---
+
+"npc_id"=188
+"health"=97
+"reward_experience"=855
+
+
+--- dialogues ---
+
+"dialogue_id"=357
+"npc_id"=360
+"contents"="Ah, the wind whispers of your coming, brave adventurer! How may Old Gregg assist you today?"
+"choice_options"=548
+"emotion"=497
+
+
+--- guilds ---
+
+"guild_id"=93
+"type"="Crafting"
+"name"="Thieves of Time"
+"description"="dwo"
+
+
+--- fightable_characters ---
+
+"npc_id"=311
+"health"=216
+"reward_experience"=804
+
+
+--- dialogues ---
+
+"dialogue_id"=685
+"npc_id"=686
+"contents"="Welcome, welcome! Do you come often? No, really, how often?"
+"choice_options"=70
+"emotion"=182
+
+
+--- classes ---
+
+"class_id"=392
+"class_name"="Summoner"
+"description"="Skilled in stealth and quick, deadly attacks."
+
+
+--- Enemy ---
+
+"id"=478
+"enemy_name"="Plague Rat"
+"enemy_type"="Magical"
+"hitpoints"=660
+"warcry"="efrae"
+
+
+--- fightable_characters ---
+
+"npc_id"=386
+"health"=381
+"reward_experience"=341
+
+
+--- classes ---
+
+"class_id"=298
+"class_name"="Summoner"
+"description"="Offers both damage and support through a variety of spells."
+
+
+--- teams ---
+
+"team_id"=345
+"name"="Astral_Crusaders"
+"members_amount"=93
+
+
+--- Enemy ---
+
+"id"=559
+"enemy_name"="Winged Serpent"
+"enemy_type"="Magical"
+"hitpoints"=621
+"warcry"="osmideblif"
+
+
