@@ -9,11 +9,10 @@ class DataFormatter:
 
         # Only letter characters should stay in the line
         for letter in line:
-            if letter.isalpha():
+            if letter != "-":
                 result += letter
 
-        # change it to lower case
-        return result.lower()
+        return result.lower().strip()
 
     # Performs formatting for the line which represents field of an entity
     @staticmethod

@@ -1,51 +1,47 @@
-from data_parser import DataFormatter
+from data_formatter import DataFormatter
+from data_parser import DataParser
 import mysql.connector
 
-class DataInserter:
 
-    def get_dictionary_name(jsonified_data, dictionary):
+class DataInserter:
+    @staticmethod
+    def get_dictionary_name(dictionary):
         name = dictionary.get("entity_name")
         return name
 
+    @staticmethod
     def iterator(jsonified_data):
+        placeholders = ["enemy"]
 
         for dictionary in jsonified_data:
-            name = jsonified_data.get_dictionary_name(dictionary)
+            name = DataInserter.get_dictionary_name(dictionary)
 
-            if name == "npc":
-                table_name = "npcs"
-            elif name == "enemy":
-                table_name = "fightable_characters"
-            # elif name == "vendors":
-            elif name == "guildname":
-                table_name == "quilds"
-            elif name == "event":
-                table_name == "events"
-            # elif name == "questions"
-            elif name == "team":
-                table_name == "teams"
-            elif name == "item":
-                table_name == "items"
-            elif name == "character":
-                table_name == "players"
+            if name not in placeholders:
+                DataInserter.insert_data_into_table(dictionary, name)
 
-            jsonified_data.insert_data_into_table(dictionary, table_name)
-
+    @staticmethod
     def insert_data_into_table(data, table_name):
         try:
             db = mysql.connector.connect(
-                host="your_host",
-                user="your_user",
-                password="your_password",
-                database="your_database"
+                host="127.0.0.1",
+                user="bober",
+                password="2211",
+                database="mystic_quest",
+                port="2211"
             )
             cursor = db.cursor()
 
-            insert_query = f"INSERT INTO {table_name} ("
-            insert_query += ", ".join(data.keys()) + ") VALUES ("
-            insert_query += ", ".join(['%s'] * len(data)) + ")"
+            data_to_insert = data.copy()
+            del data_to_insert["entity_name"]
 
-            data_values = tuple(data.values())
+            insert_query = f"INSERT INTO {table_name} ("
+            insert_query += ", ".join(data_to_insert.keys()) + ") VALUES ("
+            insert_query += ", ".join(['%s'] * len(data_to_insert)) + ")"
+
+            data_values = tuple(data_to_insert.values())
+
+            # if table_name not in ["fightable_characters"]:
+            #     return
 
             cursor.execute(insert_query, data_values)
 
@@ -57,3 +53,11 @@ class DataInserter:
 
         except Exception as e:
             print(f"Error inserting data into '{table_name}': {e}")
+            # raise e
+
+
+path = "C:\\PythonWorkspace\\DatabasesPY\\mystic_quest\\entities_creation\\generated_entities.txt"
+# print(*DataParser.parse_file_to_dict(path), sep="\n")
+data = DataParser.parse_file_to_dict(path)
+
+DataInserter.iterator(data)

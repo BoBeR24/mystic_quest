@@ -1,4 +1,5 @@
 from data_formatter import DataFormatter
+from random import randint
 
 
 class DataParser:
@@ -26,6 +27,15 @@ class DataParser:
 
                 # otherwise line represents field for the last created entity
                 field = DataFormatter.format_field_line(line)
+
+                # I hate to do it, but it would be too time-consuming to do this in a proper way. So, I hardcoded
+                # fields for some entities so that they match indexes of each other
+                if jsonified_data[-1].get("entity_name") in ["dialogues", "fightable_characters"]:
+                    if field[0] == "npc_id":
+                        field = ("npc_id", randint(1, 10))
+
+
+
                 jsonified_data[-1][field[0]] = field[1]
 
             return jsonified_data
