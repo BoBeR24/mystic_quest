@@ -1,4 +1,3 @@
-from data_formatter import DataFormatter
 from data_parser import DataParser
 import mysql.connector
 
@@ -40,9 +39,6 @@ class DataInserter:
 
             data_values = tuple(data_to_insert.values())
 
-            # if table_name not in ["fightable_characters"]:
-            #     return
-
             cursor.execute(insert_query, data_values)
 
             db.commit()
@@ -53,11 +49,11 @@ class DataInserter:
 
         except Exception as e:
             print(f"Error inserting data into '{table_name}': {e}")
-            # raise e
 
 
-path = "C:\\PythonWorkspace\\DatabasesPY\\mystic_quest\\entities_creation\\generated_entities.txt"
-# print(*DataParser.parse_file_to_dict(path), sep="\n")
-data = DataParser.parse_file_to_dict(path)
+# DON'T FORGET TO REPLACE PATH WITH YOUR OWN
+if __name__ == "__main__":
+    path = "C:\\PythonWorkspace\\DatabasesPY\\mystic_quest\\entities_creation\\generated_entities.txt"
+    data = DataParser.parse_file_to_dict(path)
 
-DataInserter.iterator(data)
+    DataInserter.iterator(data)
